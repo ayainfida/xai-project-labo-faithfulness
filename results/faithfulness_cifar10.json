@@ -1,0 +1,4502 @@
+[
+  {
+    "img": "fighter_s_000586.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2096,
+    "top5": [
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.2232,
+        "llava_p_yes": 0.63,
+        "llava_margin": 0.531,
+        "visible": true
+      },
+      {
+        "concept": "large windows/center> sentence>the overall configuration is a classic delta or swept-wing design, optimized for speed and altitude",
+        "clip_score": 0.2302,
+        "llava_p_yes": 0.086,
+        "llava_margin": -2.359,
+        "visible": false
+      },
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.2091,
+        "llava_p_yes": 0.619,
+        "llava_margin": 0.484,
+        "visible": true
+      },
+      {
+        "concept": "form testament to the pursuit of speed and efficient travel through the skies",
+        "clip_score": 0.1877,
+        "llava_p_yes": 0.4,
+        "llava_margin": -0.406,
+        "visible": false
+      },
+      {
+        "concept": "two horizontal stabilizers, forming the empennage",
+        "clip_score": 0.1978,
+        "llava_p_yes": 0.496,
+        "llava_margin": -0.016,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "attack_aircraft_s_000803.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2004,
+    "top5": [
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.2202,
+        "llava_p_yes": 0.396,
+        "llava_margin": -0.422,
+        "visible": false
+      },
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.205,
+        "llava_p_yes": 0.551,
+        "llava_margin": 0.203,
+        "visible": true
+      },
+      {
+        "concept": "even at rest on the tarmac",
+        "clip_score": 0.1928,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      },
+      {
+        "concept": "provide lift for flight",
+        "clip_score": 0.1932,
+        "llava_p_yes": 0.331,
+        "llava_margin": -0.703,
+        "visible": false
+      },
+      {
+        "concept": "wings are typically swept back",
+        "clip_score": 0.1909,
+        "llava_p_yes": 0.555,
+        "llava_margin": 0.219,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "fighter_aircraft_s_001541.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.197,
+    "top5": [
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.2065,
+        "llava_p_yes": 0.712,
+        "llava_margin": 0.906,
+        "visible": true
+      },
+      {
+        "concept": "wings are typically swept back",
+        "clip_score": 0.1962,
+        "llava_p_yes": 0.589,
+        "llava_margin": 0.359,
+        "visible": true
+      },
+      {
+        "concept": "splinter\" or \"dazzle\" camouflage",
+        "clip_score": 0.2022,
+        "llava_p_yes": 0.237,
+        "llava_margin": -1.172,
+        "visible": false
+      },
+      {
+        "concept": "landing gear, retracted during flight, forms sturdy supports underneath",
+        "clip_score": 0.1887,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      },
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.1913,
+        "llava_p_yes": 0.389,
+        "llava_margin": -0.453,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fighter_aircraft_s_001550.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2,
+    "top5": [
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.2114,
+        "llava_p_yes": 0.811,
+        "llava_margin": 1.453,
+        "visible": true
+      },
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.203,
+        "llava_p_yes": 0.793,
+        "llava_margin": 1.344,
+        "visible": true
+      },
+      {
+        "concept": "large windows/center> sentence>the overall configuration is a classic delta or swept-wing design, optimized for speed and altitude",
+        "clip_score": 0.2027,
+        "llava_p_yes": 0.194,
+        "llava_margin": -1.422,
+        "visible": false
+      },
+      {
+        "concept": "brilliant blue of the aircraft",
+        "clip_score": 0.2007,
+        "llava_p_yes": 0.144,
+        "llava_margin": -1.781,
+        "visible": false
+      },
+      {
+        "concept": "provide lift for flight",
+        "clip_score": 0.1822,
+        "llava_p_yes": 0.415,
+        "llava_margin": -0.344,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "airbus_s_000312.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2132,
+    "top5": [
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.2251,
+        "llava_p_yes": 0.85,
+        "llava_margin": 1.734,
+        "visible": true
+      },
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.21,
+        "llava_p_yes": 0.604,
+        "llava_margin": 0.422,
+        "visible": true
+      },
+      {
+        "concept": "two horizontal stabilizers, forming the empennage",
+        "clip_score": 0.2148,
+        "llava_p_yes": 0.288,
+        "llava_margin": -0.906,
+        "visible": false
+      },
+      {
+        "concept": "brilliant blue of the aircraft",
+        "clip_score": 0.2187,
+        "llava_p_yes": 0.423,
+        "llava_margin": -0.312,
+        "visible": false
+      },
+      {
+        "concept": "provide lift for flight",
+        "clip_score": 0.1972,
+        "llava_p_yes": 0.637,
+        "llava_margin": 0.562,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "stealth_fighter_s_000532.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2052,
+    "top5": [
+      {
+        "concept": "provide lift for flight",
+        "clip_score": 0.2088,
+        "llava_p_yes": 0.078,
+        "llava_margin": -2.469,
+        "visible": false
+      },
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.205,
+        "llava_p_yes": 0.396,
+        "llava_margin": -0.422,
+        "visible": false
+      },
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.1991,
+        "llava_p_yes": 0.633,
+        "llava_margin": 0.547,
+        "visible": true
+      },
+      {
+        "concept": "large windows/center> sentence>the overall configuration is a classic delta or swept-wing design, optimized for speed and altitude",
+        "clip_score": 0.2043,
+        "llava_p_yes": 0.102,
+        "llava_margin": -2.172,
+        "visible": false
+      },
+      {
+        "concept": "brilliant blue of the aircraft",
+        "clip_score": 0.2089,
+        "llava_p_yes": 0.231,
+        "llava_margin": -1.203,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "dive_bomber_s_000225.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1886,
+    "top5": [
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.2062,
+        "llava_p_yes": 0.228,
+        "llava_margin": -1.219,
+        "visible": false
+      },
+      {
+        "concept": "panoramic views to the pilots",
+        "clip_score": 0.1874,
+        "llava_p_yes": 0.389,
+        "llava_margin": -0.453,
+        "visible": false
+      },
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.1859,
+        "llava_p_yes": 0.396,
+        "llava_margin": -0.422,
+        "visible": false
+      },
+      {
+        "concept": "even at rest on the tarmac",
+        "clip_score": 0.1777,
+        "llava_p_yes": 0.257,
+        "llava_margin": -1.062,
+        "visible": false
+      },
+      {
+        "concept": "form testament to the pursuit of speed and efficient travel through the skies",
+        "clip_score": 0.186,
+        "llava_p_yes": 0.194,
+        "llava_margin": -1.422,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "stealth_bomber_s_001514.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1763,
+    "top5": [
+      {
+        "concept": "combination of these elements creates recognizable silhouette of modern aircraft",
+        "clip_score": 0.1982,
+        "llava_p_yes": 0.749,
+        "llava_margin": 1.094,
+        "visible": true
+      },
+      {
+        "concept": "edges of patches are not sharply defined",
+        "clip_score": 0.1741,
+        "llava_p_yes": 0.512,
+        "llava_margin": 0.047,
+        "visible": true
+      },
+      {
+        "concept": "aesthetic appeal",
+        "clip_score": 0.1728,
+        "llava_p_yes": 0.231,
+        "llava_margin": -1.203,
+        "visible": false
+      },
+      {
+        "concept": "wings are typically swept back",
+        "clip_score": 0.1703,
+        "llava_p_yes": 0.477,
+        "llava_margin": -0.094,
+        "visible": false
+      },
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.166,
+        "llava_p_yes": 0.37,
+        "llava_margin": -0.531,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "jumbo_jet_s_000024.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.2079,
+    "top5": [
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.2263,
+        "llava_p_yes": 0.317,
+        "llava_margin": -0.766,
+        "visible": false
+      },
+      {
+        "concept": "even at rest on the tarmac",
+        "clip_score": 0.2112,
+        "llava_p_yes": 0.231,
+        "llava_margin": -1.203,
+        "visible": false
+      },
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.2021,
+        "llava_p_yes": 0.43,
+        "llava_margin": -0.281,
+        "visible": false
+      },
+      {
+        "concept": "provide lift for flight",
+        "clip_score": 0.1973,
+        "llava_p_yes": 0.113,
+        "llava_margin": -2.062,
+        "visible": false
+      },
+      {
+        "concept": "two horizontal stabilizers, forming the empennage",
+        "clip_score": 0.2025,
+        "llava_p_yes": 0.237,
+        "llava_margin": -1.172,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "stealth_bomber_s_000936.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2076,
+    "top5": [
+      {
+        "concept": "vertical stabilizer, or tail fin rises prominently",
+        "clip_score": 0.2301,
+        "llava_p_yes": 0.658,
+        "llava_margin": 0.656,
+        "visible": true
+      },
+      {
+        "concept": "picture of modern aviation",
+        "clip_score": 0.2059,
+        "llava_p_yes": 0.683,
+        "llava_margin": 0.766,
+        "visible": true
+      },
+      {
+        "concept": "large windows/center> sentence>the overall configuration is a classic delta or swept-wing design, optimized for speed and altitude",
+        "clip_score": 0.2092,
+        "llava_p_yes": 0.137,
+        "llava_margin": -1.844,
+        "visible": false
+      },
+      {
+        "concept": "fuselage is painted a pristine white, offering a clean and classic canvas",
+        "clip_score": 0.2089,
+        "llava_p_yes": 0.611,
+        "llava_margin": 0.453,
+        "visible": true
+      },
+      {
+        "concept": "smooth, unbroken cylinder",
+        "clip_score": 0.184,
+        "llava_p_yes": 0.516,
+        "llava_margin": 0.062,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "convertible_s_002813.png",
+    "true_class": "automobile",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2111,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.223,
+        "llava_p_yes": 0.338,
+        "llava_margin": -0.672,
+        "visible": false
+      },
+      {
+        "concept": "chassis connects cab and cargo bed",
+        "clip_score": 0.2236,
+        "llava_p_yes": 0.531,
+        "llava_margin": 0.125,
+        "visible": true
+      },
+      {
+        "concept": "long, horizontal grille dominates front of cab",
+        "clip_score": 0.2013,
+        "llava_p_yes": 0.294,
+        "llava_margin": -0.875,
+        "visible": false
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.2022,
+        "llava_p_yes": 0.749,
+        "llava_margin": 1.094,
+        "visible": true
+      },
+      {
+        "concept": "sub cab",
+        "clip_score": 0.2057,
+        "llava_p_yes": 0.297,
+        "llava_margin": -0.859,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "shooting_brake_s_000973.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2137,
+    "top5": [
+      {
+        "concept": "housing striking alloy wheels that complement the vehicle\u2019s sporty aesthetic",
+        "clip_score": 0.2069,
+        "llava_p_yes": 0.15,
+        "llava_margin": -1.734,
+        "visible": false
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.2213,
+        "llava_p_yes": 0.185,
+        "llava_margin": -1.484,
+        "visible": false
+      },
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2159,
+        "llava_p_yes": 0.204,
+        "llava_margin": -1.359,
+        "visible": false
+      },
+      {
+        "concept": "intricate taillight designs that echo the front's aesthetic",
+        "clip_score": 0.2173,
+        "llava_p_yes": 0.356,
+        "llava_margin": -0.594,
+        "visible": false
+      },
+      {
+        "concept": "strong horizontal emphasis is found in the grille and the line connecting the headlights/line> sentence>vertical elements, such as door handles or character lines, break up the overall horizontal flow and add definition.",
+        "clip_score": 0.2071,
+        "llava_p_yes": 0.672,
+        "llava_margin": 0.719,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "shooting_brake_s_000046.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2177,
+    "top5": [
+      {
+        "concept": "strong horizontal emphasis is found in the grille and the line connecting the headlights/line> sentence>vertical elements, such as door handles or character lines, break up the overall horizontal flow and add definition.",
+        "clip_score": 0.221,
+        "llava_p_yes": 0.693,
+        "llava_margin": 0.812,
+        "visible": true
+      },
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.2242,
+        "llava_p_yes": 0.764,
+        "llava_margin": 1.172,
+        "visible": true
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.2221,
+        "llava_p_yes": 0.173,
+        "llava_margin": -1.562,
+        "visible": false
+      },
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2159,
+        "llava_p_yes": 0.069,
+        "llava_margin": -2.609,
+        "visible": false
+      },
+      {
+        "concept": "housing striking alloy wheels that complement the vehicle\u2019s sporty aesthetic",
+        "clip_score": 0.2052,
+        "llava_p_yes": 0.051,
+        "llava_margin": -2.922,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "convertible_s_002804.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2126,
+    "top5": [
+      {
+        "concept": "complete the picture of automotive excellence",
+        "clip_score": 0.2223,
+        "llava_p_yes": 0.48,
+        "llava_margin": -0.078,
+        "visible": false
+      },
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2157,
+        "llava_p_yes": 0.248,
+        "llava_margin": -1.109,
+        "visible": false
+      },
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.212,
+        "llava_p_yes": 0.783,
+        "llava_margin": 1.281,
+        "visible": true
+      },
+      {
+        "concept": "shod with wide, low-profile tires",
+        "clip_score": 0.2054,
+        "llava_p_yes": 0.484,
+        "llava_margin": -0.062,
+        "visible": false
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.2077,
+        "llava_p_yes": 0.165,
+        "llava_margin": -1.625,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "estate_car_s_001219.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2149,
+    "top5": [
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2312,
+        "llava_p_yes": 0.338,
+        "llava_margin": -0.672,
+        "visible": false
+      },
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.2201,
+        "llava_p_yes": 0.902,
+        "llava_margin": 2.219,
+        "visible": true
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.2152,
+        "llava_p_yes": 0.167,
+        "llava_margin": -1.609,
+        "visible": false
+      },
+      {
+        "concept": "strong horizontal emphasis is found in the grille and the line connecting the headlights/line> sentence>vertical elements, such as door handles or character lines, break up the overall horizontal flow and add definition.",
+        "clip_score": 0.2066,
+        "llava_p_yes": 0.785,
+        "llava_margin": 1.297,
+        "visible": true
+      },
+      {
+        "concept": "large, multi-spoke alloy wheels, finished in a matte grey",
+        "clip_score": 0.2014,
+        "llava_p_yes": 0.449,
+        "llava_margin": -0.203,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "wagon_s_001295.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1992,
+    "top5": [
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2278,
+        "llava_p_yes": 0.16,
+        "llava_margin": -1.656,
+        "visible": false
+      },
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.2016,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "strong horizontal emphasis is found in the grille and the line connecting the headlights/line> sentence>vertical elements, such as door handles or character lines, break up the overall horizontal flow and add definition.",
+        "clip_score": 0.1915,
+        "llava_p_yes": 0.641,
+        "llava_margin": 0.578,
+        "visible": true
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.1905,
+        "llava_p_yes": 0.18,
+        "llava_margin": -1.516,
+        "visible": false
+      },
+      {
+        "concept": "complete the picture of automotive excellence",
+        "clip_score": 0.1844,
+        "llava_p_yes": 0.304,
+        "llava_margin": -0.828,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "police_cruiser_s_001199.png",
+    "true_class": "automobile",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2008,
+    "top5": [
+      {
+        "concept": "long, horizontal grille dominates front of cab",
+        "clip_score": 0.2133,
+        "llava_p_yes": 0.453,
+        "llava_margin": -0.188,
+        "visible": false
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.2123,
+        "llava_p_yes": 0.465,
+        "llava_margin": -0.141,
+        "visible": false
+      },
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.193,
+        "llava_p_yes": 0.263,
+        "llava_margin": -1.031,
+        "visible": false
+      },
+      {
+        "concept": "body panels were clean and free of any significant dents or scratches",
+        "clip_score": 0.1983,
+        "llava_p_yes": 0.589,
+        "llava_margin": 0.359,
+        "visible": true
+      },
+      {
+        "concept": "noticeable lift kit elevates the entire vehicle",
+        "clip_score": 0.1873,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "compact_car_s_001339.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.207,
+    "top5": [
+      {
+        "concept": "complete the picture of automotive excellence",
+        "clip_score": 0.2207,
+        "llava_p_yes": 0.367,
+        "llava_margin": -0.547,
+        "visible": false
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.2128,
+        "llava_p_yes": 0.197,
+        "llava_margin": -1.406,
+        "visible": false
+      },
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2063,
+        "llava_p_yes": 0.152,
+        "llava_margin": -1.719,
+        "visible": false
+      },
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.2045,
+        "llava_p_yes": 0.737,
+        "llava_margin": 1.031,
+        "visible": true
+      },
+      {
+        "concept": "polished jet",
+        "clip_score": 0.1905,
+        "llava_p_yes": 0.002,
+        "llava_margin": -6.359,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "taxi_s_000338.png",
+    "true_class": "automobile",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2041,
+    "top5": [
+      {
+        "concept": "sturdy, angular cab houses the driver and passengers",
+        "clip_score": 0.2142,
+        "llava_p_yes": 0.496,
+        "llava_margin": -0.016,
+        "visible": false
+      },
+      {
+        "concept": "long, horizontal grille dominates front of cab",
+        "clip_score": 0.2046,
+        "llava_p_yes": 0.504,
+        "llava_margin": 0.016,
+        "visible": true
+      },
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.207,
+        "llava_p_yes": 0.131,
+        "llava_margin": -1.891,
+        "visible": false
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.1996,
+        "llava_p_yes": 0.37,
+        "llava_margin": -0.531,
+        "visible": false
+      },
+      {
+        "concept": "utilitarian design optimized for transport",
+        "clip_score": 0.1952,
+        "llava_p_yes": 0.769,
+        "llava_margin": 1.203,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "station_wagon_s_001959.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1992,
+    "top5": [
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2045,
+        "llava_p_yes": 0.275,
+        "llava_margin": -0.969,
+        "visible": false
+      },
+      {
+        "concept": "complete the picture of automotive excellence",
+        "clip_score": 0.203,
+        "llava_p_yes": 0.457,
+        "llava_margin": -0.172,
+        "visible": false
+      },
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.2034,
+        "llava_p_yes": 0.731,
+        "llava_margin": 1.0,
+        "visible": true
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.1957,
+        "llava_p_yes": 0.129,
+        "llava_margin": -1.906,
+        "visible": false
+      },
+      {
+        "concept": "shod with wide, low-profile tires",
+        "clip_score": 0.1896,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "wagtail_s_000135.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2156,
+    "top5": [
+      {
+        "concept": "fine black barring is visible on its undertail coverts",
+        "clip_score": 0.2254,
+        "llava_p_yes": 0.223,
+        "llava_margin": -1.25,
+        "visible": false
+      },
+      {
+        "concept": "small patch of bright yellow marked the skin around its eyes",
+        "clip_score": 0.2216,
+        "llava_p_yes": 0.743,
+        "llava_margin": 1.062,
+        "visible": true
+      },
+      {
+        "concept": "distinctive pattern of fine, darker streaks runs vertically down its chest and belly",
+        "clip_score": 0.2246,
+        "llava_p_yes": 0.676,
+        "llava_margin": 0.734,
+        "visible": true
+      },
+      {
+        "concept": "preens, its plumage seems to shimmer, revealing subtle undertones of turquoise and yellow",
+        "clip_score": 0.1998,
+        "llava_p_yes": 0.334,
+        "llava_margin": -0.688,
+        "visible": false
+      },
+      {
+        "concept": "under its vibrant torso, delicate, dark legs are tucked close during flight",
+        "clip_score": 0.2067,
+        "llava_p_yes": 0.242,
+        "llava_margin": -1.141,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bird_s_000246.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1923,
+    "top5": [
+      {
+        "concept": "preens, its plumage seems to shimmer, revealing subtle undertones of turquoise and yellow",
+        "clip_score": 0.1976,
+        "llava_p_yes": 0.294,
+        "llava_margin": -0.875,
+        "visible": false
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.1932,
+        "llava_p_yes": 0.135,
+        "llava_margin": -1.859,
+        "visible": false
+      },
+      {
+        "concept": "gracefully tapers gracefully towards a finely pointed tail",
+        "clip_score": 0.1946,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "distinctive pattern of fine, darker streaks runs vertically down its chest and belly",
+        "clip_score": 0.1832,
+        "llava_p_yes": 0.469,
+        "llava_margin": -0.125,
+        "visible": false
+      },
+      {
+        "concept": "end in sturdy, widely splayed feet",
+        "clip_score": 0.193,
+        "llava_p_yes": 0.531,
+        "llava_margin": 0.125,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "alauda_arvensis_s_000559.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2073,
+    "top5": [
+      {
+        "concept": "fine black barring is visible on its undertail coverts",
+        "clip_score": 0.2127,
+        "llava_p_yes": 0.223,
+        "llava_margin": -1.25,
+        "visible": false
+      },
+      {
+        "concept": "distinctive pattern of fine, darker streaks runs vertically down its chest and belly",
+        "clip_score": 0.2084,
+        "llava_p_yes": 0.535,
+        "llava_margin": 0.141,
+        "visible": true
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.206,
+        "llava_p_yes": 0.187,
+        "llava_margin": -1.469,
+        "visible": false
+      },
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.2034,
+        "llava_p_yes": 0.788,
+        "llava_margin": 1.312,
+        "visible": true
+      },
+      {
+        "concept": "gracefully tapers gracefully towards a finely pointed tail",
+        "clip_score": 0.2061,
+        "llava_p_yes": 0.648,
+        "llava_margin": 0.609,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "sparrow_s_001053.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2148,
+    "top5": [
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.2312,
+        "llava_p_yes": 0.892,
+        "llava_margin": 2.109,
+        "visible": true
+      },
+      {
+        "concept": "fine black barring is visible on its undertail coverts",
+        "clip_score": 0.2124,
+        "llava_p_yes": 0.128,
+        "llava_margin": -1.922,
+        "visible": false
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.2155,
+        "llava_p_yes": 0.328,
+        "llava_margin": -0.719,
+        "visible": false
+      },
+      {
+        "concept": "gracefully tapers gracefully towards a finely pointed tail",
+        "clip_score": 0.2107,
+        "llava_p_yes": 0.706,
+        "llava_margin": 0.875,
+        "visible": true
+      },
+      {
+        "concept": "distinctive pattern of fine, darker streaks runs vertically down its chest and belly",
+        "clip_score": 0.2041,
+        "llava_p_yes": 0.342,
+        "llava_margin": -0.656,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bird_s_001575.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2068,
+    "top5": [
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.2125,
+        "llava_p_yes": 0.658,
+        "llava_margin": 0.656,
+        "visible": true
+      },
+      {
+        "concept": "tapering beak",
+        "clip_score": 0.2123,
+        "llava_p_yes": 0.626,
+        "llava_margin": 0.516,
+        "visible": true
+      },
+      {
+        "concept": "distinctive pattern of fine, darker streaks runs vertically down its chest and belly",
+        "clip_score": 0.2057,
+        "llava_p_yes": 0.278,
+        "llava_margin": -0.953,
+        "visible": false
+      },
+      {
+        "concept": "fine black barring is visible on its undertail coverts",
+        "clip_score": 0.202,
+        "llava_p_yes": 0.215,
+        "llava_margin": -1.297,
+        "visible": false
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.2016,
+        "llava_p_yes": 0.057,
+        "llava_margin": -2.797,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "cassowary_s_000612.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1953,
+    "top5": [
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.2067,
+        "llava_p_yes": 0.465,
+        "llava_margin": -0.141,
+        "visible": false
+      },
+      {
+        "concept": "fine black barring is visible on its undertail coverts",
+        "clip_score": 0.1919,
+        "llava_p_yes": 0.294,
+        "llava_margin": -0.875,
+        "visible": false
+      },
+      {
+        "concept": "preens, its plumage seems to shimmer, revealing subtle undertones of turquoise and yellow",
+        "clip_score": 0.1893,
+        "llava_p_yes": 0.176,
+        "llava_margin": -1.547,
+        "visible": false
+      },
+      {
+        "concept": "end in sturdy, widely splayed feet",
+        "clip_score": 0.1977,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      },
+      {
+        "concept": "tapering beak",
+        "clip_score": 0.191,
+        "llava_p_yes": 0.547,
+        "llava_margin": 0.188,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "honey_eater_s_001543.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2034,
+    "top5": [
+      {
+        "concept": "gracefully tapers gracefully towards a finely pointed tail",
+        "clip_score": 0.2117,
+        "llava_p_yes": 0.686,
+        "llava_margin": 0.781,
+        "visible": true
+      },
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.2067,
+        "llava_p_yes": 0.539,
+        "llava_margin": 0.156,
+        "visible": true
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.2023,
+        "llava_p_yes": 0.301,
+        "llava_margin": -0.844,
+        "visible": false
+      },
+      {
+        "concept": "end in sturdy, widely splayed feet",
+        "clip_score": 0.2024,
+        "llava_p_yes": 0.63,
+        "llava_margin": 0.531,
+        "visible": true
+      },
+      {
+        "concept": "crimson band wraps around its chest like a miniature sash",
+        "clip_score": 0.194,
+        "llava_p_yes": 0.607,
+        "llava_margin": 0.438,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "flightless_bird_s_000482.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1769,
+    "top5": [
+      {
+        "concept": "end in sturdy, widely splayed feet",
+        "clip_score": 0.195,
+        "llava_p_yes": 0.4,
+        "llava_margin": -0.406,
+        "visible": false
+      },
+      {
+        "concept": "legs and beak a delicate shade of charcoal grey",
+        "clip_score": 0.1797,
+        "llava_p_yes": 0.434,
+        "llava_margin": -0.266,
+        "visible": false
+      },
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.1739,
+        "llava_p_yes": 0.411,
+        "llava_margin": -0.359,
+        "visible": false
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.1701,
+        "llava_p_yes": 0.067,
+        "llava_margin": -2.641,
+        "visible": false
+      },
+      {
+        "concept": "preens, its plumage seems to shimmer, revealing subtle undertones of turquoise and yellow",
+        "clip_score": 0.1655,
+        "llava_p_yes": 0.105,
+        "llava_margin": -2.141,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "passerine_s_000434.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1945,
+    "top5": [
+      {
+        "concept": "crimson band wraps around its chest like a miniature sash",
+        "clip_score": 0.2027,
+        "llava_p_yes": 0.641,
+        "llava_margin": 0.578,
+        "visible": true
+      },
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.1953,
+        "llava_p_yes": 0.488,
+        "llava_margin": -0.047,
+        "visible": false
+      },
+      {
+        "concept": "gracefully tapers gracefully towards a finely pointed tail",
+        "clip_score": 0.1976,
+        "llava_p_yes": 0.496,
+        "llava_margin": -0.016,
+        "visible": false
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.191,
+        "llava_p_yes": 0.202,
+        "llava_margin": -1.375,
+        "visible": false
+      },
+      {
+        "concept": "end in sturdy, widely splayed feet",
+        "clip_score": 0.1861,
+        "llava_p_yes": 0.239,
+        "llava_margin": -1.156,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "dunnock_s_001089.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2108,
+    "top5": [
+      {
+        "concept": "delicate, needle-like beak projects forward",
+        "clip_score": 0.2156,
+        "llava_p_yes": 0.791,
+        "llava_margin": 1.328,
+        "visible": true
+      },
+      {
+        "concept": "tiny, clawed feet, adapted for perching, gripped branches with surprising strength",
+        "clip_score": 0.2139,
+        "llava_p_yes": 0.288,
+        "llava_margin": -0.906,
+        "visible": false
+      },
+      {
+        "concept": "distinctive pattern of fine, darker streaks runs vertically down its chest and belly",
+        "clip_score": 0.2105,
+        "llava_p_yes": 0.63,
+        "llava_margin": 0.531,
+        "visible": true
+      },
+      {
+        "concept": "fine black barring is visible on its undertail coverts",
+        "clip_score": 0.2069,
+        "llava_p_yes": 0.182,
+        "llava_margin": -1.5,
+        "visible": false
+      },
+      {
+        "concept": "preens, its plumage seems to shimmer, revealing subtle undertones of turquoise and yellow",
+        "clip_score": 0.2072,
+        "llava_p_yes": 0.352,
+        "llava_margin": -0.609,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "domestic_cat_s_002053.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2051,
+    "top5": [
+      {
+        "concept": "tabby pattern is testament to the beautiful and diverse world of feline genetics",
+        "clip_score": 0.2218,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      },
+      {
+        "concept": "even its ears have a subtle mottling, with faint orange markings",
+        "clip_score": 0.2063,
+        "llava_p_yes": 0.719,
+        "llava_margin": 0.938,
+        "visible": true
+      },
+      {
+        "concept": "small, pink paw pads peeked out from beneath its velvety paws",
+        "clip_score": 0.2016,
+        "llava_p_yes": 0.11,
+        "llava_margin": -2.094,
+        "visible": false
+      },
+      {
+        "concept": "small, pink nose sits centrally on its muzzle",
+        "clip_score": 0.2014,
+        "llava_p_yes": 0.758,
+        "llava_margin": 1.141,
+        "visible": true
+      },
+      {
+        "concept": "genetic trait, known as himalayan or siamese gene, results in a beautiful gradient of color",
+        "clip_score": 0.1941,
+        "llava_p_yes": 0.516,
+        "llava_margin": 0.062,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "felis_catus_s_000636.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1949,
+    "top5": [
+      {
+        "concept": "even its ears have a subtle mottling, with faint orange markings",
+        "clip_score": 0.2012,
+        "llava_p_yes": 0.574,
+        "llava_margin": 0.297,
+        "visible": true
+      },
+      {
+        "concept": "tabby pattern is testament to the beautiful and diverse world of feline genetics",
+        "clip_score": 0.1974,
+        "llava_p_yes": 0.539,
+        "llava_margin": 0.156,
+        "visible": true
+      },
+      {
+        "concept": "curl into a remarkably compact ball",
+        "clip_score": 0.1942,
+        "llava_p_yes": 0.129,
+        "llava_margin": -1.906,
+        "visible": false
+      },
+      {
+        "concept": "genetic trait, known as himalayan or siamese gene, results in a beautiful gradient of color",
+        "clip_score": 0.1939,
+        "llava_p_yes": 0.749,
+        "llava_margin": 1.094,
+        "visible": true
+      },
+      {
+        "concept": "long, white whiskers fanned out from either side of its muzzle",
+        "clip_score": 0.1879,
+        "llava_p_yes": 0.173,
+        "llava_margin": -1.562,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tabby_s_000578.png",
+    "true_class": "cat",
+    "predicted": "dog",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2018,
+    "top5": [
+      {
+        "concept": "white blaze runs vertically up its snout",
+        "clip_score": 0.214,
+        "llava_p_yes": 0.288,
+        "llava_margin": -0.906,
+        "visible": false
+      },
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.2029,
+        "llava_p_yes": 0.52,
+        "llava_margin": 0.078,
+        "visible": true
+      },
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.1952,
+        "llava_p_yes": 0.192,
+        "llava_margin": -1.438,
+        "visible": false
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.2023,
+        "llava_p_yes": 0.08,
+        "llava_margin": -2.438,
+        "visible": false
+      },
+      {
+        "concept": "flecks of a lighter, almost caramel color dappled its back",
+        "clip_score": 0.1948,
+        "llava_p_yes": 0.461,
+        "llava_margin": -0.156,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "mouser_s_001191.png",
+    "true_class": "cat",
+    "predicted": "automobile",
+    "correct": false,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.204,
+    "top5": [
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.2201,
+        "llava_p_yes": 0.272,
+        "llava_margin": -0.984,
+        "visible": false
+      },
+      {
+        "concept": "hood transitioned smoothly into the panoramic glass windshield",
+        "clip_score": 0.1992,
+        "llava_p_yes": 0.167,
+        "llava_margin": -1.609,
+        "visible": false
+      },
+      {
+        "concept": "subtle, integrated spoiler that hinted at aerodynamic efficiency",
+        "clip_score": 0.1989,
+        "llava_p_yes": 0.129,
+        "llava_margin": -1.906,
+        "visible": false
+      },
+      {
+        "concept": "large, alloy rims",
+        "clip_score": 0.2045,
+        "llava_p_yes": 0.071,
+        "llava_margin": -2.578,
+        "visible": false
+      },
+      {
+        "concept": "large, multi-spoke alloy wheels, finished in a matte grey",
+        "clip_score": 0.1971,
+        "llava_p_yes": 0.084,
+        "llava_margin": -2.391,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "house_cat_s_000212.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2109,
+    "top5": [
+      {
+        "concept": "tabby pattern is testament to the beautiful and diverse world of feline genetics",
+        "clip_score": 0.2147,
+        "llava_p_yes": 0.392,
+        "llava_margin": -0.438,
+        "visible": false
+      },
+      {
+        "concept": "even its ears have a subtle mottling, with faint orange markings",
+        "clip_score": 0.2142,
+        "llava_p_yes": 0.655,
+        "llava_margin": 0.641,
+        "visible": true
+      },
+      {
+        "concept": "genetic trait, known as himalayan or siamese gene, results in a beautiful gradient of color",
+        "clip_score": 0.2144,
+        "llava_p_yes": 0.566,
+        "llava_margin": 0.266,
+        "visible": true
+      },
+      {
+        "concept": "small, pink nose sits centrally on its muzzle",
+        "clip_score": 0.2115,
+        "llava_p_yes": 0.693,
+        "llava_margin": 0.812,
+        "visible": true
+      },
+      {
+        "concept": "long, graceful tail acts as a counterbalance and an expressive communication tool",
+        "clip_score": 0.1996,
+        "llava_p_yes": 0.783,
+        "llava_margin": 1.281,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "cat_s_000908.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2002,
+    "top5": [
+      {
+        "concept": "tabby pattern is testament to the beautiful and diverse world of feline genetics",
+        "clip_score": 0.2113,
+        "llava_p_yes": 0.539,
+        "llava_margin": 0.156,
+        "visible": true
+      },
+      {
+        "concept": "absorbs all light",
+        "clip_score": 0.2044,
+        "llava_p_yes": 0.058,
+        "llava_margin": -2.781,
+        "visible": false
+      },
+      {
+        "concept": "small, pink nose sits centrally on its muzzle",
+        "clip_score": 0.2047,
+        "llava_p_yes": 0.349,
+        "llava_margin": -0.625,
+        "visible": false
+      },
+      {
+        "concept": "long, white whiskers fanned out from either side of its muzzle",
+        "clip_score": 0.191,
+        "llava_p_yes": 0.207,
+        "llava_margin": -1.344,
+        "visible": false
+      },
+      {
+        "concept": "small, pink paw pads peeked out from beneath its velvety paws",
+        "clip_score": 0.1897,
+        "llava_p_yes": 0.071,
+        "llava_margin": -2.578,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tabby_cat_s_002684.png",
+    "true_class": "cat",
+    "predicted": "dog",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1953,
+    "top5": [
+      {
+        "concept": "separating two large, golden brown patches that cover its eyes",
+        "clip_score": 0.2034,
+        "llava_p_yes": 0.4,
+        "llava_margin": -0.406,
+        "visible": false
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.2007,
+        "llava_p_yes": 0.076,
+        "llava_margin": -2.5,
+        "visible": false
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.1969,
+        "llava_p_yes": 0.423,
+        "llava_margin": -0.312,
+        "visible": false
+      },
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.1846,
+        "llava_p_yes": 0.129,
+        "llava_margin": -1.906,
+        "visible": false
+      },
+      {
+        "concept": "reminiscent of a dappled or brindle effect",
+        "clip_score": 0.1909,
+        "llava_p_yes": 0.696,
+        "llava_margin": 0.828,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "tabby_cat_s_001878.png",
+    "true_class": "cat",
+    "predicted": "dog",
+    "correct": false,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2072,
+    "top5": [
+      {
+        "concept": "white blaze runs vertically up its snout",
+        "clip_score": 0.2138,
+        "llava_p_yes": 0.331,
+        "llava_margin": -0.703,
+        "visible": false
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.2112,
+        "llava_p_yes": 0.547,
+        "llava_margin": 0.188,
+        "visible": true
+      },
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.2031,
+        "llava_p_yes": 0.415,
+        "llava_margin": -0.344,
+        "visible": false
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.2082,
+        "llava_p_yes": 0.06,
+        "llava_margin": -2.75,
+        "visible": false
+      },
+      {
+        "concept": "subtle hints of lighter tan can be seen on its chest and the tips of its paws",
+        "clip_score": 0.1997,
+        "llava_p_yes": 0.699,
+        "llava_margin": 0.844,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "true_cat_s_001572.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.208,
+    "top5": [
+      {
+        "concept": "tabby pattern is testament to the beautiful and diverse world of feline genetics",
+        "clip_score": 0.2366,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      },
+      {
+        "concept": "a unique and captivating mosaic on the feline's coat",
+        "clip_score": 0.2137,
+        "llava_p_yes": 0.363,
+        "llava_margin": -0.562,
+        "visible": false
+      },
+      {
+        "concept": "even its ears have a subtle mottling, with faint orange markings",
+        "clip_score": 0.1972,
+        "llava_p_yes": 0.321,
+        "llava_margin": -0.75,
+        "visible": false
+      },
+      {
+        "concept": "curl into a remarkably compact ball",
+        "clip_score": 0.1966,
+        "llava_p_yes": 0.461,
+        "llava_margin": -0.156,
+        "visible": false
+      },
+      {
+        "concept": "long, white whiskers fanned out from either side of its muzzle",
+        "clip_score": 0.1957,
+        "llava_p_yes": 0.089,
+        "llava_margin": -2.328,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tabby_s_001407.png",
+    "true_class": "cat",
+    "predicted": "dog",
+    "correct": false,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2014,
+    "top5": [
+      {
+        "concept": "white blaze runs vertically up its snout",
+        "clip_score": 0.2199,
+        "llava_p_yes": 0.251,
+        "llava_margin": -1.094,
+        "visible": false
+      },
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.1947,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      },
+      {
+        "concept": "subtle hints of lighter tan can be seen on its chest and the tips of its paws",
+        "clip_score": 0.2001,
+        "llava_p_yes": 0.662,
+        "llava_margin": 0.672,
+        "visible": true
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.1983,
+        "llava_p_yes": 0.031,
+        "llava_margin": -3.453,
+        "visible": false
+      },
+      {
+        "concept": "separating two large, golden brown patches that cover its eyes",
+        "clip_score": 0.1942,
+        "llava_p_yes": 0.574,
+        "llava_margin": 0.297,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "dama_dama_s_000246.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2131,
+    "top5": [
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2293,
+        "llava_p_yes": 0.504,
+        "llava_margin": 0.016,
+        "visible": true
+      },
+      {
+        "concept": "white spots can sometimes be observed on the backs of fawns",
+        "clip_score": 0.2274,
+        "llava_p_yes": 0.314,
+        "llava_margin": -0.781,
+        "visible": false
+      },
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2187,
+        "llava_p_yes": 0.743,
+        "llava_margin": 1.062,
+        "visible": true
+      },
+      {
+        "concept": "often dappled with lighter spots, especially in fawns",
+        "clip_score": 0.2048,
+        "llava_p_yes": 0.626,
+        "llava_margin": 0.516,
+        "visible": true
+      },
+      {
+        "concept": "mature males, impressive antlers, branching elegantly, adorn their heads in a display of strength and maturity",
+        "clip_score": 0.1854,
+        "llava_p_yes": 0.307,
+        "llava_margin": -0.812,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "mule_deer_s_000656.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2078,
+    "top5": [
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2239,
+        "llava_p_yes": 0.269,
+        "llava_margin": -1.0,
+        "visible": false
+      },
+      {
+        "concept": "white spots can sometimes be observed on the backs of fawns",
+        "clip_score": 0.2208,
+        "llava_p_yes": 0.461,
+        "llava_margin": -0.156,
+        "visible": false
+      },
+      {
+        "concept": "mature males, impressive antlers, branching elegantly, adorn their heads in a display of strength and maturity",
+        "clip_score": 0.197,
+        "llava_p_yes": 0.146,
+        "llava_margin": -1.766,
+        "visible": false
+      },
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2064,
+        "llava_p_yes": 0.342,
+        "llava_margin": -0.656,
+        "visible": false
+      },
+      {
+        "concept": "darkening towards the hooves",
+        "clip_score": 0.191,
+        "llava_p_yes": 0.722,
+        "llava_margin": 0.953,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "fallow_deer_s_001221.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1864,
+    "top5": [
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2108,
+        "llava_p_yes": 0.882,
+        "llava_margin": 2.016,
+        "visible": true
+      },
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2007,
+        "llava_p_yes": 0.562,
+        "llava_margin": 0.25,
+        "visible": true
+      },
+      {
+        "concept": "constantly swiveling to capture even the faintest sounds",
+        "clip_score": 0.1835,
+        "llava_p_yes": 0.078,
+        "llava_margin": -2.469,
+        "visible": false
+      },
+      {
+        "concept": "pale fawn",
+        "clip_score": 0.171,
+        "llava_p_yes": 0.806,
+        "llava_margin": 1.422,
+        "visible": true
+      },
+      {
+        "concept": "mature males, impressive antlers, branching elegantly, adorn their heads in a display of strength and maturity",
+        "clip_score": 0.1659,
+        "llava_p_yes": 0.611,
+        "llava_margin": 0.453,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "capreolus_capreolus_s_000570.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2187,
+    "top5": [
+      {
+        "concept": "white spots can sometimes be observed on the backs of fawns",
+        "clip_score": 0.2463,
+        "llava_p_yes": 0.562,
+        "llava_margin": 0.25,
+        "visible": true
+      },
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2316,
+        "llava_p_yes": 0.423,
+        "llava_margin": -0.312,
+        "visible": false
+      },
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2138,
+        "llava_p_yes": 0.446,
+        "llava_margin": -0.219,
+        "visible": false
+      },
+      {
+        "concept": "often dappled with lighter spots, especially in fawns",
+        "clip_score": 0.2095,
+        "llava_p_yes": 0.6,
+        "llava_margin": 0.406,
+        "visible": true
+      },
+      {
+        "concept": "mature males, impressive antlers, branching elegantly, adorn their heads in a display of strength and maturity",
+        "clip_score": 0.1924,
+        "llava_p_yes": 0.091,
+        "llava_margin": -2.297,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fallow_deer_s_000085.png",
+    "true_class": "deer",
+    "predicted": "automobile",
+    "correct": false,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1837,
+    "top5": [
+      {
+        "concept": "a sunroof or panoramic glass roof is a common feature",
+        "clip_score": 0.195,
+        "llava_p_yes": 0.197,
+        "llava_margin": -1.406,
+        "visible": false
+      },
+      {
+        "concept": "reflect nascent automotive industry",
+        "clip_score": 0.189,
+        "llava_p_yes": 0.104,
+        "llava_margin": -2.156,
+        "visible": false
+      },
+      {
+        "concept": "strong horizontal emphasis is found in the grille and the line connecting the headlights/line> sentence>vertical elements, such as door handles or character lines, break up the overall horizontal flow and add definition.",
+        "clip_score": 0.1863,
+        "llava_p_yes": 0.285,
+        "llava_margin": -0.922,
+        "visible": false
+      },
+      {
+        "concept": "polished jet",
+        "clip_score": 0.1757,
+        "llava_p_yes": 0.007,
+        "llava_margin": -5.016,
+        "visible": false
+      },
+      {
+        "concept": "tiny flecks within the paint would occasionally catch the illumination",
+        "clip_score": 0.1727,
+        "llava_p_yes": 0.314,
+        "llava_margin": -0.781,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "odocoileus_hemionus_s_000310.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2103,
+    "top5": [
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.232,
+        "llava_p_yes": 0.555,
+        "llava_margin": 0.219,
+        "visible": true
+      },
+      {
+        "concept": "white spots can sometimes be observed on the backs of fawns",
+        "clip_score": 0.2149,
+        "llava_p_yes": 0.349,
+        "llava_margin": -0.625,
+        "visible": false
+      },
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2107,
+        "llava_p_yes": 0.144,
+        "llava_margin": -1.781,
+        "visible": false
+      },
+      {
+        "concept": "often dappled with lighter spots, especially in fawns",
+        "clip_score": 0.2039,
+        "llava_p_yes": 0.737,
+        "llava_margin": 1.031,
+        "visible": true
+      },
+      {
+        "concept": "delicate, pointed muzzle houses a keen sense of smell",
+        "clip_score": 0.1903,
+        "llava_p_yes": 0.813,
+        "llava_margin": 1.469,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "odocoileus_hemionus_s_000105.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2295,
+    "top5": [
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2553,
+        "llava_p_yes": 0.527,
+        "llava_margin": 0.109,
+        "visible": true
+      },
+      {
+        "concept": "white spots can sometimes be observed on the backs of fawns",
+        "clip_score": 0.233,
+        "llava_p_yes": 0.392,
+        "llava_margin": -0.438,
+        "visible": false
+      },
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2282,
+        "llava_p_yes": 0.223,
+        "llava_margin": -1.25,
+        "visible": false
+      },
+      {
+        "concept": "often dappled with lighter spots, especially in fawns",
+        "clip_score": 0.2243,
+        "llava_p_yes": 0.761,
+        "llava_margin": 1.156,
+        "visible": true
+      },
+      {
+        "concept": "pale fawn",
+        "clip_score": 0.2066,
+        "llava_p_yes": 0.85,
+        "llava_margin": 1.734,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "roe_deer_s_000630.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.2381,
+    "top5": [
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2556,
+        "llava_p_yes": 0.374,
+        "llava_margin": -0.516,
+        "visible": false
+      },
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2466,
+        "llava_p_yes": 0.321,
+        "llava_margin": -0.75,
+        "visible": false
+      },
+      {
+        "concept": "white spots can sometimes be observed on the backs of fawns",
+        "clip_score": 0.2448,
+        "llava_p_yes": 0.231,
+        "llava_margin": -1.203,
+        "visible": false
+      },
+      {
+        "concept": "often dappled with lighter spots, especially in fawns",
+        "clip_score": 0.2272,
+        "llava_p_yes": 0.461,
+        "llava_margin": -0.156,
+        "visible": false
+      },
+      {
+        "concept": "darker markings appearing on its legs and face",
+        "clip_score": 0.2164,
+        "llava_p_yes": 0.275,
+        "llava_margin": -0.969,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "woodland_caribou_s_000021.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2184,
+    "top5": [
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2406,
+        "llava_p_yes": 0.128,
+        "llava_margin": -1.922,
+        "visible": false
+      },
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2266,
+        "llava_p_yes": 0.531,
+        "llava_margin": 0.125,
+        "visible": true
+      },
+      {
+        "concept": "mature males, impressive antlers, branching elegantly, adorn their heads in a display of strength and maturity",
+        "clip_score": 0.2095,
+        "llava_p_yes": 0.032,
+        "llava_margin": -3.422,
+        "visible": false
+      },
+      {
+        "concept": "darkening towards the hooves",
+        "clip_score": 0.2067,
+        "llava_p_yes": 0.78,
+        "llava_margin": 1.266,
+        "visible": true
+      },
+      {
+        "concept": "darker markings appearing on its legs and face",
+        "clip_score": 0.2083,
+        "llava_p_yes": 0.788,
+        "llava_margin": 1.312,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "elk_s_001174.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2311,
+    "top5": [
+      {
+        "concept": "attached to its head are two impressive antlers, if it's a male, branching outwards in intricate patterns, or a pair of small, pointed ears if it's a female",
+        "clip_score": 0.2563,
+        "llava_p_yes": 0.641,
+        "llava_margin": 0.578,
+        "visible": true
+      },
+      {
+        "concept": "transition from spotted fawn to unspotted adult",
+        "clip_score": 0.2406,
+        "llava_p_yes": 0.288,
+        "llava_margin": -0.906,
+        "visible": false
+      },
+      {
+        "concept": "often dappled with lighter spots, especially in fawns",
+        "clip_score": 0.225,
+        "llava_p_yes": 0.453,
+        "llava_margin": -0.188,
+        "visible": false
+      },
+      {
+        "concept": "muzzle area often exhibited a lighter, almost creamy color, providing a gentle contrast to its browner face",
+        "clip_score": 0.2124,
+        "llava_p_yes": 0.374,
+        "llava_margin": -0.516,
+        "visible": false
+      },
+      {
+        "concept": "white spots can sometimes be observed on the backs of fawns",
+        "clip_score": 0.2213,
+        "llava_p_yes": 0.171,
+        "llava_margin": -1.578,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "pekingese_s_002175.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1901,
+    "top5": [
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.1972,
+        "llava_p_yes": 0.589,
+        "llava_margin": 0.359,
+        "visible": true
+      },
+      {
+        "concept": "hue deepened to a dark, warm brown",
+        "clip_score": 0.1851,
+        "llava_p_yes": 0.442,
+        "llava_margin": -0.234,
+        "visible": false
+      },
+      {
+        "concept": "coat of rich, sable fur",
+        "clip_score": 0.1963,
+        "llava_p_yes": 0.861,
+        "llava_margin": 1.828,
+        "visible": true
+      },
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.1854,
+        "llava_p_yes": 0.43,
+        "llava_margin": -0.281,
+        "visible": false
+      },
+      {
+        "concept": "truly handsome canine companion",
+        "clip_score": 0.1862,
+        "llava_p_yes": 0.374,
+        "llava_margin": -0.516,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "maltese_s_000242.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2026,
+    "top5": [
+      {
+        "concept": "white blaze runs vertically up its snout",
+        "clip_score": 0.2119,
+        "llava_p_yes": 0.321,
+        "llava_margin": -0.75,
+        "visible": false
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.209,
+        "llava_p_yes": 0.169,
+        "llava_margin": -1.594,
+        "visible": false
+      },
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.1984,
+        "llava_p_yes": 0.655,
+        "llava_margin": 0.641,
+        "visible": true
+      },
+      {
+        "concept": "distinguished patch of white fur graces its chest",
+        "clip_score": 0.1932,
+        "llava_p_yes": 0.604,
+        "llava_margin": 0.422,
+        "visible": true
+      },
+      {
+        "concept": "when wet",
+        "clip_score": 0.2006,
+        "llava_p_yes": 0.113,
+        "llava_margin": -2.062,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "chihuahua_s_002224.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1936,
+    "top5": [
+      {
+        "concept": "subtle hints of lighter tan can be seen on its chest and the tips of its paws",
+        "clip_score": 0.2132,
+        "llava_p_yes": 0.808,
+        "llava_margin": 1.438,
+        "visible": true
+      },
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.1847,
+        "llava_p_yes": 0.285,
+        "llava_margin": -0.922,
+        "visible": false
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.1934,
+        "llava_p_yes": 0.555,
+        "llava_margin": 0.219,
+        "visible": true
+      },
+      {
+        "concept": "broad, intelligent head was crowned with soft, floppy ears that brushed against his cheeks",
+        "clip_score": 0.1875,
+        "llava_p_yes": 0.783,
+        "llava_margin": 1.281,
+        "visible": true
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.1893,
+        "llava_p_yes": 0.045,
+        "llava_margin": -3.047,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_002217.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2199,
+    "top5": [
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.2307,
+        "llava_p_yes": 0.752,
+        "llava_margin": 1.109,
+        "visible": true
+      },
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.2183,
+        "llava_p_yes": 0.212,
+        "llava_margin": -1.312,
+        "visible": false
+      },
+      {
+        "concept": "white blaze runs vertically up its snout",
+        "clip_score": 0.2227,
+        "llava_p_yes": 0.535,
+        "llava_margin": 0.141,
+        "visible": true
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.2166,
+        "llava_p_yes": 0.725,
+        "llava_margin": 0.969,
+        "visible": true
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.2113,
+        "llava_p_yes": 0.328,
+        "llava_margin": -0.719,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_001216.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.202,
+    "top5": [
+      {
+        "concept": "separating two large, golden brown patches that cover its eyes",
+        "clip_score": 0.2136,
+        "llava_p_yes": 0.615,
+        "llava_margin": 0.469,
+        "visible": true
+      },
+      {
+        "concept": "paws are well-formed and appear compact, indicating good traction",
+        "clip_score": 0.2054,
+        "llava_p_yes": 0.543,
+        "llava_margin": 0.172,
+        "visible": true
+      },
+      {
+        "concept": "adding subtle depth from fur",
+        "clip_score": 0.2026,
+        "llava_p_yes": 0.746,
+        "llava_margin": 1.078,
+        "visible": true
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.1967,
+        "llava_p_yes": 0.604,
+        "llava_margin": 0.422,
+        "visible": true
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.1919,
+        "llava_p_yes": 0.199,
+        "llava_margin": -1.391,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "pekingese_s_000608.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2108,
+    "top5": [
+      {
+        "concept": "distinguished patch of white fur graces its chest",
+        "clip_score": 0.2076,
+        "llava_p_yes": 0.648,
+        "llava_margin": 0.609,
+        "visible": true
+      },
+      {
+        "concept": "separating two large, golden brown patches that cover its eyes",
+        "clip_score": 0.2116,
+        "llava_p_yes": 0.543,
+        "llava_margin": 0.172,
+        "visible": true
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.2146,
+        "llava_p_yes": 0.07,
+        "llava_margin": -2.594,
+        "visible": false
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.2116,
+        "llava_p_yes": 0.484,
+        "llava_margin": -0.062,
+        "visible": false
+      },
+      {
+        "concept": "when wet",
+        "clip_score": 0.2088,
+        "llava_p_yes": 0.154,
+        "llava_margin": -1.703,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_000536.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1794,
+    "top5": [
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.1789,
+        "llava_p_yes": 0.237,
+        "llava_margin": -1.172,
+        "visible": false
+      },
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.185,
+        "llava_p_yes": 0.02,
+        "llava_margin": -3.906,
+        "visible": false
+      },
+      {
+        "concept": "hinting at creature that enjoyed exploring the outdoors",
+        "clip_score": 0.1814,
+        "llava_p_yes": 0.167,
+        "llava_margin": -1.609,
+        "visible": false
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.1755,
+        "llava_p_yes": 0.167,
+        "llava_margin": -1.609,
+        "visible": false
+      },
+      {
+        "concept": "coat of rich, sable fur",
+        "clip_score": 0.176,
+        "llava_p_yes": 0.574,
+        "llava_margin": 0.297,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "pekingese_s_001625.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2003,
+    "top5": [
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.2214,
+        "llava_p_yes": 0.465,
+        "llava_margin": -0.141,
+        "visible": false
+      },
+      {
+        "concept": "paws are well-formed and appear compact, indicating good traction",
+        "clip_score": 0.2136,
+        "llava_p_yes": 0.658,
+        "llava_margin": 0.656,
+        "visible": true
+      },
+      {
+        "concept": "subtle hints of lighter tan can be seen on its chest and the tips of its paws",
+        "clip_score": 0.1981,
+        "llava_p_yes": 0.848,
+        "llava_margin": 1.719,
+        "visible": true
+      },
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.1799,
+        "llava_p_yes": 0.662,
+        "llava_margin": 0.672,
+        "visible": true
+      },
+      {
+        "concept": "truly handsome canine companion",
+        "clip_score": 0.1885,
+        "llava_p_yes": 0.655,
+        "llava_margin": 0.641,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_002159.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.207,
+    "top5": [
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.2155,
+        "llava_p_yes": 0.484,
+        "llava_margin": -0.062,
+        "visible": false
+      },
+      {
+        "concept": "distinct white blaze runs down the length of its muzzle",
+        "clip_score": 0.2093,
+        "llava_p_yes": 0.817,
+        "llava_margin": 1.5,
+        "visible": true
+      },
+      {
+        "concept": "reminiscent of a dappled or brindle effect",
+        "clip_score": 0.2059,
+        "llava_p_yes": 0.589,
+        "llava_margin": 0.359,
+        "visible": true
+      },
+      {
+        "concept": "white blaze runs vertically up its snout",
+        "clip_score": 0.2044,
+        "llava_p_yes": 0.679,
+        "llava_margin": 0.75,
+        "visible": true
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.1997,
+        "llava_p_yes": 0.693,
+        "llava_margin": 0.812,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "maltese_s_001218.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1996,
+    "top5": [
+      {
+        "concept": "front paws are entirely dipped in white, resembling pristine gloves",
+        "clip_score": 0.2144,
+        "llava_p_yes": 0.311,
+        "llava_margin": -0.797,
+        "visible": false
+      },
+      {
+        "concept": "taps into a proud, noble expression",
+        "clip_score": 0.2056,
+        "llava_p_yes": 0.374,
+        "llava_margin": -0.516,
+        "visible": false
+      },
+      {
+        "concept": "white on front paws is more prominent than on hind legs",
+        "clip_score": 0.2009,
+        "llava_p_yes": 0.672,
+        "llava_margin": 0.719,
+        "visible": true
+      },
+      {
+        "concept": "distinguished patch of white fur graces its chest",
+        "clip_score": 0.1922,
+        "llava_p_yes": 0.709,
+        "llava_margin": 0.891,
+        "visible": true
+      },
+      {
+        "concept": "balance of both mahogany and white markings",
+        "clip_score": 0.1848,
+        "llava_p_yes": 0.342,
+        "llava_margin": -0.656,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "leopard_frog_s_000062.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2206,
+    "top5": [
+      {
+        "concept": "emit a resonant croak",
+        "clip_score": 0.2392,
+        "llava_p_yes": 0.085,
+        "llava_margin": -2.375,
+        "visible": false
+      },
+      {
+        "concept": "warty textures",
+        "clip_score": 0.2217,
+        "llava_p_yes": 0.895,
+        "llava_margin": 2.141,
+        "visible": true
+      },
+      {
+        "concept": "limbs, particularly the powerful hind legs, also display this contrasting pattern, though often with less dense brown spots",
+        "clip_score": 0.2127,
+        "llava_p_yes": 0.465,
+        "llava_margin": -0.141,
+        "visible": false
+      },
+      {
+        "concept": "hinting at its powerful jumping abilities",
+        "clip_score": 0.2154,
+        "llava_p_yes": 0.144,
+        "llava_margin": -1.781,
+        "visible": false
+      },
+      {
+        "concept": "miniature amphibian master of its domain",
+        "clip_score": 0.2138,
+        "llava_p_yes": 0.146,
+        "llava_margin": -1.766,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bufo_debilis_s_000169.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2068,
+    "top5": [
+      {
+        "concept": "limbs, particularly the powerful hind legs, also display this contrasting pattern, though often with less dense brown spots",
+        "clip_score": 0.2132,
+        "llava_p_yes": 0.426,
+        "llava_margin": -0.297,
+        "visible": false
+      },
+      {
+        "concept": "optimized for their amphibious lifestyle",
+        "clip_score": 0.216,
+        "llava_p_yes": 0.111,
+        "llava_margin": -2.078,
+        "visible": false
+      },
+      {
+        "concept": "excellent field of vision for spotting prey and predators",
+        "clip_score": 0.2085,
+        "llava_p_yes": 0.152,
+        "llava_margin": -1.719,
+        "visible": false
+      },
+      {
+        "concept": "warty textures",
+        "clip_score": 0.2018,
+        "llava_p_yes": 0.755,
+        "llava_margin": 1.125,
+        "visible": true
+      },
+      {
+        "concept": "large, bulging eyes dominate its head",
+        "clip_score": 0.1948,
+        "llava_p_yes": 0.342,
+        "llava_margin": -0.656,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "leopard_frog_s_001062.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2283,
+    "top5": [
+      {
+        "concept": "limbs, particularly the powerful hind legs, also display this contrasting pattern, though often with less dense brown spots",
+        "clip_score": 0.244,
+        "llava_p_yes": 0.26,
+        "llava_margin": -1.047,
+        "visible": false
+      },
+      {
+        "concept": "flecks of darker olive dotted its limbs",
+        "clip_score": 0.2309,
+        "llava_p_yes": 0.582,
+        "llava_margin": 0.328,
+        "visible": true
+      },
+      {
+        "concept": "delicate, webbed toes are spread wide on its hind feet, perfectly adapted for propelling through water",
+        "clip_score": 0.2276,
+        "llava_p_yes": 0.093,
+        "llava_margin": -2.281,
+        "visible": false
+      },
+      {
+        "concept": "scattered lighter, almost yellowish flecks interspersed within the green markings",
+        "clip_score": 0.2269,
+        "llava_p_yes": 0.651,
+        "llava_margin": 0.625,
+        "visible": true
+      },
+      {
+        "concept": "cream-colored underside provides a stark contrast to its dorsal coloration",
+        "clip_score": 0.2121,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bufo_debilis_s_000183.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.2181,
+    "top5": [
+      {
+        "concept": "emit a resonant croak",
+        "clip_score": 0.233,
+        "llava_p_yes": 0.057,
+        "llava_margin": -2.797,
+        "visible": false
+      },
+      {
+        "concept": "limbs, particularly the powerful hind legs, also display this contrasting pattern, though often with less dense brown spots",
+        "clip_score": 0.2165,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      },
+      {
+        "concept": "optimized for their amphibious lifestyle",
+        "clip_score": 0.216,
+        "llava_p_yes": 0.26,
+        "llava_margin": -1.047,
+        "visible": false
+      },
+      {
+        "concept": "large, bulging eyes dominate its head",
+        "clip_score": 0.2088,
+        "llava_p_yes": 0.171,
+        "llava_margin": -1.578,
+        "visible": false
+      },
+      {
+        "concept": "hinting at its powerful jumping abilities",
+        "clip_score": 0.2163,
+        "llava_p_yes": 0.101,
+        "llava_margin": -2.188,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "texas_toad_s_000054.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.207,
+    "top5": [
+      {
+        "concept": "warty textures",
+        "clip_score": 0.2287,
+        "llava_p_yes": 0.761,
+        "llava_margin": 1.156,
+        "visible": true
+      },
+      {
+        "concept": "snout was rounded",
+        "clip_score": 0.2152,
+        "llava_p_yes": 0.611,
+        "llava_margin": 0.453,
+        "visible": true
+      },
+      {
+        "concept": "limbs, particularly the powerful hind legs, also display this contrasting pattern, though often with less dense brown spots",
+        "clip_score": 0.205,
+        "llava_p_yes": 0.194,
+        "llava_margin": -1.422,
+        "visible": false
+      },
+      {
+        "concept": "miniature amphibian master of its domain",
+        "clip_score": 0.1991,
+        "llava_p_yes": 0.098,
+        "llava_margin": -2.219,
+        "visible": false
+      },
+      {
+        "concept": "optimized for their amphibious lifestyle",
+        "clip_score": 0.187,
+        "llava_p_yes": 0.124,
+        "llava_margin": -1.953,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "grass_frog_s_001056.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2234,
+    "top5": [
+      {
+        "concept": "emit a resonant croak",
+        "clip_score": 0.2468,
+        "llava_p_yes": 0.121,
+        "llava_margin": -1.984,
+        "visible": false
+      },
+      {
+        "concept": "hinting at its powerful jumping abilities",
+        "clip_score": 0.2284,
+        "llava_p_yes": 0.156,
+        "llava_margin": -1.688,
+        "visible": false
+      },
+      {
+        "concept": "optimized for their amphibious lifestyle",
+        "clip_score": 0.2134,
+        "llava_p_yes": 0.176,
+        "llava_margin": -1.547,
+        "visible": false
+      },
+      {
+        "concept": "snout was rounded",
+        "clip_score": 0.216,
+        "llava_p_yes": 0.686,
+        "llava_margin": 0.781,
+        "visible": true
+      },
+      {
+        "concept": "depth of color suggested healthy and thriving creature",
+        "clip_score": 0.2125,
+        "llava_p_yes": 0.658,
+        "llava_margin": 0.656,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "bullfrog_s_001506.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.2094,
+    "top5": [
+      {
+        "concept": "emit a resonant croak",
+        "clip_score": 0.2301,
+        "llava_p_yes": 0.182,
+        "llava_margin": -1.5,
+        "visible": false
+      },
+      {
+        "concept": "optimized for their amphibious lifestyle",
+        "clip_score": 0.2074,
+        "llava_p_yes": 0.446,
+        "llava_margin": -0.219,
+        "visible": false
+      },
+      {
+        "concept": "excellent field of vision for spotting prey and predators",
+        "clip_score": 0.2051,
+        "llava_p_yes": 0.22,
+        "llava_margin": -1.266,
+        "visible": false
+      },
+      {
+        "concept": "delicate, webbed toes are spread wide on its hind feet, perfectly adapted for propelling through water",
+        "clip_score": 0.2034,
+        "llava_p_yes": 0.171,
+        "llava_margin": -1.578,
+        "visible": false
+      },
+      {
+        "concept": "intricate pattern suggests an adaptation for both predator avoidance and potentially for attracting mates",
+        "clip_score": 0.2011,
+        "llava_p_yes": 0.311,
+        "llava_margin": -0.797,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "leopard_frog_s_000184.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.229,
+    "top5": [
+      {
+        "concept": "limbs, particularly the powerful hind legs, also display this contrasting pattern, though often with less dense brown spots",
+        "clip_score": 0.2455,
+        "llava_p_yes": 0.699,
+        "llava_margin": 0.844,
+        "visible": true
+      },
+      {
+        "concept": "emit a resonant croak",
+        "clip_score": 0.2395,
+        "llava_p_yes": 0.057,
+        "llava_margin": -2.812,
+        "visible": false
+      },
+      {
+        "concept": "delicate, webbed toes are spread wide on its hind feet, perfectly adapted for propelling through water",
+        "clip_score": 0.2306,
+        "llava_p_yes": 0.423,
+        "llava_margin": -0.312,
+        "visible": false
+      },
+      {
+        "concept": "hinting at its powerful jumping abilities",
+        "clip_score": 0.2216,
+        "llava_p_yes": 0.194,
+        "llava_margin": -1.422,
+        "visible": false
+      },
+      {
+        "concept": "large, bulging eyes dominate its head",
+        "clip_score": 0.2079,
+        "llava_p_yes": 0.187,
+        "llava_margin": -1.469,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bullfrog_s_000861.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2051,
+    "top5": [
+      {
+        "concept": "optimized for their amphibious lifestyle",
+        "clip_score": 0.2139,
+        "llava_p_yes": 0.367,
+        "llava_margin": -0.547,
+        "visible": false
+      },
+      {
+        "concept": "warty textures",
+        "clip_score": 0.2049,
+        "llava_p_yes": 0.769,
+        "llava_margin": 1.203,
+        "visible": true
+      },
+      {
+        "concept": "emit a resonant croak",
+        "clip_score": 0.2039,
+        "llava_p_yes": 0.098,
+        "llava_margin": -2.219,
+        "visible": false
+      },
+      {
+        "concept": "miniature amphibian master of its domain",
+        "clip_score": 0.2038,
+        "llava_p_yes": 0.118,
+        "llava_margin": -2.016,
+        "visible": false
+      },
+      {
+        "concept": "snout was rounded",
+        "clip_score": 0.1991,
+        "llava_p_yes": 0.676,
+        "llava_margin": 0.734,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "bufo_s_000682.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2094,
+    "top5": [
+      {
+        "concept": "limbs, particularly the powerful hind legs, also display this contrasting pattern, though often with less dense brown spots",
+        "clip_score": 0.2245,
+        "llava_p_yes": 0.245,
+        "llava_margin": -1.125,
+        "visible": false
+      },
+      {
+        "concept": "warty textures",
+        "clip_score": 0.2156,
+        "llava_p_yes": 0.703,
+        "llava_margin": 0.859,
+        "visible": true
+      },
+      {
+        "concept": "emit a resonant croak",
+        "clip_score": 0.2096,
+        "llava_p_yes": 0.014,
+        "llava_margin": -4.234,
+        "visible": false
+      },
+      {
+        "concept": "snout was rounded",
+        "clip_score": 0.2017,
+        "llava_p_yes": 0.611,
+        "llava_margin": 0.453,
+        "visible": true
+      },
+      {
+        "concept": "hinting at its powerful jumping abilities",
+        "clip_score": 0.1954,
+        "llava_p_yes": 0.031,
+        "llava_margin": -3.438,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "lippizaner_s_000537.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.217,
+    "top5": [
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2363,
+        "llava_p_yes": 0.824,
+        "llava_margin": 1.547,
+        "visible": true
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.2257,
+        "llava_p_yes": 0.291,
+        "llava_margin": -0.891,
+        "visible": false
+      },
+      {
+        "concept": "interplay of bay, dappling, roan, and white",
+        "clip_score": 0.2085,
+        "llava_p_yes": 0.301,
+        "llava_margin": -0.844,
+        "visible": false
+      },
+      {
+        "concept": "delicate blaze of white splits its forehead and extends down its nose, a classic equine marking",
+        "clip_score": 0.2156,
+        "llava_p_yes": 0.457,
+        "llava_margin": -0.172,
+        "visible": false
+      },
+      {
+        "concept": "delicate white blaze",
+        "clip_score": 0.199,
+        "llava_p_yes": 0.345,
+        "llava_margin": -0.641,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "arabian_s_001104.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.226,
+    "top5": [
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2439,
+        "llava_p_yes": 0.877,
+        "llava_margin": 1.969,
+        "visible": true
+      },
+      {
+        "concept": "darker shade of brown marked its mane and tail",
+        "clip_score": 0.2357,
+        "llava_p_yes": 0.686,
+        "llava_margin": 0.781,
+        "visible": true
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.2209,
+        "llava_p_yes": 0.4,
+        "llava_margin": -0.406,
+        "visible": false
+      },
+      {
+        "concept": "broad forehead to its sturdy hooves",
+        "clip_score": 0.2159,
+        "llava_p_yes": 0.728,
+        "llava_margin": 0.984,
+        "visible": true
+      },
+      {
+        "concept": "end in sturdy hooves designed for locomotion",
+        "clip_score": 0.2137,
+        "llava_p_yes": 0.815,
+        "llava_margin": 1.484,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "walking_horse_s_000504.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2188,
+    "top5": [
+      {
+        "concept": "darker shade of brown marked its mane and tail",
+        "clip_score": 0.242,
+        "llava_p_yes": 0.531,
+        "llava_margin": 0.125,
+        "visible": true
+      },
+      {
+        "concept": "broad forehead to its sturdy hooves",
+        "clip_score": 0.2196,
+        "llava_p_yes": 0.63,
+        "llava_margin": 0.531,
+        "visible": true
+      },
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2182,
+        "llava_p_yes": 0.887,
+        "llava_margin": 2.062,
+        "visible": true
+      },
+      {
+        "concept": "contrast of its dark coat against the green pasture",
+        "clip_score": 0.2118,
+        "llava_p_yes": 0.933,
+        "llava_margin": 2.625,
+        "visible": true
+      },
+      {
+        "concept": "interplay of bay, dappling, roan, and white",
+        "clip_score": 0.2021,
+        "llava_p_yes": 0.288,
+        "llava_margin": -0.906,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "broodmare_s_000706.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2176,
+    "top5": [
+      {
+        "concept": "interplay of bay, dappling, roan, and white",
+        "clip_score": 0.2269,
+        "llava_p_yes": 0.342,
+        "llava_margin": -0.656,
+        "visible": false
+      },
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2261,
+        "llava_p_yes": 0.954,
+        "llava_margin": 3.031,
+        "visible": true
+      },
+      {
+        "concept": "delicate blaze of white splits its forehead and extends down its nose, a classic equine marking",
+        "clip_score": 0.2229,
+        "llava_p_yes": 0.867,
+        "llava_margin": 1.875,
+        "visible": true
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.2204,
+        "llava_p_yes": 0.449,
+        "llava_margin": -0.203,
+        "visible": false
+      },
+      {
+        "concept": "delicate white blaze",
+        "clip_score": 0.192,
+        "llava_p_yes": 0.719,
+        "llava_margin": 0.938,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "arabian_s_001508.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2296,
+    "top5": [
+      {
+        "concept": "delicate blaze of white splits its forehead and extends down its nose, a classic equine marking",
+        "clip_score": 0.2409,
+        "llava_p_yes": 0.915,
+        "llava_margin": 2.375,
+        "visible": true
+      },
+      {
+        "concept": "darker shade of brown marked its mane and tail",
+        "clip_score": 0.2381,
+        "llava_p_yes": 0.813,
+        "llava_margin": 1.469,
+        "visible": true
+      },
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2368,
+        "llava_p_yes": 0.955,
+        "llava_margin": 3.047,
+        "visible": true
+      },
+      {
+        "concept": "delicate white blaze",
+        "clip_score": 0.2167,
+        "llava_p_yes": 0.644,
+        "llava_margin": 0.594,
+        "visible": true
+      },
+      {
+        "concept": "interplay of bay, dappling, roan, and white",
+        "clip_score": 0.2156,
+        "llava_p_yes": 0.769,
+        "llava_margin": 1.203,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "dawn_horse_s_001938.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.1901,
+    "top5": [
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2024,
+        "llava_p_yes": 0.89,
+        "llava_margin": 2.094,
+        "visible": true
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.1949,
+        "llava_p_yes": 0.623,
+        "llava_margin": 0.5,
+        "visible": true
+      },
+      {
+        "concept": "broad forehead to its sturdy hooves",
+        "clip_score": 0.1872,
+        "llava_p_yes": 0.689,
+        "llava_margin": 0.797,
+        "visible": true
+      },
+      {
+        "concept": "support the rider comfortably",
+        "clip_score": 0.1834,
+        "llava_p_yes": 0.761,
+        "llava_margin": 1.156,
+        "visible": true
+      },
+      {
+        "concept": "darker shade of brown marked its mane and tail",
+        "clip_score": 0.1827,
+        "llava_p_yes": 0.63,
+        "llava_margin": 0.531,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "quarter_horse_s_000670.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1996,
+    "top5": [
+      {
+        "concept": "interplay of bay, dappling, roan, and white",
+        "clip_score": 0.2088,
+        "llava_p_yes": 0.662,
+        "llava_margin": 0.672,
+        "visible": true
+      },
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.206,
+        "llava_p_yes": 0.928,
+        "llava_margin": 2.562,
+        "visible": true
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.2051,
+        "llava_p_yes": 0.607,
+        "llava_margin": 0.438,
+        "visible": true
+      },
+      {
+        "concept": "support the rider comfortably",
+        "clip_score": 0.1969,
+        "llava_p_yes": 0.815,
+        "llava_margin": 1.484,
+        "visible": true
+      },
+      {
+        "concept": "delicate white blaze",
+        "clip_score": 0.181,
+        "llava_p_yes": 0.407,
+        "llava_margin": -0.375,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "quarter_horse_s_001429.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1904,
+    "top5": [
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2086,
+        "llava_p_yes": 0.899,
+        "llava_margin": 2.188,
+        "visible": true
+      },
+      {
+        "concept": "interplay of bay, dappling, roan, and white",
+        "clip_score": 0.1884,
+        "llava_p_yes": 0.272,
+        "llava_margin": -0.984,
+        "visible": false
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.1918,
+        "llava_p_yes": 0.342,
+        "llava_margin": -0.656,
+        "visible": false
+      },
+      {
+        "concept": "blaze and socks providing clear points of interest",
+        "clip_score": 0.1789,
+        "llava_p_yes": 0.199,
+        "llava_margin": -1.391,
+        "visible": false
+      },
+      {
+        "concept": "darker shade of brown marked its mane and tail",
+        "clip_score": 0.1842,
+        "llava_p_yes": 0.604,
+        "llava_margin": 0.422,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "gelding_s_002024.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2157,
+    "top5": [
+      {
+        "concept": "darker shade of brown marked its mane and tail",
+        "clip_score": 0.2258,
+        "llava_p_yes": 0.686,
+        "llava_margin": 0.781,
+        "visible": true
+      },
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2216,
+        "llava_p_yes": 0.923,
+        "llava_margin": 2.484,
+        "visible": true
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.2111,
+        "llava_p_yes": 0.589,
+        "llava_margin": 0.359,
+        "visible": true
+      },
+      {
+        "concept": "broad forehead to its sturdy hooves",
+        "clip_score": 0.211,
+        "llava_p_yes": 0.876,
+        "llava_margin": 1.953,
+        "visible": true
+      },
+      {
+        "concept": "delicate blaze of white splits its forehead and extends down its nose, a classic equine marking",
+        "clip_score": 0.2092,
+        "llava_p_yes": 0.833,
+        "llava_margin": 1.609,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "broodmare_s_001093.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.208,
+    "top5": [
+      {
+        "concept": "darker shade of brown marked its mane and tail",
+        "clip_score": 0.2171,
+        "llava_p_yes": 0.817,
+        "llava_margin": 1.5,
+        "visible": true
+      },
+      {
+        "concept": "classic and timeless equine beauty",
+        "clip_score": 0.2144,
+        "llava_p_yes": 0.966,
+        "llava_margin": 3.344,
+        "visible": true
+      },
+      {
+        "concept": "faint roan markings can be observed in certain lighting conditions, particularly around the muzzle and flanks",
+        "clip_score": 0.2057,
+        "llava_p_yes": 0.535,
+        "llava_margin": 0.141,
+        "visible": true
+      },
+      {
+        "concept": "each strand of its mane and tail seemed to absorb all light, appearing as shadowy waterfalls",
+        "clip_score": 0.2036,
+        "llava_p_yes": 0.324,
+        "llava_margin": -0.734,
+        "visible": false
+      },
+      {
+        "concept": "delicate blaze of white splits its forehead and extends down its nose, a classic equine marking",
+        "clip_score": 0.1993,
+        "llava_p_yes": 0.324,
+        "llava_margin": -0.734,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "pontoon_s_000416.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1871,
+    "top5": [
+      {
+        "concept": "signature blue was defining characteristic of vessel",
+        "clip_score": 0.1946,
+        "llava_p_yes": 0.82,
+        "llava_margin": 1.516,
+        "visible": true
+      },
+      {
+        "concept": "lifeboats, painted a stark orange, hung precariously from their davits, ready for emergencies./end> sentence>navigation equipment, including radar dishes, communication antennas, bristled from the bridge",
+        "clip_score": 0.1905,
+        "llava_p_yes": 0.088,
+        "llava_margin": -2.344,
+        "visible": false
+      },
+      {
+        "concept": "periods of intense activity during loading and unloading",
+        "clip_score": 0.1875,
+        "llava_p_yes": 0.248,
+        "llava_margin": -1.109,
+        "visible": false
+      },
+      {
+        "concept": "alternative propulsion",
+        "clip_score": 0.1837,
+        "llava_p_yes": 0.18,
+        "llava_margin": -1.516,
+        "visible": false
+      },
+      {
+        "concept": "muted colors and sturdy construction speak to a long history of maritime service",
+        "clip_score": 0.179,
+        "llava_p_yes": 0.473,
+        "llava_margin": -0.109,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "oil_tanker_s_001014.png",
+    "true_class": "ship",
+    "predicted": "automobile",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2055,
+    "top5": [
+      {
+        "concept": "large, sculpted wheel arches house the vehicle's tires",
+        "clip_score": 0.211,
+        "llava_p_yes": 0.523,
+        "llava_margin": 0.094,
+        "visible": true
+      },
+      {
+        "concept": "intricate taillight designs that echo the front's aesthetic",
+        "clip_score": 0.2061,
+        "llava_p_yes": 0.202,
+        "llava_margin": -1.375,
+        "visible": false
+      },
+      {
+        "concept": "complete the picture of automotive excellence",
+        "clip_score": 0.2036,
+        "llava_p_yes": 0.245,
+        "llava_margin": -1.125,
+        "visible": false
+      },
+      {
+        "concept": "panoramic glass roof extended almost the entire length of the cabin",
+        "clip_score": 0.2006,
+        "llava_p_yes": 0.228,
+        "llava_margin": -1.219,
+        "visible": false
+      },
+      {
+        "concept": "focus on fuel economy and environmental concerns",
+        "clip_score": 0.2063,
+        "llava_p_yes": 0.121,
+        "llava_margin": -1.984,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tank_ship_s_000002.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1913,
+    "top5": [
+      {
+        "concept": "signature blue was defining characteristic of vessel",
+        "clip_score": 0.2055,
+        "llava_p_yes": 0.755,
+        "llava_margin": 1.125,
+        "visible": true
+      },
+      {
+        "concept": "broadsides",
+        "clip_score": 0.2018,
+        "llava_p_yes": 0.345,
+        "llava_margin": -0.641,
+        "visible": false
+      },
+      {
+        "concept": "several smaller cannons protruded from gunports along its broadsides",
+        "clip_score": 0.1898,
+        "llava_p_yes": 0.114,
+        "llava_margin": -2.047,
+        "visible": false
+      },
+      {
+        "concept": "stern widened slightly",
+        "clip_score": 0.183,
+        "llava_p_yes": 0.4,
+        "llava_margin": -0.406,
+        "visible": false
+      },
+      {
+        "concept": "hull a dull, burnished bronze",
+        "clip_score": 0.1762,
+        "llava_p_yes": 0.26,
+        "llava_margin": -1.047,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "cabin_cruiser_s_000398.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2008,
+    "top5": [
+      {
+        "concept": "dwarfing the smaller crafts that orbited its vicinity",
+        "clip_score": 0.2134,
+        "llava_p_yes": 0.52,
+        "llava_margin": 0.078,
+        "visible": true
+      },
+      {
+        "concept": "muted colors and sturdy construction speak to a long history of maritime service",
+        "clip_score": 0.1983,
+        "llava_p_yes": 0.488,
+        "llava_margin": -0.047,
+        "visible": false
+      },
+      {
+        "concept": "stern widened slightly",
+        "clip_score": 0.1982,
+        "llava_p_yes": 0.596,
+        "llava_margin": 0.391,
+        "visible": true
+      },
+      {
+        "concept": "signature blue was defining characteristic of vessel",
+        "clip_score": 0.1972,
+        "llava_p_yes": 0.867,
+        "llava_margin": 1.875,
+        "visible": true
+      },
+      {
+        "concept": "lifeboats, painted a stark orange, hung precariously from their davits, ready for emergencies./end> sentence>navigation equipment, including radar dishes, communication antennas, bristled from the bridge",
+        "clip_score": 0.1969,
+        "llava_p_yes": 0.148,
+        "llava_margin": -1.75,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "canal_boat_s_000047.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1873,
+    "top5": [
+      {
+        "concept": "hull a dull, burnished bronze",
+        "clip_score": 0.1896,
+        "llava_p_yes": 0.5,
+        "llava_margin": 0.0,
+        "visible": false
+      },
+      {
+        "concept": "punctuated by the object's name, typically rendered in bold, serif lettering on the stern or bow, often in gold or white",
+        "clip_score": 0.1873,
+        "llava_p_yes": 0.22,
+        "llava_margin": -1.266,
+        "visible": false
+      },
+      {
+        "concept": "lifeboats, painted a stark orange, hung precariously from their davits, ready for emergencies./end> sentence>navigation equipment, including radar dishes, communication antennas, bristled from the bridge",
+        "clip_score": 0.1869,
+        "llava_p_yes": 0.285,
+        "llava_margin": -0.922,
+        "visible": false
+      },
+      {
+        "concept": "silhouette was unbroken by superfluous ornamentation",
+        "clip_score": 0.1866,
+        "llava_p_yes": 0.547,
+        "llava_margin": 0.188,
+        "visible": true
+      },
+      {
+        "concept": "broadsides",
+        "clip_score": 0.1861,
+        "llava_p_yes": 0.473,
+        "llava_margin": -0.109,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "sea_boat_s_000704.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1925,
+    "top5": [
+      {
+        "concept": "dwarfing the smaller crafts that orbited its vicinity",
+        "clip_score": 0.2036,
+        "llava_p_yes": 0.321,
+        "llava_margin": -0.75,
+        "visible": false
+      },
+      {
+        "concept": "along the leading edge of each wing, a series of evenly spaced vertical fins break up the smooth surface",
+        "clip_score": 0.1971,
+        "llava_p_yes": 0.311,
+        "llava_margin": -0.797,
+        "visible": false
+      },
+      {
+        "concept": "muted colors and sturdy construction speak to a long history of maritime service",
+        "clip_score": 0.1882,
+        "llava_p_yes": 0.272,
+        "llava_margin": -0.984,
+        "visible": false
+      },
+      {
+        "concept": "modular construction or access panels",
+        "clip_score": 0.1877,
+        "llava_p_yes": 0.154,
+        "llava_margin": -1.703,
+        "visible": false
+      },
+      {
+        "concept": "contribute to a sense of aerodynamic efficiency",
+        "clip_score": 0.1861,
+        "llava_p_yes": 0.5,
+        "llava_margin": 0.0,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "guard_boat_s_000452.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.2057,
+    "top5": [
+      {
+        "concept": "lifeboats, painted a stark orange, hung precariously from their davits, ready for emergencies./end> sentence>navigation equipment, including radar dishes, communication antennas, bristled from the bridge",
+        "clip_score": 0.2299,
+        "llava_p_yes": 0.239,
+        "llava_margin": -1.156,
+        "visible": false
+      },
+      {
+        "concept": "signature blue was defining characteristic of vessel",
+        "clip_score": 0.2018,
+        "llava_p_yes": 0.209,
+        "llava_margin": -1.328,
+        "visible": false
+      },
+      {
+        "concept": "bright orange life raft clung to its port side",
+        "clip_score": 0.2013,
+        "llava_p_yes": 0.363,
+        "llava_margin": -0.562,
+        "visible": false
+      },
+      {
+        "concept": "muted colors and sturdy construction speak to a long history of maritime service",
+        "clip_score": 0.1977,
+        "llava_p_yes": 0.446,
+        "llava_margin": -0.219,
+        "visible": false
+      },
+      {
+        "concept": "dwarfing the smaller crafts that orbited its vicinity",
+        "clip_score": 0.198,
+        "llava_p_yes": 0.234,
+        "llava_margin": -1.188,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bumboat_s_000169.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1829,
+    "top5": [
+      {
+        "concept": "muted colors and sturdy construction speak to a long history of maritime service",
+        "clip_score": 0.1903,
+        "llava_p_yes": 0.426,
+        "llava_margin": -0.297,
+        "visible": false
+      },
+      {
+        "concept": "lifeboats, painted a stark orange, hung precariously from their davits, ready for emergencies./end> sentence>navigation equipment, including radar dishes, communication antennas, bristled from the bridge",
+        "clip_score": 0.1877,
+        "llava_p_yes": 0.128,
+        "llava_margin": -1.922,
+        "visible": false
+      },
+      {
+        "concept": "alternative propulsion",
+        "clip_score": 0.1859,
+        "llava_p_yes": 0.237,
+        "llava_margin": -1.172,
+        "visible": false
+      },
+      {
+        "concept": "stern widened slightly",
+        "clip_score": 0.1809,
+        "llava_p_yes": 0.457,
+        "llava_margin": -0.172,
+        "visible": false
+      },
+      {
+        "concept": "signature blue was defining characteristic of vessel",
+        "clip_score": 0.1698,
+        "llava_p_yes": 0.331,
+        "llava_margin": -0.703,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "pontoon_s_001425.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.186,
+    "top5": [
+      {
+        "concept": "signature blue was defining characteristic of vessel",
+        "clip_score": 0.194,
+        "llava_p_yes": 0.796,
+        "llava_margin": 1.359,
+        "visible": true
+      },
+      {
+        "concept": "offer unobstructed views of the surroundings",
+        "clip_score": 0.191,
+        "llava_p_yes": 0.666,
+        "llava_margin": 0.688,
+        "visible": true
+      },
+      {
+        "concept": "small, boxy cabins punctuated the upper decks",
+        "clip_score": 0.1832,
+        "llava_p_yes": 0.301,
+        "llava_margin": -0.844,
+        "visible": false
+      },
+      {
+        "concept": "lifeboats, painted a stark orange, hung precariously from their davits, ready for emergencies./end> sentence>navigation equipment, including radar dishes, communication antennas, bristled from the bridge",
+        "clip_score": 0.1818,
+        "llava_p_yes": 0.098,
+        "llava_margin": -2.219,
+        "visible": false
+      },
+      {
+        "concept": "dwarfing the smaller crafts that orbited its vicinity",
+        "clip_score": 0.18,
+        "llava_p_yes": 0.231,
+        "llava_margin": -1.203,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "merchant_ship_s_000915.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.2082,
+    "top5": [
+      {
+        "concept": "muted colors and sturdy construction speak to a long history of maritime service",
+        "clip_score": 0.2171,
+        "llava_p_yes": 0.245,
+        "llava_margin": -1.125,
+        "visible": false
+      },
+      {
+        "concept": "signature blue was defining characteristic of vessel",
+        "clip_score": 0.2124,
+        "llava_p_yes": 0.128,
+        "llava_margin": -1.922,
+        "visible": false
+      },
+      {
+        "concept": "hull was a classic v-shape",
+        "clip_score": 0.2101,
+        "llava_p_yes": 0.407,
+        "llava_margin": -0.375,
+        "visible": false
+      },
+      {
+        "concept": "broadsides",
+        "clip_score": 0.2022,
+        "llava_p_yes": 0.217,
+        "llava_margin": -1.281,
+        "visible": false
+      },
+      {
+        "concept": "lifeboats, painted a stark orange, hung precariously from their davits, ready for emergencies./end> sentence>navigation equipment, including radar dishes, communication antennas, bristled from the bridge",
+        "clip_score": 0.1994,
+        "llava_p_yes": 0.121,
+        "llava_margin": -1.984,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fire_engine_s_001143.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1951,
+    "top5": [
+      {
+        "concept": "bold, fiery red flame graphic erupts",
+        "clip_score": 0.2035,
+        "llava_p_yes": 0.146,
+        "llava_margin": -1.766,
+        "visible": false
+      },
+      {
+        "concept": "fenders and the roof maintain the solid red color without additional patterns",
+        "clip_score": 0.2149,
+        "llava_p_yes": 0.574,
+        "llava_margin": 0.297,
+        "visible": true
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.193,
+        "llava_p_yes": 0.835,
+        "llava_margin": 1.625,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.1876,
+        "llava_p_yes": 0.611,
+        "llava_margin": 0.453,
+        "visible": true
+      },
+      {
+        "concept": "long, horizontal grille dominates front of cab",
+        "clip_score": 0.1765,
+        "llava_p_yes": 0.527,
+        "llava_margin": 0.109,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "tractor_trailer_s_000708.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2365,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2553,
+        "llava_p_yes": 0.6,
+        "llava_margin": 0.406,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2405,
+        "llava_p_yes": 0.84,
+        "llava_margin": 1.656,
+        "visible": true
+      },
+      {
+        "concept": "elongated body is characteristic of a commercial vehicle designed for hauling goods",
+        "clip_score": 0.2294,
+        "llava_p_yes": 0.936,
+        "llava_margin": 2.672,
+        "visible": true
+      },
+      {
+        "concept": "usually with high sides and a tailgate at the rear for loading and unloading",
+        "clip_score": 0.2301,
+        "llava_p_yes": 0.755,
+        "llava_margin": 1.125,
+        "visible": true
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.2271,
+        "llava_p_yes": 0.934,
+        "llava_margin": 2.641,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "trailer_truck_s_000821.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2321,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2445,
+        "llava_p_yes": 0.473,
+        "llava_margin": -0.109,
+        "visible": false
+      },
+      {
+        "concept": "elongated body is characteristic of a commercial vehicle designed for hauling goods",
+        "clip_score": 0.2336,
+        "llava_p_yes": 0.918,
+        "llava_margin": 2.422,
+        "visible": true
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.2329,
+        "llava_p_yes": 0.925,
+        "llava_margin": 2.516,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2262,
+        "llava_p_yes": 0.662,
+        "llava_margin": 0.672,
+        "visible": true
+      },
+      {
+        "concept": "clear purpose for transporting goods across varied terrains",
+        "clip_score": 0.2232,
+        "llava_p_yes": 0.52,
+        "llava_margin": 0.078,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "tandem_trailer_s_000312.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2411,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2654,
+        "llava_p_yes": 0.755,
+        "llava_margin": 1.125,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2435,
+        "llava_p_yes": 0.865,
+        "llava_margin": 1.859,
+        "visible": true
+      },
+      {
+        "concept": "fundamentally a combination of a box for cargo and a distinct cab structure, built with industrial strength in mind",
+        "clip_score": 0.2381,
+        "llava_p_yes": 0.873,
+        "llava_margin": 1.922,
+        "visible": true
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.2309,
+        "llava_p_yes": 0.956,
+        "llava_margin": 3.078,
+        "visible": true
+      },
+      {
+        "concept": "usually with high sides and a tailgate at the rear for loading and unloading",
+        "clip_score": 0.2273,
+        "llava_p_yes": 0.731,
+        "llava_margin": 1.0,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "trucking_rig_s_001656.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2509,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2639,
+        "llava_p_yes": 0.508,
+        "llava_margin": 0.031,
+        "visible": true
+      },
+      {
+        "concept": "long, horizontal grille dominates front of cab",
+        "clip_score": 0.2507,
+        "llava_p_yes": 0.539,
+        "llava_margin": 0.156,
+        "visible": true
+      },
+      {
+        "concept": "elongated body is characteristic of a commercial vehicle designed for hauling goods",
+        "clip_score": 0.2505,
+        "llava_p_yes": 0.945,
+        "llava_margin": 2.844,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.25,
+        "llava_p_yes": 0.854,
+        "llava_margin": 1.766,
+        "visible": true
+      },
+      {
+        "concept": "overall shape is dictated by functionality, prioritizing hauling capacity and durability",
+        "clip_score": 0.2394,
+        "llava_p_yes": 0.889,
+        "llava_margin": 2.078,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "moving_van_s_000139.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2287,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2554,
+        "llava_p_yes": 0.551,
+        "llava_margin": 0.203,
+        "visible": true
+      },
+      {
+        "concept": "usually with high sides and a tailgate at the rear for loading and unloading",
+        "clip_score": 0.2276,
+        "llava_p_yes": 0.774,
+        "llava_margin": 1.234,
+        "visible": true
+      },
+      {
+        "concept": "long, horizontal grille dominates front of cab",
+        "clip_score": 0.2153,
+        "llava_p_yes": 0.535,
+        "llava_margin": 0.141,
+        "visible": true
+      },
+      {
+        "concept": "massive, gleaming silver trailer is attached",
+        "clip_score": 0.2293,
+        "llava_p_yes": 0.254,
+        "llava_margin": -1.078,
+        "visible": false
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2158,
+        "llava_p_yes": 0.777,
+        "llava_margin": 1.25,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "dump_truck_s_001963.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2314,
+    "top5": [
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2456,
+        "llava_p_yes": 0.703,
+        "llava_margin": 0.859,
+        "visible": true
+      },
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2332,
+        "llava_p_yes": 0.637,
+        "llava_margin": 0.562,
+        "visible": true
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.2283,
+        "llava_p_yes": 0.848,
+        "llava_margin": 1.719,
+        "visible": true
+      },
+      {
+        "concept": "usually with high sides and a tailgate at the rear for loading and unloading",
+        "clip_score": 0.2266,
+        "llava_p_yes": 0.662,
+        "llava_margin": 0.672,
+        "visible": true
+      },
+      {
+        "concept": "fundamentally a combination of a box for cargo and a distinct cab structure, built with industrial strength in mind",
+        "clip_score": 0.2232,
+        "llava_p_yes": 0.715,
+        "llava_margin": 0.922,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "aerial_ladder_truck_s_000569.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.202,
+    "top5": [
+      {
+        "concept": "long, horizontal grille dominates front of cab",
+        "clip_score": 0.2064,
+        "llava_p_yes": 0.551,
+        "llava_margin": 0.203,
+        "visible": true
+      },
+      {
+        "concept": "fenders and the roof maintain the solid red color without additional patterns",
+        "clip_score": 0.2086,
+        "llava_p_yes": 0.699,
+        "llava_margin": 0.844,
+        "visible": true
+      },
+      {
+        "concept": "substantial volume and blocky form characteristic of a vehicle designed for hauling significant loads",
+        "clip_score": 0.2068,
+        "llava_p_yes": 0.877,
+        "llava_margin": 1.969,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2046,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "bold, fiery red flame graphic erupts",
+        "clip_score": 0.1837,
+        "llava_p_yes": 0.152,
+        "llava_margin": -1.719,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fire_truck_s_000898.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2009,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2112,
+        "llava_p_yes": 0.516,
+        "llava_margin": 0.062,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2052,
+        "llava_p_yes": 0.746,
+        "llava_margin": 1.078,
+        "visible": true
+      },
+      {
+        "concept": "fenders and the roof maintain the solid red color without additional patterns",
+        "clip_score": 0.1991,
+        "llava_p_yes": 0.442,
+        "llava_margin": -0.234,
+        "visible": false
+      },
+      {
+        "concept": "elongated body is characteristic of a commercial vehicle designed for hauling goods",
+        "clip_score": 0.1951,
+        "llava_p_yes": 0.907,
+        "llava_margin": 2.281,
+        "visible": true
+      },
+      {
+        "concept": "wheelbase was long",
+        "clip_score": 0.194,
+        "llava_p_yes": 0.593,
+        "llava_margin": 0.375,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "delivery_truck_s_001470.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2321,
+    "top5": [
+      {
+        "concept": "includes a tailgate or a ramp for loading and unloading goods",
+        "clip_score": 0.2466,
+        "llava_p_yes": 0.619,
+        "llava_margin": 0.484,
+        "visible": true
+      },
+      {
+        "concept": "elongated body is characteristic of a commercial vehicle designed for hauling goods",
+        "clip_score": 0.2293,
+        "llava_p_yes": 0.934,
+        "llava_margin": 2.641,
+        "visible": true
+      },
+      {
+        "concept": "usually with high sides and a tailgate at the rear for loading and unloading",
+        "clip_score": 0.2317,
+        "llava_p_yes": 0.696,
+        "llava_margin": 0.828,
+        "visible": true
+      },
+      {
+        "concept": "fundamentally a combination of a box for cargo and a distinct cab structure, built with industrial strength in mind",
+        "clip_score": 0.2283,
+        "llava_p_yes": 0.808,
+        "llava_margin": 1.438,
+        "visible": true
+      },
+      {
+        "concept": "designed for hauling and heavy-duty tasks",
+        "clip_score": 0.2248,
+        "llava_p_yes": 0.764,
+        "llava_margin": 1.172,
+        "visible": true
+      }
+    ]
+  }
+]

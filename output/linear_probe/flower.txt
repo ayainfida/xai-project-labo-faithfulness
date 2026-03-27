@@ -1,0 +1,24 @@
+flower 1shot ViT-L/14, best C = 0.01, seed = 1
+Val Accuracy: 88.882, Val std: 0.000
+Test Accuracy = 88.056
+
+flower 2shot ViT-L/14, best C = 0.1778279410038923, seed = 1
+Val Accuracy: 93.482, Val std: 0.000
+Test Accuracy = 93.223
+
+flower 4shot ViT-L/14, best C = 0.31622776601683794, seed = 1
+Val Accuracy: 96.741, Val std: 0.000
+Test Accuracy = 97.967
+
+flower 8shot ViT-L/14, best C = 8.659643233600653, seed = 1
+Val Accuracy: 98.594, Val std: 0.000
+Test Accuracy = 98.645
+
+flower 16shot ViT-L/14, best C = 0.5935229272296985, seed = 1
+Val Accuracy: 98.914, Val std: 0.000
+Test Accuracy = 99.322
+
+flower allshot ViT-L/14, best C = 0.31622776601683794, seed = 1
+Val Accuracy: 99.105, Val std: 0.000
+Test Accuracy = 99.534
+

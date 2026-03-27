@@ -1,0 +1,11 @@
+{
+  "dataset": "results/faithfulness_cifar10_new.json",
+  "n_images": 100,
+  "n_correct": 89,
+  "accuracy": 0.89,
+  "mean_faith": 0.454,
+  "correct_faith": 0.465,
+  "incorrect_faith": 0.364,
+  "low_faith_count": 28,
+  "low_faith_pct": 0.28
+}

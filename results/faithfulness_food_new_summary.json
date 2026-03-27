@@ -1,0 +1,11 @@
+{
+  "dataset": "results/faithfulness_food_new.json",
+  "n_images": 1010,
+  "n_correct": 802,
+  "accuracy": 0.794,
+  "mean_faith": 0.59,
+  "correct_faith": 0.614,
+  "incorrect_faith": 0.5,
+  "low_faith_count": 149,
+  "low_faith_pct": 0.148
+}

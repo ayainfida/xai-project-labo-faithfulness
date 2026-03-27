@@ -1,0 +1,6 @@
+CUB_1shot_fac	55.61
+CUB_2shot_fac	65.48
+CUB_4shot_fac	71.59
+CUB_8shot_fac	75.7
+CUB_16shot_fac	80.64
+CUB_allshot_fac	82.22

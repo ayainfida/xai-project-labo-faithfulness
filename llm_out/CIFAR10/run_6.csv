@@ -1,0 +1,801 @@
+dataset,class_name,prompt,content
+CIFAR10,airplane,"Use 10 sentences to describe the what the airplane looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The airplane presented a sleek, silver fuselage that gleamed under the bright sunlight.</sentence>
+<sentence>Its wings were long and swept back, tapering to sharp, elegant tips.</sentence>
+<sentence>At the rear, a prominent, vertical tail fin stood tall, reassuringly steady.</sentence>
+<sentence>Beneath the wings, two powerful engines were mounted, their metallic casings reflecting the sky.</sentence>
+<sentence>Numerous windows, small and rectangular, dotted the sides of the body, hinting at the passengers within.</sentence>
+<sentence>The nose was sharply pointed, designed for cutting through the air with minimal resistance.</sentence>
+<sentence>Landing gear, retracted during flight, was cleverly concealed within the underbelly and wings.</sentence>
+<sentence>The overall impression was one of advanced engineering and aerodynamic efficiency.</sentence>
+<sentence>Subtle branding and insignia were visible on the tail and fuselage, identifying its airline.</sentence>
+<sentence>It was a magnificent machine, built for speed, distance, and defying gravity.</sentence>"
+CIFAR10,airplane,"Use 10 sentences to describe the the appearance of the airplane:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The airplane was a sleek, silver missile poised for flight.</sentence>
+<sentence>Its wings, long and tapered, gleamed under the midday sun.</sentence>
+<sentence>A pointed nose cone housed complex navigation equipment.</sentence>
+<sentence>Two powerful jet engines, mounted symmetrically beneath the wings, promised immense speed.</sentence>
+<sentence>The fuselage was a smooth, unbroken cylinder, a testament to aerodynamic design.</sentence>
+<sentence>A T-shaped tail, with its horizontal and vertical stabilizers, provided crucial control.</sentence>
+<sentence>The windows, a series of dark ovals, offered glimpses into the cabin.</sentence>
+<sentence>Its landing gear, robust and functional, retracted almost completely into the belly.</sentence>
+<sentence>Subtle airline markings adorned the tail fin, hinting at its operational purpose.</sentence>
+<sentence>Overall, its appearance conveyed a sense of advanced engineering and effortless motion.</sentence>"
+CIFAR10,airplane,"Use 10 sentences to describe the the color of the airplane:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The airplane shimmered under the midday sun, a brilliant, pristine white.</sentence>
+<sentence>It was a stark, unblemished white, like freshly fallen snow.</sentence>
+<sentence>No markings or paint accents adorned its fuselage, leaving only pure white.</sentence>
+<sentence>The white was so intense it seemed to absorb and reflect the entire spectrum of light.</sentence>
+<sentence>Occasionally, a faint pearlescent sheen would catch the light, hinting at subtle depth.</sentence>
+<sentence>The wings, also a clean white, stretched out in a powerful, elegant sweep.</sentence>
+<sentence>The overall impression was one of gleaming purity and understated sophistication.</sentence>
+<sentence>It was a white that spoke of speed, efficiency, and a touch of aspirational flight.</sentence>
+<sentence>Against the blue sky, the white of the airplane was a stark and beautiful contrast.</sentence>
+<sentence>This unadorned white made the aircraft itself the dominant visual element, a testament to its form and function.</sentence>"
+CIFAR10,airplane,"Use 10 sentences to describe the the pattern of the airplane:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The airplane's camouflage pattern is a striking visual disruption.</sentence>
+<sentence>It features irregular patches of dark green, brown, and black.</sentence>
+<sentence>These colors mimic the dappled shadows and textures of a forest canopy.</sentence>
+<sentence>The edges of the patches are not sharply defined, but rather soft and blended.</sentence>
+<sentence>This creates a mottled effect that makes it difficult to discern the aircraft's outline.</sentence>
+<sentence>The pattern is applied across the entire fuselage and wings.</sentence>
+<sentence>It appears to be designed for concealment against a terrestrial background.</sentence>
+<sentence>The varying shades and shapes contribute to breaking up the aircraft's form from a distance.</sentence>
+<sentence>This type of camouflage is often referred to as ""splinter"" or ""dazzle"" camouflage.</sentence>
+<sentence>The overall impression is one of deliberate visual confusion, rather than aesthetic appeal.</sentence>"
+CIFAR10,airplane,"Use 10 sentences to describe the the shape of the airplane:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The airplane possesses a sleek, aerodynamic fuselage, tapering towards the tail.</sentence>
+<sentence>Its extended, slender wings are horizontally mounted, providing lift and stability.</sentence>
+<sentence>A distinct vertical stabilizer, the tail fin, protrudes upwards from the rear.</sentence>
+<sentence>These wings are often swept back slightly, contributing to speed and efficiency.</sentence>
+<sentence>Beneath the wings, engines are typically mounted, varying in size and configuration.</sentence>
+<sentence>The nose of the aircraft is usually pointed, designed to cut through the air.</sentence>
+<sentence>A horizontal stabilizer, or tailplane, is located at the very end of the fuselage, mirroring the main wings.</sentence>
+<sentence>The landing gear, when extended, forms a tripod-like structure beneath the aircraft.</sentence>
+<sentence>The overall form is a harmonious blend of curves and straight lines, optimized for flight.</sentence>
+<sentence>It is a testament to engineering, creating a shape that is both functional and visually commanding.</sentence>"
+CIFAR10,automobile,"Use 10 sentences to describe the what the automobile looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The automobile gleamed under the midday sun, its sleek, aerodynamic body a deep, metallic blue.</sentence>
+<sentence>Its silhouette was low-slung and sporty, hinting at hidden power.</sentence>
+<sentence>The front fascia featured sharp, aggressive lines, with slender LED headlights that seemed to pierce the darkness.</sentence>
+<sentence>A prominent, black grille sat centrally, a bold statement of its presence.</sentence>
+<sentence>The wheels were large and alloy, with a complex, multi-spoke design that added to its sophisticated look.</sentence>
+<sentence>Tinted windows offered a glimpse into the luxurious, dark leather interior.</sentence>
+<sentence>The roofline flowed gracefully towards the rear, culminating in a subtle spoiler that enhanced its athletic stance.</sentence>
+<sentence>Chrome accents strategically adorned the door handles and window surrounds, catching the light with every movement.</sentence>
+<sentence>The rear of the car was equally impressive, with distinctive taillights that echoed the sharp design of the headlights.</sentence>
+<sentence>Overall, it presented an image of modern engineering and refined elegance.</sentence>"
+CIFAR10,automobile,"Use 10 sentences to describe the the appearance of the automobile:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The automobile gleamed with a deep, obsidian black paint that seemed to absorb all light.</sentence>
+<sentence>Its silhouette was sleek and aerodynamic, hinting at speed and power.</sentence>
+<sentence>Aggressively styled LED headlights, like sharp, predatory eyes, pierced through the darkness.</sentence>
+<sentence>A prominent, chrome grille dominated the front fascia, adding a touch of classic luxury to its modern design.</sentence>
+<sentence>The body lines flowed seamlessly, with subtle curves and sharp creases that created a dynamic visual tension.</sentence>
+<sentence>Large, multi-spoke alloy wheels, finished in a brushed silver, emphasized its sporty stance.</sentence>
+<sentence>The low-profile tires wrapped around the wheels suggested a connection to the road.</sentence>
+<sentence>Tinted windows obscured the interior, adding an air of mystery to its occupants.</sentence>
+<sentence>A subtle spoiler at the rear hinted at its performance capabilities.</sentence>
+<sentence>The overall impression was one of sophisticated aggression and undeniable presence.</sentence>"
+CIFAR10,automobile,"Use 10 sentences to describe the the color of the automobile:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The automobile shimmered with a deep, obsidian hue.</sentence>
+<sentence>It was a polished black, so dark it seemed to absorb the very light around it.</sentence>
+<sentence>In direct sunlight, subtle undertones of midnight blue would occasionally glimmer.</sentence>
+<sentence>The paint was flawlessly smooth, reflecting the world in a distorted, glossy mirror.</sentence>
+<sentence>When viewed from an angle, tiny metallic flecks would catch the light, adding a subtle sparkle.</sentence>
+<sentence>This was not a flat black, but a rich, multifaceted shade that spoke of luxury.</sentence>
+<sentence>The darkness of the car evoked a sense of mystery and undeniable power.</sentence>
+<sentence>Against a bright sky, its color was a profound void, a silhouette of pure elegance.</sentence>
+<sentence>Even in shadow, the paint held a deep, lustrous quality, never appearing dull or lifeless.</sentence>
+<sentence>It was the kind of black that made other colors seem to fade into insignificance.</sentence>"
+CIFAR10,automobile,"Use 10 sentences to describe the the pattern of the automobile:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The automobile exhibits a symmetrical design with a clear front, middle, and rear.</sentence>
+<sentence>Horizontal lines dominate the body, suggesting motion and speed.</sentence>
+<sentence>Vertical elements, like the wheels and pillars, provide structural stability and visual anchors.</sentence>
+<sentence>The overall form is aerodynamic, tapering towards the rear to reduce drag.</sentence>
+<sentence>Repetitive shapes, such as the circular wheels and rectangular windows, create a sense of order.</sentence>
+<sentence>There's a distinct contrast between the large, smooth surfaces of the body panels and the more detailed features like grilles and lights.</sentence>
+<sentence>The placement of headlights and taillights follows a logical, mirrored pattern on either side.</sentence>
+<sentence>The pattern of the doors and their handles is functional, designed for easy access.</sentence>
+<sentence>Subtle curves and chamfers soften the edges, adding a dynamic yet refined quality.</sentence>
+<sentence>The arrangement of these elements creates a cohesive and purposeful aesthetic, indicative of its engineered purpose.</sentence>"
+CIFAR10,automobile,"Use 10 sentences to describe the the shape of the automobile:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The automobile possesses a sleek and aerodynamic form, designed for efficient movement through the air.</sentence>
+<sentence>Its overall silhouette is characterized by a flowing, elongated body that tapers towards the rear.</sentence>
+<sentence>The front features a prominent grille, often integrated seamlessly into the bumper, hinting at the engine's power.</sentence>
+<sentence>Headlights are sculpted to complement the car's curves, imbuing it with a distinct visual identity.</sentence>
+<sentence>A gently sloping roofline gracefully descends towards the trunk, creating a coupe-like profile.</sentence>
+<sentence>The doors are typically wide and flush with the body, contributing to the clean aesthetic.</sentence>
+<sentence>Wheel arches are pronounced, housing circular or multi-spoke wheels that add to its dynamic stance.</sentence>
+<sentence>The rear of the vehicle often culminates in a broad, sculpted bumper and distinctive taillights that echo the front design.</sentence>
+<sentence>Sharp creases and subtle character lines run along its flanks, defining its three-dimensional presence.</sentence>
+<sentence>From every angle, the automobile presents a harmonious and purposeful shape, a testament to modern automotive design.</sentence>"
+CIFAR10,bird,"Use 10 sentences to describe the what the bird looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The bird is a striking creature with a body that appears to be painted in shades of deep emerald green.</sentence>
+<sentence>Its wings are a mosaic of vibrant sapphire blue, edged with a fine line of purest white.</sentence>
+<sentence>A patch of fiery crimson adorns its throat, creating a dramatic contrast against the green plumage.</sentence>
+<sentence>Its head is adorned with a delicate crest of iridescent violet feathers that catch the light.</sentence>
+<sentence>Two long, elegant tail feathers, tinged with gold, trail behind it like silken ribbons.</sentence>
+<sentence>The bird possesses a slender, elongated beak, the color of polished obsidian.</sentence>
+<sentence>Its eyes are like tiny, intelligent beads of liquid amber, full of curiosity.</sentence>
+<sentence>The legs and feet are a dusky grey, surprisingly sturdy for its delicate frame.</sentence>
+<sentence>When it preens, its plumage seems to shimmer, revealing subtle undertones of turquoise and yellow.</sentence>
+<sentence>Overall, the bird presents a breathtaking tapestry of jewel-toned colors, making it a truly magnificent sight.</sentence>"
+CIFAR10,bird,"Use 10 sentences to describe the the appearance of the bird:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The bird possessed a sleek, iridescent plumage that shimmered with hues of emerald and sapphire in the sunlight.</sentence>
+<sentence>Its head was crowned with a crest of delicate, elongated feathers, like a miniature, living diadem.</sentence>
+<sentence>Two bright, intelligent eyes, the color of polished obsidian, surveyed its surroundings with keen alertness.</sentence>
+<sentence>A slender, gracefully curved beak, sharp and pointed, hinted at its diet of insects or nectar.</sentence>
+<sentence>Its body was compact and agile, built for swift flight and nimble movements through branches.</sentence>
+<sentence>Long, slender legs with sharp, dark talons provided a firm grip on perches.</sentence>
+<sentence>The tail feathers fanned out in a broad, elegant display, tipped with subtle, darker markings.</sentence>
+<sentence>When it perched, its delicate form seemed almost too fragile to withstand the wind.</sentence>
+<sentence>The underbelly was a contrast of softer, muted tones, a pale dove grey that blended with dappled shade.</sentence>
+<sentence>Overall, it was a creature of striking beauty, an exquisite jewel flitting through the verdant canopy.</sentence>"
+CIFAR10,bird,"Use 10 sentences to describe the the color of the bird:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The bird's plumage was a breathtaking tapestry of vibrant hues.</sentence>
+<sentence>Its back shimmered with an iridescent sheen, shifting from emerald green to sapphire blue with every movement.</sentence>
+<sentence>A splash of fiery orange adorned its chest, like a miniature sunset captured on its feathers.</sentence>
+<sentence>Delicate streaks of sunshine yellow traced patterns along its wings, hinting at its swift flight.</sentence>
+<sentence>The crown of its head was a deep, velvety indigo, providing a stark contrast to its lighter tones.</sentence>
+<sentence>Tiny flecks of pure white dotted its throat, giving it a starry appearance.</sentence>
+<sentence>Even its tail feathers boasted a subtle gradient, fading from a rich burgundy at the base to a soft rose at the tips.</sentence>
+<sentence>The eyes, dark and beady, held a spark of intelligent obsidian.</sentence>
+<sentence>When it ruffled its feathers, one could catch glimpses of a softer, muted grey beneath the brilliant surface.</sentence>
+<sentence>Overall, the bird was a living jewel, a kaleidoscope of colors that captivated the eye.</sentence>"
+CIFAR10,bird,"Use 10 sentences to describe the the pattern of the bird:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The bird's plumage displayed a striking mosaic of iridescent blues and greens.</sentence>
+<sentence>Feather tips on its wings shimmered with a metallic copper hue, catching the light with every subtle movement.</sentence>
+<sentence>A distinct band of velvety black encircled its neck, contrasting sharply with the lighter tones of its breast.</sentence>
+<sentence>Its tail feathers were long and elegant, fanning out in a delicate cascade of charcoal and silver.</sentence>
+<sentence>Upon its head, a crown of bright crimson feathers formed a vibrant crest, adding a regal touch.</sentence>
+<sentence>The underside of its body was a soft, downy white, providing a gentle backdrop to the bolder colors above.</sentence>
+<sentence>Tiny, almost imperceptible speckles of gold dotted the edges of its wing coverts, adding a subtle complexity.</sentence>
+<sentence>Its legs and feet were a deep, slate grey, appearing sturdy and well-suited for perching.</sentence>
+<sentence>The pattern seemed to shift and change depending on the angle of observation, a testament to its natural iridescence.</sentence>
+<sentence>Overall, the bird presented a breathtaking display of nature's artistry, a harmonious blend of vibrant hues and subtle textures.</sentence>"
+CIFAR10,bird,"Use 10 sentences to describe the the shape of the bird:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The bird's body is generally torpedo-shaped, built for aerodynamic efficiency.</sentence>
+<sentence>Its slender torso tapers gracefully towards a finely pointed tail.</sentence>
+<sentence>The wings are long and narrow, resembling scythes when extended in flight.</sentence>
+<sentence>When folded, the wings lie close to the body, accentuating its streamlined contour.</sentence>
+<sentence>The head is proportionally small and somewhat conical, fitting neatly into the shoulders.</sentence>
+<sentence>A delicate, needle-like beak projects forward, adding to its pointed silhouette.</sentence>
+<sentence>The legs are thin and often tucked close to the body during flight, minimizing drag.</sentence>
+<sentence>In profile, the bird presents a smooth, unbroken line from the tip of its beak to the end of its tail.</sentence>
+<sentence>Its overall form suggests a creature designed for speed and agility in the air.</sentence>
+<sentence>Even when perched, a certain elegance and elongation characterize its bodily shape.</sentence>"
+CIFAR10,cat,"Use 10 sentences to describe the what the cat looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The cat possessed a coat of the deepest, richest black, so dark it seemed to absorb the very light around it.</sentence>
+<sentence>Its fur was short and sleek, lying close to its body in a way that accentuated its lithe and muscular form.</sentence>
+<sentence>Two large, almond-shaped eyes, the color of molten gold, dominated its face, gleaming with an intelligent and watchful intensity.</sentence>
+<sentence>Delicate, pointed ears, tipped with a slightly darker shade of black, twitched with an almost imperceptible sensitivity to sound.</sentence>
+<sentence>A slender, agile body was supported by long, graceful legs, hinting at a creature of swift and silent movement.</sentence>
+<sentence>Its tail was long and elegant, tapering to a fine point, and often held high with an air of regal confidence.</sentence>
+<sentence>A small, pink nose sat neatly at the center of its face, surrounded by a scattering of fine, white whiskers that quivered with curiosity.</sentence>
+<sentence>The cat’s muzzle was sharp and refined, giving its face a somewhat aristocratic appearance.</sentence>
+<sentence>Even its paws were neat and dainty, with soft, pink toe beans peeking out from beneath its dark fur.</sentence>
+<sentence>Overall, the cat was a study in sleek, dark elegance, a creature of shadow and striking visual contrast.</sentence>"
+CIFAR10,cat,"Use 10 sentences to describe the the appearance of the cat:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The cat possessed a coat of magnificent Persian silk, shimmering with an opalescent sheen.</sentence>
+<sentence>Its fur was a pristine white, so pure it seemed to absorb all other colors.</sentence>
+<sentence>Long, flowing tufts adorned its ears, resembling delicate, feathered plumes.</sentence>
+<sentence>Eyes like polished emeralds, large and luminous, gazed out with an intelligent spark.</sentence>
+<sentence>A delicate pink nose twitched at the slightest scent, a tiny button on its broad face.</sentence>
+<sentence>Its paws were dainty, tipped with retractable claws hidden beneath velvety pads.</sentence>
+<sentence>A luxurious plume of a tail, thick and abundant, trailed behind it like a royal train.</sentence>
+<sentence>The cat's build was robust and well-proportioned, exuding an air of quiet dignity.</sentence>
+<sentence>Whiskers, long and stark white, fanned out from its muzzle, sensitive to every movement in its environment.</sentence>
+<sentence>Even in repose, the cat carried an aura of regal grace, a living sculpture of exquisite beauty.</sentence>"
+CIFAR10,cat,"Use 10 sentences to describe the the color of the cat:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The cat's fur was a deep, velvety black, absorbing the light as if it were a piece of the night sky.</sentence>
+<sentence>Each strand seemed to possess an inherent sheen, catching the faintest glint and reflecting it back with a subtle shimmer.</sentence>
+<sentence>Even in dim light, the ebony hue remained remarkably consistent, without any hints of brown or grey.</sentence>
+<sentence>The midnight darkness of its coat gave it an almost mysterious aura, a sleek silhouette against any backdrop.</rfloor>
+<sentence>Close examination revealed a richness to the black, a depth that suggested more than just a simple absence of color.</sentence>
+<sentence>Sometimes, under direct sunlight, fleeting undertones of deep indigo or even a hint of violet seemed to emerge, deepening the intrigue.</sentence>
+<sentence>The stark contrast of its black coat against the vibrant colors of its surroundings made it a striking visual presence.</sentence>
+<sentence>Its paws were as dark as its body, leaving no trace of lighter fur on its paws.</sentence>
+<sentence>The whiskers, too, shared the same intense black, creating fine, dark lines fanning out from its elegant face.</sentence>
+<sentence>Overall, the cat was a magnificent study in the color black, a living embodiment of sophisticated darkness.</sentence>"
+CIFAR10,cat,"Use 10 sentences to describe the the pattern of the cat:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The cat displays a striking tabby pattern.</sentence>
+<sentence>Dark, swirling lines reminiscent of a marble cake adorn its fur.</sentence>
+<sentence>These markings are most prominent along its back and sides.</sentence>
+<sentence>A distinct ""M"" shape is visible on its forehead, a classic feline tabby trait.</sentence>
+<sentence>Thin, precise stripes break up the larger swirls on its legs and tail.</sentence>
+<sentence>The contrast between the dark stripes and the lighter coat creates a visually captivating effect.</sentence>
+<sentence>Even its face exhibits a delicate continuation of these linear embellishments.</sentence>
+<sentence>The pattern is consistent across its body, offering a harmonious appearance.</sentence>
+<sentence>These intricate lines are not a solid mass but rather a series of well-defined dark bands.</sentence>
+<sentence>This natural camouflage, with its blend of curves and lines, is a beautiful example of its species.</sentence>"
+CIFAR10,cat,"Use 10 sentences to describe the the shape of the cat:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The cat possesses a lithe and graceful form, built for agility and stealth.</sentence>
+<sentence>Its body is typically slender and elongated, allowing for fluid movement and impressive flexibility.</sentence>
+<sentence>A rounded head, often adorned with expressive eyes, sits atop a flexible neck.</sentence>
+<sentence>Ears, triangular and alert, can swivel independently to capture the slightest sound.</sentence>
+<sentence>Its legs are proportionate to its body, ending in delicate paws with retractable claws.</sentence>
+<sentence>The spine is remarkably supple, enabling it to twist and contort its body with ease.</sentence>
+<sentence>A long, often bushy tail acts as a crucial counterbalance during leaps and runs.</sentence>
+<sentence>Musculature is lean and defined, hinting at underlying power and speed.</sentence>
+<sentence>The overall silhouette is one of understated elegance and quiet confidence.</sentence>
+<sentence>From its pointed ears to the tip of its tail, the cat is a masterpiece of compact, efficient design.</sentence>"
+CIFAR10,deer,"Use 10 sentences to describe the what the deer looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The deer possesses a sleek, muscular build, conveying both grace and agility.</sentence>
+<sentence>Its coat is a rich, earthy brown, often dappled with lighter spots, especially in fawns.</sentence>
+<sentence>Large, expressive eyes, usually dark brown, are set prominently on its head, allowing for excellent peripheral vision.</sentence>
+<sentence>Delicate, pointed ears, capable of swiveling independently, are a constant indicator of its awareness of its surroundings.</sentence>
+<sentence>A slender, elegant neck supports its head, which is held with a curious and alert posture.</sentence>
+<sentence>The muzzle is typically dark and moist, and its nostrils are sensitive to the slightest scent.</sentence>
+<sentence>Beneath its fur, the deer's ribcage and spine are subtly defined, hinting at its lean physique.</sentence>
+<sentence>For males, the most striking feature is often the presence of magnificent antlers, which can range dramatically in size and complexity.</sentence>
+<sentence>Its legs are long and slender, built for speed and endurance, ending in hard, cloven hooves.</sentence>
+<sentence>A short, bushy tail, usually white on the underside, is often flicked as a signal to other deer.</sentence>"
+CIFAR10,deer,"Use 10 sentences to describe the the appearance of the deer:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The deer stood majestically in the clearing, its silhouette sharp against the fading light.</sentence>
+<sentence>Its coat was a rich, earthy brown, dappled with lighter shades that offered perfect camouflage against the forest floor.</sentence>
+<sentence>Large, liquid brown eyes, fringed with dark lashes, gazed out with a gentle curiosity.</sentence>
+<sentence>Its ears, long and pointed, twitched independently, ever alert to the subtlest sounds.</sentence>
+<sentence>A slender, graceful neck supported its noble head, which was held high with an inherent dignity.</sentence>
+<sentence>From its forehead, a pair of impressive antlers, branching elegantly, reached towards the sky.</sentence>
+<sentence>These antlers were a testament to its strength and maturity, a crown of bone adorned with velvety fuzz.</sentence>
+<sentence>Its legs were long and slender, built for swift movement and silent steps through the undergrowth.</sentence>
+<sentence>A short, white-tipped tail flicked occasionally, a subtle signal of its presence.</sentence>
+<sentence>The overall impression was one of wild beauty, a creature perfectly at home in its natural domain.</sentence>"
+CIFAR10,deer,"Use 10 sentences to describe the the color of the deer:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The deer's coat was a soft, tawny brown, reminiscent of dry earth after a summer rain.</sentence>
+<sentence>Hints of russet blended seamlessly into its fur, especially along its back and legs.</sentence>
+<sentence>In certain lights, a subtle reddish undertone emerged, giving its color a warm, earthy depth.</sentence>
+<sentence>Its belly and the underside of its tail offered a starker contrast, a pale cream or even white.</sentence>
+<sentence>The muzzle was often a darker, almost charcoal shade, contrasting with the lighter fur around its eyes.</sentence>
+<sentence>The tips of its ears displayed a darker brown, sometimes appearing almost black against the lighter surrounding fur.</sentence>
+<sentence>As seasons changed, the deer's brown hue would subtly deepen or lighten, a natural camouflage.</sentence>
+<sentence>Winter coats often possessed a richer, darker chocolate brown, providing better insulation and blending with a snow-dusted landscape.</sentence>
+<sentence>Summer coats were typically lighter, a more golden or sandy brown, blending with sun-bleached grasses.</sentence>
+<sentence>Overall, its color was a testament to nature's artistry, a perfect blend of earthy tones for survival.</sentence>"
+CIFAR10,deer,"Use 10 sentences to describe the the pattern of the deer:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The deer exhibits a classic dappled coat, a common camouflage for its woodland environment.</sentence>
+<sentence>Fawns are born with prominent white spots that gradually fade as they mature.</sentence>
+<sentence>These spots provide excellent concealment against the sun-dappled forest floor, protecting them from predators.</sentence>
+<sentence>Adult deer, particularly does and younger bucks, often retain a subtler spotting pattern, especially along their flanks.</sentence>
+<sentence>Older bucks, known for their impressive antlers, typically have a more uniform brown coat, with the spots becoming less noticeable.</sentence>
+<sentence>The color of the coat can vary seasonally, becoming a richer, darker brown in the summer and a paler, grayish-brown in the winter.</sentence>
+<sentence>A distinct white patch is often visible on the throat, serving as a potential signal or alertness indicator.</sentence>
+<sentence>The tail, frequently described as a white ""flag,"" is usually held low but raised when startled, flashing its underside as a warning.</sentence>
+<sentence>The overall pattern is a masterful adaptation for survival, blending seamlessly into their natural surroundings.</sentence>
+<sentence>This visually intriguing pattern is a defining characteristic of the deer species.</sentence>"
+CIFAR10,deer,"Use 10 sentences to describe the the shape of the deer:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The deer's body is characterized by a sleek, athletic build.</sentence>
+<sentence>Its frame is lean and muscular, suggesting agility and swiftness.</sentence>
+<sentence>A long, elegant neck supports a refined head.</sentence>
+<sentence>The legs are slender yet strong, designed for rapid movement through varied terrain.</sentence>
+<sentence>A prominent chest flares out, hinting at a powerful respiratory system.</sentence>
+<sentence>The back is generally straight and level, creating a streamlined profile.</sentence>
+<sentence>A delicate, tapered muzzle adds to the deer's graceful appearance.</sentence>
+<sentence>Its tail, often held high in alarm, is typically slender and somewhat flattened.</sentence>
+<sentence>The overall impression is one of lithe grace and understated strength.</sentence>
+<sentence>The curve of its flank flows smoothly into the hindquarters, further emphasizing its dynamic form.</sentence>"
+CIFAR10,dog,"Use 10 sentences to describe the what the dog looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The dog possessed a thick, luxuriant coat of a deep, sable brown.</sentence>
+<sentence>Its fur was so dense it almost seemed to swallow the light, with slightly lighter tips that gave it a subtle sheen.</sentence>
+<sentence>Two large, almond-shaped eyes, the color of warm amber, gazed out with an intelligent and gentle expression.</sentence>
+<sentence>Beneath those expressive eyes, a dark, wet nose twitched occasionally, ever alert to scents.</sentence>
+<sentence>Its ears were a striking feature, long and velvety, that drooped gracefully down the sides of its head.</sentence>
+<sentence>A sturdy, muscular build was evident in its broad chest and powerful legs, hinting at underlying strength.</sentence>
+<sentence>The dog's tail was long and bushy, often carried with a gentle sway that communicated its mood.</sentence>
+<sentence>A small, white patch adorned its chest, a charming imperfection against the uniform brownness of its fur.</sentence>
+<sentence>Its muzzle was well-defined, neither too short nor too long, with a slightly graying hue around the edges.</sentence>
+<sentence>Overall, it was a dog of impressive stature and handsome, classic features, radiating a calm and noble presence.</sentence>"
+CIFAR10,dog,"Use 10 sentences to describe the the appearance of the dog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The dog possessed a coat of the deepest ebony, so dark it seemed to absorb the very light around it.</sentence>
+<sentence>A pristine white blaze, like a streak of moonlight, ran down its chest and across its forehead.</sentence>
+<sentence>Its eyes were large, expressive orbs of a warm, liquid amber, full of intelligence and a hint of mischief.</sentence>
+<sentence>Long, floppy ears, tipped with the same stark white as its chest, framed its noble head.</sentence>
+<sentence>Its muzzle was broad and powerful, hinting at a breed known for its strength and gentle nature.</sentence>
+<sentence>A plume of a tail, carried with a proud arch, was tipped with a delicate dusting of white.</sentence>
+<sentence>Its build was sturdy and athletic, with well-defined muscles rippling beneath its sleek fur.</sentence>
+<sentence>Paws were large and well-padded, suggesting a dog accustomed to long walks and varied terrain.</sentence>
+<sentence>The overall impression was one of handsome dignity, a striking contrast of light and shadow.</sentence>
+<sentence>When it moved, its glossy coat shimmered, a testament to its healthy and well-cared-for appearance.</sentence>"
+CIFAR10,dog,"Use 10 sentences to describe the the color of the dog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The dog's coat shimmered with a rich, velvety black.</sentence>
+<sentence>Deep ebony hues dominated its fur, almost absorbing the light.</sentence>
+<sentence>In the sunlight, faint hints of deep mahogany could be glimpsed.</sentence>
+<sentence>Its fur was uniformly dark, without any patches of lighter color.</sentence>
+<sentence>The black was not a dull shade, but possessed a lustrous sheen.</sentence>
+<sentence>Against its dark fur, its bright, intelligent eyes stood out like polished obsidian.</sentence>
+<sentence>The tips of its ears were a slightly softer, charcoal black.</sentence>
+<sentence>Its paws presented a continuation of this deep, inky shade.</sentence>
+<sentence>Shadows played across its body, accentuating the depth of its dark coloration.</sentence>
+<sentence>This striking black fur gave the dog an air of elegant mystery.</sentence>"
+CIFAR10,dog,"Use 10 sentences to describe the the pattern of the dog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The dog's coat showcases a striking combination of black and white.</sentence>
+<sentence>Large, irregular patches of black dominate the back and sides.</sentence>
+<sentence>These black areas are interspersed with bright white sections, particularly on the chest and legs.</sentence>
+<sentence>A distinct white blaze runs down the length of its muzzle, creating a charming contrast.</sentence>
+<sentence>The tail is primarily black with a notable white tip, a common characteristic in piebald patterns.</sentence>
+<sentence>White socks are present on all four paws, extending upwards to varying heights.</sentence>
+<sentence>The ears are predominantly black, adding to the bold contrast of its coloration.</sentence>
+<sentence>Subtle flecks of white can be found within some of the larger black patches, suggesting a dappled effect.</sentence>
+<sentence>The overall impression is one of a well-defined, almost abstract pattern.</sentence>
+<sentence>No two markings appear exactly the same, giving the dog a unique and memorable appearance.</sentence>"
+CIFAR10,dog,"Use 10 sentences to describe the the shape of the dog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The dog possesses a body that is both sturdy and muscular, suggesting a breed built for endurance.</sentence>
+<sentence>Its back slopes gently from broad shoulders down to a well-tucked waist.</sentence>
+<sentence>The chest is deep and well-sprung, providing ample room for its strong heart and lungs.</sentence>
+<sentence>Its legs are straight and strong, with well-defined muscles that are evident even at rest.</sentence>
+<sentence>The paws are compact and rounded, appearing well-suited for various terrains.</sentence>
+<sentence>The tail, depending on the specific breed, might be carried high and plume-like or be a more understated, wagging appendage.</sentence>
+<sentence>Its neck is of moderate length, powerfully built to support its head.</sentence>
+<sentence>The head itself is often described as well-proportioned, with a distinct muzzle and strong jawline.</sentence>
+<sentence>Ears can vary dramatically, from erect and pointed to floppy and pendulous, contributing to its overall profile.</sentence>
+<sentence>Overall, the dog's shape speaks of a balanced, athletic, and characterful build designed for activity and companionship.</sentence>"
+CIFAR10,frog,"Use 10 sentences to describe the what the frog looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The frog possesses smooth, moist skin that glistens under the light.</sentence>
+<sentence>Its body is typically compact and muscular, built for leaping.</sentence>
+<sentence>Large, bulging eyes dominate its head, often offering a wide field of vision.</sentence>
+<sentence>These eyes can be various shades, from golden to deep black, sometimes with intricate patterns.</sentence>
+<sentence>Its mouth is wide, a characteristic feature perfect for catching insects.</sentence>
+<sentence>Strong, webbed hind legs are its primary mode of locomotion, providing power for jumps and swimming.</sentence>
+<sentence>Front legs are shorter and often used for balance or to prop itself up.</sentence>
+<sentence>The frog's color can vary immensely, from vibrant greens and browns to more muted or even brightly patterned hues.</sentence>
+<sentence>Its skin texture might also differ, sometimes appearing bumpy or slightly granular.</sentence>
+<sentence>Overall, the frog presents an agile and adaptable form, perfectly suited to its amphibious lifestyle.</sentence>"
+CIFAR10,frog,"Use 10 sentences to describe the the appearance of the frog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The tree frog possessed a vibrant emerald green skin that shimmered in the dappled sunlight.</sentence>
+<sentence>Its large, golden eyes, rimmed with black, seemed to absorb the surrounding light.</sentence>
+<sentence>Delicate, webbed toes, tipped with sticky pads, hinted at its arboreal lifestyle.</sentence>
+<sentence>A slender, elongated body allowed for swift and agile movements through its leafy habitat.</sentence>
+<sentence>Its skin appeared smooth and slightly moist, reflecting a healthy and hydrated condition.</sentence>
+<sentence>A subtle, lighter green patterned the underside of its body.</sentence>
+<sentence>Its slender legs were well-suited for leaping long distances from branch to branch.</sentence>
+<sentence>A small, pointed snout gave its face a perpetually curious expression.</sentence>
+<sentence>The frog's body was lean and athletic, built for efficiency and speed.</sentence>
+<sentence>Its overall appearance was one of delicate beauty and perfectly adapted camouflage.</sentence>"
+CIFAR10,frog,"Use 10 sentences to describe the the color of the frog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The frog's skin shimmered with an emerald luminescence.</sentence>
+<sentence>Its back was a vibrant, lush green, reminiscent of a sun-drenched meadow.</sentence>
+<sentence>Flecks of a darker, almost forest green dotted its flanks, adding depth to its coloration.</sentence>
+<sentence>Beneath its belly, a softer, paler jade hue emerged.</sentence>
+<sentence>Tiny, almost imperceptible golden specks seemed to be scattered across its textured surface.</sentence>
+<sentence>When light caught it just right, a subtle hint of chartreuse would gleam around its limbs.</sentence>
+<sentence>The green was not uniform, exhibiting subtle variations that hinted at its wild, natural environment.</sentence>
+<sentence>There were no artificial or unnatural tones; it was a pure, organic green.</sentence>
+<sentence>This verdant coloration provided excellent camouflage amongst the foliage it inhabited.</sentence>
+<sentence>It was a living jewel, radiating the essence of spring and new growth.</sentence>"
+CIFAR10,frog,"Use 10 sentences to describe the the pattern of the frog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The frog's skin displays a mesmerizing mosaic of earthy greens and browns.</sentence>
+<sentence>Irregularly shaped darker splotches, almost like ink blots, are scattered across its dorsum.</sentence>
+<sentence>These splotches vary in size, some being small and delicate, while others are bolder and more expansive.</sentence>
+<sentence>A subtle striping, often lighter in color, can be observed running lengthwise along its back.</sentence>
+<sentence>The transition between the green and brown hues is not sharp but rather a soft, blended gradient.</sentence>
+<sentence>These colors and patterns serve as excellent camouflage against the dappled light of its natural habitat.</sentence>
+<sentence>Its legs are adorned with similar markings, though often more elongated and defined.</sentence>
+<sentence>The underside of the frog tends to be a lighter, more uniform shade, providing a stark contrast.</sentence>
+<sentence>Tiny specks of yellow or gold sometimes glint within the darker splotches, adding a touch of subtle sparkle.</sentence>
+<sentence>Overall, the frog's pattern is a testament to the adaptive artistry of nature, providing both beauty and survival.</sentence>"
+CIFAR10,frog,"Use 10 sentences to describe the the shape of the frog:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>Frogs possess a typically rounded and squat body shape, designed for both agility and stability.</sentence>
+<sentence>Their heads are broad and flattened, merging smoothly into their bodies with no distinct neck.</sentence>
+<sentence>Large, prominent eyes bulge from the top of their heads, providing a wide field of vision.</sentence>
+<sentence>Their mouths are exceptionally wide, a gaping maw perfect for capturing prey.</sentence>
+<sentence>The front limbs are shorter and more slender than the powerful hind legs.</sentence>
+<sentence>Muscular hind legs are elongated and bent, adapted for powerful leaps and swimming.</sentence>
+<sentence>Webbed feet, especially on the hind limbs, increase surface area for efficient propulsion in water.</sentence>
+<sentence>Their skin is generally smooth and moist, contributing to their streamlined form.</sentence>
+<sentence>Some species exhibit a more flattened or elongated body, adapting to specific environments.</sentence>
+<sentence>Overall, the frog's shape is a testament to its amphibious lifestyle, balancing terrestrial movement with aquatic prowess.</sentence>"
+CIFAR10,horse,"Use 10 sentences to describe the what the horse looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The horse possessed a sleek, muscular build, suggesting both power and agility.</sentence>
+<sentence>Its coat was a rich, deep bay, gleaming with a healthy sheen under the sunlight.</sentence>
+<sentence>A pair of large, expressive dark eyes were set within its broad forehead, hinting at a gentle disposition.</sentence>
+<sentence>Its mane, a thick cascade of black hair, tumbled down its neck, often catching the breeze.</sentence>
+<sentence>The tail was long and flowing, a matching shade of dark, luxurious silk that swished with every movement.</sentence>
+<sentence>Long, elegant legs tapered down to strong, well-defined hooves, ready for any terrain.</sentence>
+<sentence>A noble head, with refined features and alert ears, turned to take in its surroundings.</sentence>
+<sentence>The curve of its powerful neck was accentuated by the way its muscles rippled beneath its skin.</sentence>
+<sentence>A white star, a distinct marking, graced its forehead, adding a touch of unique beauty.</sentence>
+<sentence>Even at rest, there was an undeniable presence about the animal, a quiet dignity in its form.</sentence>"
+CIFAR10,horse,"Use 10 sentences to describe the the appearance of the horse:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The horse possessed a coat of the deepest, almost raven black, gleaming with a subtle sheen under the sun.</sentence>
+<sentence>Its build was powerful and athletic, with well-defined muscles rippling beneath its dark hide.</sentence>
+<sentence>A long, flowing mane, also the color of midnight, cascaded down its neck, often catching the wind.</sentence>
+<sentence>Its tail was similarly luxurious, a thick plume that swished rhythmically as it moved.</sentence>
+<sentence>The head was noble and finely chiseled, with intelligent eyes that held a deep, knowing gaze.</sentence>
+<sentence>Long, graceful ears twitched expressively, picking up the slightest sounds.</sentence>
+<sentence>Its legs were long and sturdy, ending in hooves that were uniformly dark and well-shod.</sentence>
+<sentence>A subtle white blaze, like a streak of moonlight, ran down its forehead, providing a striking contrast to its dark face.</sentence>
+<sentence>The overall impression was one of elegance and strength, a creature built for both speed and endurance.</sentence>
+<sentence>Its glossy coat and refined features spoke of both its wild spirit and its inherent nobility.</sentence>"
+CIFAR10,horse,"Use 10 sentences to describe the the color of the horse:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The horse was a deep, rich chestnut, the color of polished mahogany.</sentence>
+<sentence>Sunlight caught its coat, revealing burnished copper highlights along its powerful muscles.</sentence>
+<sentence>Its mane and tail were a darker shade, almost a blackish-brown, adding a striking contrast.</sentence>
+<sentence>In the dappled shade, its coat took on a more muted, warm earth tone.</sentence>
+<sentence>There were subtle variations, hints of gold woven through the deeper red-browns.</sentence>
+<sentence>The color was not uniform, but flowed with a natural, organic beauty.</sentence>
+<sentence>It possessed a velvety richness, smooth and inviting to the touch.</sentence>
+<sentence>The horse's legs were slightly lighter, a softer ruddy hue extending down to its hooves.</sentence>
+<sentence>Overall, its color evoked a sense of warmth, strength, and an undeniable natural splendor.</sentence>
+<sentence>It was a color that spoke of fertile fields and the robust energy of the earth itself.</sentence>"
+CIFAR10,horse,"Use 10 sentences to describe the the pattern of the horse:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The horse's coat is a rich, deep bay color, reminiscent of polished mahogany.</sentence>
+<sentence>Across its flanks and back, a scattering of small, dark dapples creates a subtly dappled effect.</sentence>
+<sentence>These dapples are not uniform, appearing in varying sizes and densities.</sentence>
+<sentence>A distinct white blaze runs down the center of its face, widening as it reaches its muzzle.</sentence>
+<sentence>Its legs are a striking contrast, predominantly a creamy white from the knees down.</sentence>
+<sentence>However, faint darker stockings can be observed just above the white markings on its hind legs.</sentence>
+<sentence>The mane and tail are a beautiful silvery-grey, almost translucent in certain lights.</sentence>
+<sentence>These long, flowing hairs catch the sunlight, creating a shimmering halo around its head and hindquarters.</sentence>
+<sentence>The overall impression is one of elegance and understated beauty, with the contrasting colors adding depth and character.</sentence>
+<sentence>This unique arrangement of color and markings gives the horse a memorable and distinctive appearance.</sentence>"
+CIFAR10,horse,"Use 10 sentences to describe the the shape of the horse:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The horse possesses a powerful and athletic physique, built for both speed and endurance.</sentence>
+<sentence>Its body is characterized by strong, well-muscled legs, designed for efficient locomotion.</sentence>
+<sentence>A long, arched neck gracefully supports a noble and expressive head.</sentence>
+<sentence>The topline, encompassing the back and loin, often exhibits a gentle slope from the wither to the hindquarters.</sentence>
+<sentence>Broad shoulders contribute to the horse's powerful stride and ability to carry weight.</sentence>
+<sentence>The hindquarters are equally robust, providing the propulsion necessary for galloping and jumping.</sentence>
+<sentence>A flowing mane and tail add to the creature's majestic appearance, often framing its elegant form.</sentence>
+<sentence>The overall shape is one of harmonious balance, blending strength with agility.</sentence>
+<sentence>Its barrel-shaped body offers ample lung capacity for sustained effort.</sentence>
+<sentence>From every angle, the horse's form suggests a creature of dynamic movement and enduring spirit.</sentence>"
+CIFAR10,ship,"Use 10 sentences to describe the what the ship looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The ship was a majestic sight, its hull a deep, burnished copper that shimmered in the sunlight.</sentence>
+<sentence>Towering masts, draped with sails of an indeterminate, weathered grey, reached towards the heavens like skeletal fingers.</sentence>
+<sentence>A proud, carved figurehead, a fearsome sea serpent with emerald eyes, guarded the prow.</sentence>
+<sentence>Its decks were a network of weathered wood, worn smooth by countless footsteps and the relentless kiss of salt spray.</sentence>
+<sentence>Cannons, dark and silent, peeked menacingly from gunports lining the hull.</sentence>
+<sentence>Intricate rigging, a complex web of ropes and pulleys, crisscrossed the sky above the deck.</sentence>
+<sentence>The stern was adorned with a grand, arched window, likely a captain's cabin, hinting at the comforts within.</sentence>
+<sentence>Numerous smaller boats, rowboats and dinghies, were lashed to the sides, ready for deployment.</sentence>
+<sentence>A faint scent of tar and aged timber hung in the air, a testament to its maritime heritage.</sentence>
+<sentence>This vessel, weathered yet unbroken, exuded an aura of adventure and forgotten voyages.</sentence>"
+CIFAR10,ship,"Use 10 sentences to describe the the appearance of the ship:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The vessel was unusually sleek, its hull a seamless expanse of obsidian-like material that seemed to absorb surrounding light.</sentence>
+<sentence>Sharp, angular lines dominated its profile, eschewing any hint of traditional nautical curves.</sentence>
+<sentence>Along its flanks, subtle, pulsing veins of emerald light traced intricate patterns, imbuing it with an almost organic feel.</sentence>
+<sentence>The bridge, a crystalline protrusion, offered a panoramic view, shimmering with internal displays of unknown origin.</sentence>
+<sentence>Propulsion units, recessed and almost invisible, hinted at silent, powerful engines.</sentence>
+<sentence>No visible masts or traditional sails marred its silhouette; instead, a series of delicate, articulated fins extended from its upper dorsal ridge.</sentence>
+<sentence>The overall impression was one of advanced, alien design, both menacing and mesmerizing.</sentence>
+<sentence>A single, enormous, eye-like sensor array sat centrally on its prow, swiveling with unnerving deliberation.</sentence>
+<sentence>Its surface was utterly devoid of any rust, rivets, or outward signs of wear, suggesting a material far beyond terrestrial comprehension.</sentence>
+<sentence>The ship possessed a low, predatory stance, as if perpetually poised to strike or vanish into the void.</sentence>"
+CIFAR10,ship,"Use 10 sentences to describe the the color of the ship:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The ship shimmered with a deep, oceanic blue that evoked the boundless expanse of the sea.</sentence>
+<sentence>Streaks of pearlescent white traced the ship's hull, like foam cresting on a wave.</sentence>
+<sentence>In the sunlight, the blue deepened to an almost indigo, hinting at unseen depths.</sentence>
+<sentence>Where the light caught it, the color seemed to shift, revealing subtle emerald undertones.</sentence>
+<sentence>The overall effect was a masterful blend of the sea's own palette, both vibrant and serene.</sentence>
+<sentence>Against the sky, the ship's azure hue stood in striking contrast.</sentence>
+<sentence>The paint was not a flat color, but possessed a lustrous quality, reflecting the surrounding environment.</sentence>
+<sentence>It was a blue that spoke of adventure and the untamed spirit of exploration.</sentence>
+<sentence>As the ship moved, the colors seemed to flow and blend, a living tapestry on the water.</sentence>
+<sentence>This magnificent blue was more than just a hue; it was the very essence of the vessel's maritime soul.</sentence>"
+CIFAR10,ship,"Use 10 sentences to describe the the pattern of the ship:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The ship's pattern is a striking blend of functional design and nautical heritage.</sentence>
+<sentence>Dominantly, the hull exhibits a deep, rich navy blue, evoking the vastness of the ocean itself.</sentence>
+<sentence>A sharp, clean white stripe runs horizontally along the waterline, providing a crisp contrast to the darker hull.</sentence>
+<sentence>This white stripe is not a uniform band but subtly widens at the bow, adding a sense of forward momentum.</sentence>
+<sentence>Above this, the superstructure is painted a pristine white, reflecting the sun and maintaining a bright, airy appearance.</sentence>
+<sentence>Subtle accents of polished brass can be seen on railings and some lighting fixtures, adding a touch of classic elegance.</sentence>
+<sentence>The deck itself is a warm, stained wood, often teak, offering a contrasting organic texture to the painted surfaces.</sentence>
+<sentence>The pattern is punctuated by the ship's name, typically rendered in bold, serif lettering on the stern or bow, often in gold or white.</sentence>
+<sentence>Navigational lights, when illuminated, add their own distinct patterns of red, green, and white to the overall visual impression.</sentence>
+<sentence>Overall, the pattern suggests a vessel that is both seaworthy and gracefully poised.</sentence>"
+CIFAR10,ship,"Use 10 sentences to describe the the shape of the ship:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The ship presented a sleek, elongated silhouette against the horizon.</sentence>
+<sentence>Its hull was a classic V-shape, designed for both speed and stability.</sentence>
+<sentence>The bow tapered to a sharp point, cleaving through the waves with elegant precision.</sentence>
+<sentence>A prominent superstructure rose midship, housing the bridge and living quarters.</sentence>
+<sentence>The deck was broad and uncluttered, hinting at ample space for movement and cargo.</sentence>
+<sentence>Twin masts stood tall, their rigging a complex network against the sky, suggesting a sailing vessel.</sentence>
+<sentence>The stern curved gently downwards, a graceful termination to its journey's path.</sentence>
+<sentence>A single, substantial funnel dominated the aft section of the superstructure, emitting wisps of smoke.</sentence>
+<sentence>The overall form spoke of both power and grace, a harmonious blend of utilitarian design and aesthetic appeal.</sentence>
+<sentence>It possessed the enduring, timeless shape of a vessel built for the vast expanse of the ocean.</sentence>"
+CIFAR10,truck,"Use 10 sentences to describe the what the truck looks like:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The truck is a classic American pickup, boasting a robust and imposing presence.</sentence>
+<sentence>Its body is painted a deep, lustrous midnight blue, shimmering under the light.</sentence>
+<sentence>A prominent chrome grille, wide and inviting, sits at the front, housing a single, round headlight on each side.</sentence>
+<sentence>Large, knobby off-road tires are mounted on polished silver rims, hinting at its adventurous capabilities.</sentence>
+<sentence>The extended cab offers ample space, with tinted windows that add a touch of mystery.</sentence>
+<sentence>A substantial bed, also painted blue, is lined with a durable black spray-in bedliner.</sentence>
+<sentence>Chrome accents adorn the door handles, side mirrors, and a subtle strip along the lower body panels.</sentence>
+<sentence>The rear bumper is a heavy-duty chrome unit, integrated seamlessly into the truck's rugged design.</sentence>
+<sentence>Distinctive dual exhaust pipes exit discreetly from beneath the rear bumper, promising a satisfying rumble.</sentence>
+<sentence>Overall, the truck presents a powerful and stylish combination of vintage appeal and modern muscle.</sentence>"
+CIFAR10,truck,"Use 10 sentences to describe the the appearance of the truck:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The truck gleamed under the afternoon sun, its paint a deep, metallic forest green.</sentence>
+<sentence>A sturdy, chrome grille dominated the front, reflecting the sky like a polished mirror.</sentence>
+<sentence>Its headlights, wide and rectangular, seemed to peer out with a watchful intensity.</sentence>
+<sentence>The body of the truck was robust and muscular, with clean, straight lines suggesting power and dependability.</sentence>
+<sentence>Large, knobby tires hinted at its off-road capabilities, their treads deeply etched.</sentence>
+<sentence>Distinctive fender flares flared outwards, adding to its rugged and substantial presence.</sentence>
+<sentence>A practical, unadorned bed occupied the rear, ready for any task.</sentence>
+<sentence>The side mirrors were large and functional, offering a wide, unobstructed view.</sentence>
+<sentence>A modest, yet purposeful, exhaust pipe jutted out from the underside, hinting at the engine's latent strength.</sentence>
+<sentence>Overall, the truck presented an image of unpretentious strength and unwavering utility.</sentence>"
+CIFAR10,truck,"Use 10 sentences to describe the the color of the truck:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The truck glowed with a deep, rich crimson, a hue that spoke of power and passion.</sentence>
+<sentence>It wasn't a bright, flashy red, but a more muted, almost velvety shade that absorbed the light.</sentence>
+<sentence>Underneath the harsh sun, subtle undertones of burnt orange peeked through, adding complexity.</sentence>
+<sentence>In the shade, the crimson deepened, becoming intensely saturated and almost royal in its appearance.</sentence>
+<sentence>Tiny metallic flecks shimmered within the paint, catching the light and giving the surface a subtle sparkle.</sentence>
+<sentence>The color was consistent across the entire vehicle, from the expansive hood to the sturdy bed.</sentence>
+<sentence>It had a lustrous finish, reflecting the sky and surrounding environment with a polished sheen.</sentence>
+<sentence>This particular shade of red evoked a sense of classic automotive design, timeless and bold.</sentence>
+<sentence>It was the kind of color that would turn heads, not through ostentation, but through its sheer elegance.</sentence>
+<sentence>Overall, the truck's crimson paint was a sophisticated and striking statement.</sentence>"
+CIFAR10,truck,"Use 10 sentences to describe the the pattern of the truck:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The truck is primarily a deep, rich navy blue.</sentence>
+<sentence>Across its sides, a prominent white stripe runs horizontally.</sentence>
+<sentence>This white stripe is not a solid band but is segmented into several rectangular blocks.</sentence>
+<sentence>These white blocks have a darker blue outline, creating a distinct border.</sentence>
+<sentence>Within each white block, there are thinner, lighter blue lines.</sentence>
+<sentence>These lighter blue lines appear to be arranged in a subtle, repeating geometric pattern.</sentence>
+<sentence>The front of the truck also features the navy blue color.</sentence>
+<sentence>There may be some subtle detailing or accents in the lighter blue on the grille or bumper area.</sentence>
+<sentence>The overall impression is one of clean lines and a modern, professional design.</sentence>
+<sentence>The contrast between the navy blue and the white blocks makes the pattern highly visible and striking.</sentence>"
+CIFAR10,truck,"Use 10 sentences to describe the the shape of the truck:
+
+Your ouput should be in the following format:
+<sentence>sentence 1</sentence>
+<sentence>sentence 2</sentence>
+...
+<sentence>sentence 10</sentence>","<sentence>The truck possesses a robust and rectangular cabin, designed for utility.</sentence>
+<sentence>Its chassis is long and sturdy, built to carry substantial weight.</sentence>
+<sentence>A large cargo bed dominates the rear, forming a prominent box-like structure.</sentence>
+<sentence>The wheels are large and circular, elevated to provide ground clearance.</sentence>
+<sentence>Its front features a broad, imposing grille, signaling power.</sentence>
+<sentence>Headlights are typically rectangular or angular, integrated into the front fascia.</sentence>
+<sentence>The sides of the truck are generally flat planes, punctuated by doors and wheel wells.</sentence>
+<sentence>The overall silhouette is boxy and functional, emphasizing practicality over aerodynamics.</sentence>
+<sentence>A tow hitch or bumper may be present at the rear, adding to its utilitarian form.</sentence>
+<sentence>The cab often has a slightly sloped front windshield, but maintains a generally upright profile.</sentence>"

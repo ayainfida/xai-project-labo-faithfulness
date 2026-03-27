@@ -1,0 +1,11 @@
+{
+  "dataset": "results/faithfulness_flower_new.json",
+  "n_images": 1020,
+  "n_correct": 679,
+  "accuracy": 0.666,
+  "mean_faith": 0.693,
+  "correct_faith": 0.69,
+  "incorrect_faith": 0.697,
+  "low_faith_count": 34,
+  "low_faith_pct": 0.033
+}

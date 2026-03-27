@@ -1,0 +1,6 @@
+CIFAR10_1shot_fac	82.37
+CIFAR10_2shot_fac	90.31
+CIFAR10_4shot_fac	90.04
+CIFAR10_8shot_fac	92.68
+CIFAR10_16shot_fac	91.83
+CIFAR10_allshot_fac	97.43

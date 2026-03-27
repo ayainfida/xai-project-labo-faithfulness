@@ -1,0 +1,6 @@
+flower_1shot_fac	80.11
+flower_2shot_fac	87.01
+flower_4shot_fac	93.79
+flower_8shot_fac	95.13
+flower_16shot_fac	97.36
+flower_allshot_fac	98.7

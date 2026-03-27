@@ -1,0 +1,11 @@
+{
+  "dataset": "results/faithfulness_cub_g2.json",
+  "n_images": 1000,
+  "n_correct": 650,
+  "accuracy": 0.65,
+  "mean_faith": 0.722,
+  "correct_faith": 0.72,
+  "incorrect_faith": 0.725,
+  "low_faith_count": 46,
+  "low_faith_pct": 0.046
+}

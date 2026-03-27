@@ -1,0 +1,17 @@
+*.jpg
+*.png
+*.pth
+*.ckpt
+*.npy
+__pycache__
+wandb/
+lightning_logs/
+.DS_Store
+.env*
+t5-large-concept-extractor/
+datasets/**/images/
+.venv/
+cifar-10-batches-py
+cifar-10-python.tar.gz
+t5-large-concept-extractor.zip
+tmp

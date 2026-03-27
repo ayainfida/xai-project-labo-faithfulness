@@ -1,0 +1,6 @@
+food_1shot_fac	80.33
+food_2shot_fac	83.88
+food_4shot_fac	85.42
+food_8shot_fac	87.17
+food_16shot_fac	88.77
+food_allshot_fac	92.35

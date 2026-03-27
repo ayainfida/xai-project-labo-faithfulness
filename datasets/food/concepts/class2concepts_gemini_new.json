@@ -1,0 +1,882 @@
+{
+    "apple pie": [
+        "a crust made of pastry",
+        "apple filling",
+        "apples",
+        "baked in an oven",
+        "often spiced with cinnamon",
+        "warm"
+    ],
+    "baby back ribs": [
+        "a rack of pork ribs",
+        "a sweet, tangy glaze or sauce",
+        "barbecue",
+        "grill",
+        "smoker"
+    ],
+    "baklava": [
+        "a sweet, flaky pastry",
+        "chopped nuts",
+        "honey",
+        "nuts",
+        "phyllo dough",
+        "sweet syrup or honey"
+    ],
+    "beef carpaccio": [
+        "arugula",
+        "capers",
+        "cracked black pepper",
+        "drizzled with olive oil",
+        "lemon juice",
+        "parmesan cheese",
+        "raw beef",
+        "red onion",
+        "thinly sliced beef"
+    ],
+    "beef tartare": [
+        "Worcestershire sauce",
+        "egg yolk",
+        "meat dish",
+        "raw dish",
+        "raw, finely chopped beef",
+        "toast"
+    ],
+    "beet salad": [
+        "a salad dressing",
+        "chopped cooked beets",
+        "cubed or sliced beets",
+        "goat cheese",
+        "greens",
+        "may include nuts or cheese",
+        "often mixed with greens",
+        "plant-based food",
+        "vinaigrette"
+    ],
+    "beignets": [
+        "a cafe",
+        "a deep fryer",
+        "chicory",
+        "light, airy interior",
+        "pastry",
+        "powdered sugar",
+        "puffy and airy interior",
+        "square or rectangular shape"
+    ],
+    "bibimbap": [
+        "bowl of rice",
+        "gochujang",
+        "gochujang (spicy chili paste)",
+        "korean food",
+        "meat or tofu",
+        "mixed food"
+    ],
+    "bread pudding": [
+        "baked until set",
+        "cubes of bread",
+        "custard",
+        "milk or cream",
+        "raisins",
+        "sweet",
+        "vanilla"
+    ],
+    "breakfast burrito": [
+        "bacon",
+        "cheese",
+        "potatoes",
+        "salsa",
+        "sausage"
+    ],
+    "bruschetta": [
+        "topping of tomatoes and basil"
+    ],
+    "caesar salad": [
+        "anchovies",
+        "croutons",
+        "romaine lettuce"
+    ],
+    "cannoli": [
+        "candied fruit",
+        "chocolate chips",
+        "fried pastry tube",
+        "sweet ricotta filling",
+        "tube-shaped"
+    ],
+    "caprese salad": [
+        "a sprinkle of salt and pepper",
+        "balsamic glaze",
+        "basil",
+        "fresh basil leaves",
+        "slices of fresh mozzarella"
+    ],
+    "carrot cake": [
+        "a dense, moist texture",
+        "a sweet, spiced flavor",
+        "baked good",
+        "carrots",
+        "cinnamon",
+        "cream cheese frosting",
+        "flour",
+        "frosting",
+        "grated carrots",
+        "made with shredded carrots",
+        "moist cake texture",
+        "spices",
+        "sugar",
+        "walnuts"
+    ],
+    "ceviche": [
+        "chips",
+        "citrus juice marinade",
+        "raw fish cured in citrus juice"
+    ],
+    "cheese plate": [
+        "a board",
+        "assortment of cheeses",
+        "fruit or nuts",
+        "served on a platter or board",
+        "various types of cheese"
+    ],
+    "cheesecake": [
+        "a crumb",
+        "a crust",
+        "a topping",
+        "cream cheese",
+        "made with cream cheese",
+        "sweet flavor"
+    ],
+    "chicken curry": [
+        "a creamy, spiced sauce",
+        "a reddish-orange color",
+        "curry powder",
+        "edible",
+        "often contains vegetables",
+        "onion",
+        "poultry dish"
+    ],
+    "chicken quesadilla": [
+        "beans",
+        "cooked chicken",
+        "folded",
+        "mexican",
+        "mexican dish",
+        "sour cream",
+        "tortilla"
+    ],
+    "chicken wings": [
+        "a bar",
+        "animal product",
+        "blue cheese",
+        "fried chicken drumettes",
+        "people",
+        "pieces of chicken",
+        "savory sauce coating"
+    ],
+    "chocolate cake": [
+        "a birthday",
+        "a celebration",
+        "cake-like consistency",
+        "candles",
+        "dark brown color",
+        "often topped with frosting",
+        "plates",
+        "usually round or rectangular"
+    ],
+    "chocolate mousse": [
+        "a date",
+        "a dessert bowl",
+        "a raspberry",
+        "a rich, sweet chocolate flavor",
+        "chocolate",
+        "chocolate shavings",
+        "often dark or milk chocolate",
+        "whipped cream"
+    ],
+    "churros": [
+        "a paper cone",
+        "a street vendor",
+        "chocolate sauce",
+        "long, ridged shape",
+        "sprinkled with sugar"
+    ],
+    "clam chowder": [
+        "clams",
+        "crackers",
+        "creamy white broth"
+    ],
+    "club sandwich": [
+        "a toothpick",
+        "often cut into quarters",
+        "turkey",
+        "two layers of filling"
+    ],
+    "crab cakes": [
+        "a frying pan",
+        "a patty or cake shape",
+        "an oven",
+        "bread crumb coating",
+        "bread crumbs",
+        "made of crab meat",
+        "often fried or broiled",
+        "seasoning",
+        "typically served as a patty"
+    ],
+    "creme brulee": [
+        "a burnt sugar crust",
+        "a creamy custard base",
+        "a ramekin",
+        "a torch",
+        "caramel",
+        "caramelized sugar topping",
+        "dairy product",
+        "rich eggy flavor",
+        "typically served in a ramekin"
+    ],
+    "croque madame": [
+        "bechamel sauce",
+        "fried egg",
+        "fried or poached egg on top",
+        "ham",
+        "toasted bread"
+    ],
+    "cup cakes": [
+        "a cake stand",
+        "frosting or icing on top",
+        "icing",
+        "individual portion size",
+        "often decorated",
+        "paper liners",
+        "sprinkles"
+    ],
+    "deviled eggs": [
+        "a party",
+        "a picnic",
+        "hard-boiled eggs, halved",
+        "mustard",
+        "paprika",
+        "snack"
+    ],
+    "donuts": [
+        "a glaze",
+        "a hole in the middle",
+        "round shape",
+        "sprinkles or other toppings",
+        "sweet glaze or frosting"
+    ],
+    "dumplings": [
+        "a pot",
+        "a steamer",
+        "dough",
+        "dough wrapper",
+        "folded shape",
+        "prepared meal",
+        "steam"
+    ],
+    "edamame": [
+        "a market stall",
+        "a plant",
+        "a pod",
+        "a stalk",
+        "fuzzy pods",
+        "green pods",
+        "green soybeans in a pod",
+        "legume",
+        "served in the pod",
+        "small, oval beans",
+        "soil",
+        "soybeans",
+        "soybeans inside"
+    ],
+    "eggs benedict": [
+        "brunch",
+        "canadian bacon",
+        "dish with muffin",
+        "english muffin",
+        "ham or bacon",
+        "hollandaise sauce",
+        "poached egg",
+        "recipe",
+        "savory dish"
+    ],
+    "escargots": [
+        "a garden",
+        "a slime trail",
+        "a snail that is edible",
+        "a snail with a shell",
+        "damp soil",
+        "dirt",
+        "gastropod",
+        "leaves",
+        "moisture",
+        "mollusc",
+        "often served in its shell",
+        "slime",
+        "vegetation"
+    ],
+    "falafel": [
+        "fried chickpea patties",
+        "herbs and species",
+        "hot sauce",
+        "often served in a pita bread",
+        "seasoned with herbs and spices",
+        "vegetarian dish"
+    ],
+    "filet mignon": [
+        "a tender cut of beef",
+        "a thick, round cut",
+        "cut from the tenderloin",
+        "marbled with fat",
+        "pepper",
+        "rich marbling",
+        "rich red color",
+        "typically seared or grilled"
+    ],
+    "fish and chips": [
+        "a newspaper",
+        "battered fish",
+        "cod",
+        "fried fish",
+        "haddock",
+        "salt and vinegar",
+        "takeaway box",
+        "tartar sauce"
+    ],
+    "foie gras": [
+        "a cage",
+        "a farm",
+        "a feeding tube",
+        "a goose",
+        "a kitchen",
+        "a liver",
+        "corn",
+        "delicate, complex flavor",
+        "liver dish",
+        "poultry product",
+        "rich, buttery texture"
+    ],
+    "french fries": [
+        "a bag",
+        "fried potato strips",
+        "potato dish",
+        "salty",
+        "served hot",
+        "thin, elongated potato strips",
+        "typically salted",
+        "vegetable"
+    ],
+    "french onion soup": [
+        "a bowl",
+        "beef broth",
+        "caramelized onions",
+        "crouton",
+        "melted cheese",
+        "soup"
+    ],
+    "french toast": [
+        "bread dish",
+        "fried",
+        "fried or griddled"
+    ],
+    "fried calamari": [
+        " Seafood",
+        "a crispy, golden-brown coating",
+        "a dip",
+        "light and airy texture",
+        "ring-shaped",
+        "rings of fried squid",
+        "squid",
+        "squid tentacles"
+    ],
+    "fried rice": [
+        "cuisine",
+        "eggs",
+        "meal",
+        "oil",
+        "wok"
+    ],
+    "frozen yogurt": [
+        "a cone",
+        "a cup",
+        "a dispenser",
+        "a store",
+        "cold temperature",
+        "frozen food",
+        "various toppings available"
+    ],
+    "garlic bread": [
+        "butter or olive oil",
+        "garlic flavor"
+    ],
+    "gnocchi": [
+        "often ridged to hold sauce",
+        "typically served with a sauce"
+    ],
+    "greek salad": [
+        "feta cheese",
+        "greek dish",
+        "lettuce",
+        "olive oil",
+        "olives",
+        "oregano"
+    ],
+    "grilled cheese sandwich": [
+        "browned, toasted exterior",
+        "butter or oil for cooking",
+        "grilled or toasted",
+        "two slices of bread"
+    ],
+    "grilled salmon": [
+        "cooked",
+        "cooked food",
+        "cooked texture",
+        "flaky fish",
+        "flaky texture",
+        "grilled marks",
+        "pink or orange flesh",
+        "salmon",
+        "skin on one side"
+    ],
+    "guacamole": [
+        "avocado product",
+        "jalapeno",
+        "mashed avocado",
+        "plant product"
+    ],
+    "gyoza": [
+        "a dipping dish",
+        "a pan",
+        "cabbage",
+        "crescent-shaped",
+        "dumpling wrapper",
+        "garlic",
+        "ground meat filling",
+        "pan-fried on one side",
+        "pan-fried or steamed",
+        "sesame oil",
+        "steamed on the other side"
+    ],
+    "hamburger": [
+        "a patty",
+        "meat patty",
+        "tomato"
+    ],
+    "hot and sour soup": [
+        "bamboo shoots",
+        "chili pepper",
+        "chili peppers",
+        "mushrooms",
+        "presence of chili peppers",
+        "presence of vinegar",
+        "sour flavor",
+        "spicy flavor",
+        "thick broth",
+        "tofu",
+        "vinegar"
+    ],
+    "hot dog": [
+        "a cart",
+        "a long, cylindrical shape",
+        "a sausage in a bun",
+        "a stand",
+        "ketchup",
+        "meat product",
+        "processed food",
+        "relish",
+        "typically with condiments"
+    ],
+    "huevos rancheros": [
+        "salsa or ranchero sauce",
+        "tortillas"
+    ],
+    "hummus": [
+        "chickpeas",
+        "legume-based dish",
+        "made from chickpeas",
+        "paste",
+        "pita bread",
+        "spread",
+        "tahini"
+    ],
+    "ice cream": [
+        "a child",
+        "a creamy texture",
+        "a freezer",
+        "a frozen dessert",
+        "available in various flavors",
+        "often flavored",
+        "often served in a cone or bowl",
+        "sweet and cold"
+    ],
+    "lasagna": [
+        "a baked dish",
+        "baked",
+        "bechamel",
+        "casserole",
+        "layers of cheese",
+        "layers of meat or vegetables",
+        "layers of meat sauce",
+        "layers of pasta",
+        "meat sauce",
+        "mozzarella cheese",
+        "pasta sheets",
+        "ricotta cheese"
+    ],
+    "lobster bisque": [
+        "a creamy, rich soup",
+        "aroma of lobster and herbs",
+        "cream",
+        "made with lobster meat",
+        "sweet, savory lobster flavor"
+    ],
+    "lobster roll sandwich": [
+        "a bun",
+        "a pickle",
+        "a side salad",
+        "bread roll or bun",
+        "celery",
+        "celery or other seasonings",
+        "lemon",
+        "mayonnaise or butter"
+    ],
+    "macaroni and cheese": [
+        "baked or stovetop preparation",
+        "cheese sauce",
+        "elbow macaroni",
+        "milk",
+        "pan",
+        "pasta"
+    ],
+    "macarons": [
+        "a baker",
+        "a bakery",
+        "a creamy filling",
+        "a dessert plate",
+        "a pastry chef",
+        "a smooth, glossy shell",
+        "a soft, chewy interior",
+        "a wide variety of colors",
+        "almond flour",
+        "almonds",
+        "bright, often pastel colors",
+        "buttercream",
+        "egg whites",
+        "fruit",
+        "round, meringue-based cookie",
+        "ruffled edge (\"foot\")",
+        "smooth, domed top"
+    ],
+    "miso soup": [
+        "a savory broth made with dashi",
+        "cubes of tofu",
+        "dashi",
+        "fermented food",
+        "japanese dish",
+        "miso paste",
+        "small pieces of tofu",
+        "thinly sliced seaweed (wakame)",
+        "wakame"
+    ],
+    "mussels": [
+        "a beach",
+        "a boat",
+        "a hard, hinged shell",
+        "a hard, protective shell",
+        "a rock",
+        "a sea",
+        "a shell",
+        "a tide pool",
+        "a wave",
+        "benthic",
+        "byssal threads for attachment",
+        "elongated or ovate shape",
+        "filter feeders",
+        "invertebrate",
+        "rocks",
+        "two hinged shells"
+    ],
+    "nachos": [
+        "tortilla chips"
+    ],
+    "omelette": [
+        "a spatula",
+        "beaten eggs",
+        "beaten eggs cooked in a pan",
+        "cooked and folded",
+        "egg dish",
+        "herbs",
+        "often with fillings",
+        "often yellow in color"
+    ],
+    "onion rings": [
+        "a basket",
+        "a pub",
+        "batter",
+        "batter coating",
+        "deep-fried",
+        "fried batter",
+        "grease",
+        "vegetable dish"
+    ],
+    "oysters": [
+        "a bivalve mollusk",
+        "a diver",
+        "a pearl",
+        "a reef",
+        "a rough, irregular shell",
+        "a soft, fleshy body inside",
+        "oyster beds",
+        "saltwater"
+    ],
+    "pad thai": [
+        "bean sprouts",
+        "chili",
+        "crushed peanuts",
+        "fish sauce",
+        "lime",
+        "peanuts",
+        "rice noodles",
+        "scrambled egg",
+        "shrimp or chicken",
+        "tamarind sauce",
+        "thai dish"
+    ],
+    "paella": [
+        "a spoon",
+        "a stove",
+        "cooked in olive oil",
+        "often cooked over an open fire",
+        "saffron"
+    ],
+    "pancakes": [
+        "a griddle",
+        "berries",
+        "breakfast food",
+        "fluffy or airy texture",
+        "made from batter",
+        "often served in a stack",
+        "served with syrup or toppings",
+        "syrup",
+        "typically golden brown"
+    ],
+    "panna cotta": [
+        "a cooked cream dessert",
+        "a smooth, jiggly texture",
+        "gelatin",
+        "mint",
+        "often molded",
+        "set with gelatin",
+        "sweetened",
+        "sweetener"
+    ],
+    "peking duck": [
+        "a broad, flat bill",
+        "a chef",
+        "a round, fluffy appearance",
+        "a short, thick beak",
+        "a short, thick neck",
+        "a small, compact body",
+        "bird",
+        "broad, short wings",
+        "cucumber",
+        "duck",
+        "duck sauce",
+        "hoisin sauce",
+        "short legs",
+        "short, rounded tail",
+        "vertebrate"
+    ],
+    "pho": [
+        "chilies",
+        "meat (usually beef or chicken)",
+        "sliced meat",
+        "sprouts"
+    ],
+    "pizza": [
+        "a box",
+        "a round, flat bread base",
+        "pepperoni"
+    ],
+    "pork chop": [
+        "a bone-in cut",
+        "a cut of pork from the loin",
+        "a layer of fat on the edge",
+        "a rib or loin cut",
+        "a thick piece of meat",
+        "bone in the center",
+        "salt"
+    ],
+    "poutine": [
+        "a napkin",
+        "a plate",
+        "a restaurant",
+        "cheese curds",
+        "dish",
+        "gravy"
+    ],
+    "prime rib": [
+        "a bone",
+        "a brown, caramelized crust",
+        "a carving fork",
+        "a platter",
+        "a rich, marbled texture",
+        "a roasting pan",
+        "a steak sauce",
+        "a thermometer",
+        "typically has a bone attached",
+        "usually roasted"
+    ],
+    "pulled pork sandwich": [
+        "barbecue sauce",
+        "bread",
+        "buns",
+        "coleslaw",
+        "food",
+        "pickles",
+        "served on a bun",
+        "shredded pork meat"
+    ],
+    "ramen": [
+        "broth",
+        "noodle dish",
+        "noodles",
+        "scallions",
+        "toppings"
+    ],
+    "ravioli": [
+        "square or round pasta pockets"
+    ],
+    "red velvet cake": [
+        "a slice"
+    ],
+    "risotto": [
+        "addition of cheese or butter",
+        "grain-based food",
+        "rice cooked in broth",
+        "rice dish",
+        "short-grain rice",
+        "slowly cooked with broth",
+        "wine"
+    ],
+    "samosa": [
+        "chutney",
+        "fried dough",
+        "fried pastry",
+        "peas",
+        "potato filling",
+        "savory filling",
+        "spicy potato and pea filling",
+        "triangular shape"
+    ],
+    "sashimi": [
+        "raw",
+        "thinly sliced raw fish"
+    ],
+    "scallops": [
+        "a fan-shaped shell",
+        "a net",
+        "animal",
+        "sand",
+        "shells",
+        "the ocean",
+        "the shell has ridges",
+        "water"
+    ],
+    "seaweed salad": [
+        "a slightly chewy texture",
+        "dressing",
+        "often contains sesame seeds",
+        "sesame seeds"
+    ],
+    "shrimp and grits": [
+        "a popular Southern dish",
+        "butter",
+        "comfort food",
+        "cooked shrimp",
+        "fork",
+        "grits",
+        "heavy cream",
+        "shrimp"
+    ],
+    "spaghetti bolognese": [
+        "ground meat",
+        "tomato sauce"
+    ],
+    "spaghetti carbonara": [
+        "black pepper",
+        "cured pork",
+        "guanciale",
+        "hard cheese",
+        "italian dish",
+        "pecorino romano cheese"
+    ],
+    "spring rolls": [
+        "a wrapper",
+        "appetizer",
+        "crispy pastry wrapper",
+        "dipping sauce",
+        "egg roll wrapper",
+        "filling",
+        "fried to a golden brown",
+        "thin, crispy wrapper"
+    ],
+    "steak": [
+        "a knife",
+        "a sauce",
+        "a side dish",
+        "a table",
+        "cut from beef",
+        "cut from the carcass of a cow",
+        "raw or cooked meat"
+    ],
+    "strawberry shortcake": [
+        "biscuits",
+        "layers of sponge cake",
+        "sliced strawberries",
+        "strawberries"
+    ],
+    "sushi": [
+        "chopsticks",
+        "fish",
+        "ginger",
+        "raw fish",
+        "rice",
+        "soy sauce",
+        "wasabi"
+    ],
+    "tacos": [
+        "cilantro",
+        "folded tortilla"
+    ],
+    "takoyaki": [
+        "a ball-shaped snack",
+        "a pick",
+        "ball-shaped dough",
+        "batter-based",
+        "bonito flakes",
+        "cooked in a molded pan",
+        "cooking oil",
+        "filled with diced octopus",
+        "green onion",
+        "octopus",
+        "pickled ginger"
+    ],
+    "tiramisu": [
+        "cocoa powder",
+        "cocoa powder dusting",
+        "coffee",
+        "ladyfingers",
+        "ladyfingers soaked in coffee",
+        "layers of sweet cream",
+        "mascarpone",
+        "mascarpone cheese mixture",
+        "rum"
+    ],
+    "tuna tartare": [
+        "avocado",
+        "raw, diced tuna",
+        "tuna",
+        "typically served cold"
+    ],
+    "waffles": [
+        "square-shaped indentations"
+    ]
+}

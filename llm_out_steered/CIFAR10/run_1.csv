@@ -1,0 +1,767 @@
+dataset,class_name,prompt,content,concept_count
+CIFAR10,airplane,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a airplane:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>wings</tag>
+    <tag>a fuselage</tag>
+    <tag>a tail</tag>
+    <tag>engines</tag>",4
+CIFAR10,airplane,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a airplane:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>a runway</tag>
+<tag>a terminal</tag>
+<tag>a tarmac</tag>
+<tag>a hangar</tag>
+<tag>a control tower</tag>
+<tag>clouds</tag>
+<tag>wings</tag>",7
+CIFAR10,airplane,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word airplane:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>vehicle</tag>
+<tag>aircraft</tag>
+<tag>machine</tag>",3
+CIFAR10,automobile,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a automobile:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>wheels</tag>
+    <tag>an engine</tag>
+    <tag>a body or chassis</tag>
+    <tag>a steering mechanism</tag>
+    <tag>a seating area for passengers</tag>",5
+CIFAR10,automobile,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a automobile:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","    <tag>wheels</tag>
+    <tag>an engine</tag>
+    <tag>a steering wheel</tag>
+    <tag>doors</tag>
+    <tag>windows</tag>
+    <tag>a road</tag>
+    <tag>gasoline</tag>",7
+CIFAR10,automobile,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word automobile:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>vehicle</tag>
+<tag>machine</tag>
+<tag>object</tag>",3
+CIFAR10,bird,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a bird:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>feathers</tag>
+<tag>wings</tag>
+<tag>beak</tag>
+<tag>two legs</tag>",4
+CIFAR10,bird,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a bird:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>a nest</tag>
+<tag>a tree</tag>
+<tag>feathers</tag>
+<tag>eggs</tag>
+<tag>the sky</tag>
+<tag>worms</tag>
+<tag>seeds</tag>",7
+CIFAR10,bird,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word bird:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>vertebrate</tag>
+<tag>animal</tag>",2
+CIFAR10,cat,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a cat:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","    <tag>whiskers</tag>
+    <tag>fur</tag>
+    <tag>pointed ears</tag>
+    <tag>tail</tag>
+    <tag>paws with claws</tag>",5
+CIFAR10,cat,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a cat:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>a house</tag>
+<tag>a sofa</tag>
+<tag>a bed</tag>
+<tag>food</tag>
+<tag>water</tag>
+<tag>toys</tag>
+<tag>a litter box</tag>",7
+CIFAR10,cat,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word cat:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>mammal</tag>
+<tag>vertebrate</tag>
+<tag>animal</tag>",3
+CIFAR10,deer,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a deer:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>antlers</tag>
+<tag>four legs</tag>
+<tag>fur</tag>
+<tag>hooves</tag>
+<tag>a long tail</tag>",5
+CIFAR10,deer,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a deer:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","    <tag>a forest</tag>
+    <tag>a meadow</tag>
+    <tag>trees</tag>
+    <tag>grass</tag>
+    <tag>bushes</tag>
+    <tag>plants</tag>
+    <tag>other deer</tag>",7
+CIFAR10,deer,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word deer:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>mammal</tag>
+<tag>vertebrate</tag>
+<tag>animal</tag>",3
+CIFAR10,dog,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a dog:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>four legs</tag>
+<tag>a tail</tag>
+<tag>fur</tag>
+<tag>barking sound</tag>
+<tag>wet nose</tag>",5
+CIFAR10,dog,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a dog:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>a leash</tag>
+<tag>a collar</tag>
+<tag>a bowl</tag>
+<tag>food</tag>
+<tag>water</tag>
+<tag>a house</tag>
+<tag>a yard</tag>",7
+CIFAR10,dog,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word dog:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>mammal</tag>
+<tag>vertebrate</tag>
+<tag>animal</tag>",3
+CIFAR10,frog,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a frog:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>webbed feet</tag>
+<tag>long, powerful hind legs</tag>
+<tag>smooth, moist skin</tag>
+<tag>bulging eyes</tag>
+<tag>a croaking sound</tag>",5
+CIFAR10,frog,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a frog:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>a pond</tag>
+<tag>water</tag>
+<tag>lily pads</tag>
+<tag>insects</tag>
+<tag>mud</tag>
+<tag>reeds</tag>
+<tag>dragonflies</tag>",7
+CIFAR10,frog,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word frog:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>amphibian</tag>
+<tag>vertebrate</tag>
+<tag>animal</tag>",3
+CIFAR10,horse,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a horse:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>a large, four-legged mammal</tag>
+<tag>a long mane</tag>
+<tag>a tail</tag>
+<tag>hooves</tag>",4
+CIFAR10,horse,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a horse:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>a stable</tag>
+<tag>a pasture</tag>
+<tag>a saddle</tag>
+<tag>a bridle</tag>
+<tag>a barn</tag>
+<tag>grass</tag>
+<tag>fences</tag>",7
+CIFAR10,horse,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word horse:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>mammal</tag>
+<tag>vertebrate</tag>
+<tag>animal</tag>",3
+CIFAR10,ship,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a ship:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","    <tag>a large hull</tag>
+    <tag>a deck</tag>
+    <tag>a propulsion system (like an engine or sails)</tag>
+    <tag>a superstructure (like a cabin or bridge)</tag>
+    <tag>likely to float on water</tag>",5
+CIFAR10,ship,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a ship:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>water</tag>
+<tag>a dock</tag>
+<tag>a port</tag>
+<tag>a crew</tag>
+<tag>an anchor</tag>
+<tag>a sail</tag>
+<tag>a flag</tag>",7
+CIFAR10,ship,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ship:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>vehicle</tag>
+<tag>watercraft</tag>
+<tag>boat</tag>",3
+CIFAR10,truck,"List the most important features for recognizing something as a ""goldfish"":
+    <tag>bright orange color</tag>
+    <tag>a small,round body</tag>
+    <tag>a long flowing tail</tag>
+    <tag>a small mouth</tag>
+    <tag>orange fins</tag>
+
+    List the most important features for recognizing something as a ""scuba diver"":
+    <tag>a person wearing a scuba mask and breathing apparatus</tag>
+    <tag>a wetsuit</tag>
+    <tag>flippers</tag>
+    <tag>diving tank</tag>
+
+    List the most important features for recognizing something as a truck:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","    <tag>a large cargo bed</tag>
+    <tag>a powerful engine</tag>
+    <tag>a large grille</tag>
+    <tag>high ground clearance</tag>
+    <tag>a robust chassis</tag>",5
+CIFAR10,truck,"List the things most commonly seen around a ""tench"":
+    <tag>a pond</tag>
+    <tag>fish</tag>
+    <tag>a net</tag>
+    <tag>a rod</tag>
+    <tag>a reel</tag>
+    <tag>a hook</tag>
+    <tag>bait</tag>
+
+    List the things most commonly seen around a ""mountain"":
+    <tag>a peak</tag>
+    <tag>a valley</tag>
+    <tag>a forest</tag>
+    <tag>rocks</tag>
+    <tag>dirt</tag>
+    <tag>a trail</tag>
+    <tag>animals</tag>
+
+    List the things most commonly seen around a truck:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>wheels</tag>
+<tag>a cab</tag>
+<tag>a trailer</tag>
+<tag>roads</tag>
+<tag>fuel</tag>
+<tag>cargo</tag>
+<tag>drivers</tag>",7
+CIFAR10,truck,"Give superclasses for the word ""tench"":
+    <tag>fish</tag>
+    <tag>vertebrate</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word ""grasshopper"":
+    <tag>insect</tag>
+    <tag>arthropod</tag>
+    <tag>animal</tag>
+
+    Give superclasses for the word truck:
+    
+
+    Your output should be in the following format:
+    <tag>feature 1</tag>
+    <tag>feature 2</tag>
+    ...
+    <tag>feature n</tag>","<tag>vehicle</tag>
+<tag>motor vehicle</tag>
+<tag>large vehicle</tag>",3

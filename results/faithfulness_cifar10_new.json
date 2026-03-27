@@ -1,0 +1,4502 @@
+[
+  {
+    "img": "fighter_s_000586.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1716,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.1988,
+        "llava_p_yes": 0.689,
+        "llava_margin": 0.797,
+        "visible": true
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1716,
+        "llava_p_yes": 0.052,
+        "llava_margin": -2.906,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1692,
+        "llava_p_yes": 0.446,
+        "llava_margin": -0.219,
+        "visible": false
+      },
+      {
+        "concept": "wings",
+        "clip_score": 0.1564,
+        "llava_p_yes": 0.719,
+        "llava_margin": 0.938,
+        "visible": true
+      },
+      {
+        "concept": "a tarmac",
+        "clip_score": 0.1622,
+        "llava_p_yes": 0.269,
+        "llava_margin": -1.0,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "attack_aircraft_s_000803.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1937,
+    "top5": [
+      {
+        "concept": "a pilot",
+        "clip_score": 0.2113,
+        "llava_p_yes": 0.43,
+        "llava_margin": -0.281,
+        "visible": false
+      },
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.212,
+        "llava_p_yes": 0.712,
+        "llava_margin": 0.906,
+        "visible": true
+      },
+      {
+        "concept": "a tail",
+        "clip_score": 0.1758,
+        "llava_p_yes": 0.709,
+        "llava_margin": 0.891,
+        "visible": true
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1817,
+        "llava_p_yes": 0.359,
+        "llava_margin": -0.578,
+        "visible": false
+      },
+      {
+        "concept": "a tarmac",
+        "clip_score": 0.1877,
+        "llava_p_yes": 0.737,
+        "llava_margin": 1.031,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "fighter_aircraft_s_001541.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1799,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.1924,
+        "llava_p_yes": 0.523,
+        "llava_margin": 0.094,
+        "visible": true
+      },
+      {
+        "concept": "a tail",
+        "clip_score": 0.1814,
+        "llava_p_yes": 0.604,
+        "llava_margin": 0.422,
+        "visible": true
+      },
+      {
+        "concept": "wings",
+        "clip_score": 0.1802,
+        "llava_p_yes": 0.555,
+        "llava_margin": 0.219,
+        "visible": true
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1755,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1701,
+        "llava_p_yes": 0.197,
+        "llava_margin": -1.406,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fighter_aircraft_s_001550.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1768,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.1992,
+        "llava_p_yes": 0.865,
+        "llava_margin": 1.859,
+        "visible": true
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1871,
+        "llava_p_yes": 0.212,
+        "llava_margin": -1.312,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1712,
+        "llava_p_yes": 0.578,
+        "llava_margin": 0.312,
+        "visible": true
+      },
+      {
+        "concept": "a tail",
+        "clip_score": 0.1572,
+        "llava_p_yes": 0.906,
+        "llava_margin": 2.266,
+        "visible": true
+      },
+      {
+        "concept": "a tarmac",
+        "clip_score": 0.1694,
+        "llava_p_yes": 0.09,
+        "llava_margin": -2.312,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "airbus_s_000312.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1851,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.215,
+        "llava_p_yes": 0.933,
+        "llava_margin": 2.625,
+        "visible": true
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1833,
+        "llava_p_yes": 0.755,
+        "llava_margin": 1.125,
+        "visible": true
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1784,
+        "llava_p_yes": 0.064,
+        "llava_margin": -2.688,
+        "visible": false
+      },
+      {
+        "concept": "a tarmac",
+        "clip_score": 0.1854,
+        "llava_p_yes": 0.861,
+        "llava_margin": 1.828,
+        "visible": true
+      },
+      {
+        "concept": "a tail",
+        "clip_score": 0.1632,
+        "llava_p_yes": 0.852,
+        "llava_margin": 1.75,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "stealth_fighter_s_000532.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1806,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.204,
+        "llava_p_yes": 0.796,
+        "llava_margin": 1.359,
+        "visible": true
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1831,
+        "llava_p_yes": 0.197,
+        "llava_margin": -1.406,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1794,
+        "llava_p_yes": 0.331,
+        "llava_margin": -0.703,
+        "visible": false
+      },
+      {
+        "concept": "an engine",
+        "clip_score": 0.1719,
+        "llava_p_yes": 0.679,
+        "llava_margin": 0.75,
+        "visible": true
+      },
+      {
+        "concept": "wings",
+        "clip_score": 0.1649,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "dive_bomber_s_000225.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1793,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.1985,
+        "llava_p_yes": 0.301,
+        "llava_margin": -0.844,
+        "visible": false
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1856,
+        "llava_p_yes": 0.18,
+        "llava_margin": -1.516,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1683,
+        "llava_p_yes": 0.176,
+        "llava_margin": -1.547,
+        "visible": false
+      },
+      {
+        "concept": "a control tower",
+        "clip_score": 0.1845,
+        "llava_p_yes": 0.142,
+        "llava_margin": -1.797,
+        "visible": false
+      },
+      {
+        "concept": "a tail",
+        "clip_score": 0.1597,
+        "llava_p_yes": 0.531,
+        "llava_margin": 0.125,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "stealth_bomber_s_001514.png",
+    "true_class": "airplane",
+    "predicted": "dog",
+    "correct": false,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1722,
+    "top5": [
+      {
+        "concept": "a toy",
+        "clip_score": 0.2071,
+        "llava_p_yes": 0.084,
+        "llava_margin": -2.391,
+        "visible": false
+      },
+      {
+        "concept": "a snout",
+        "clip_score": 0.1751,
+        "llava_p_yes": 0.119,
+        "llava_margin": -2.0,
+        "visible": false
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1523,
+        "llava_p_yes": 0.001,
+        "llava_margin": -7.562,
+        "visible": false
+      },
+      {
+        "concept": "barking",
+        "clip_score": 0.1669,
+        "llava_p_yes": 0.011,
+        "llava_margin": -4.531,
+        "visible": false
+      },
+      {
+        "concept": "a collar",
+        "clip_score": 0.1598,
+        "llava_p_yes": 0.006,
+        "llava_margin": -5.172,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "jumbo_jet_s_000024.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1819,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.2031,
+        "llava_p_yes": 0.438,
+        "llava_margin": -0.25,
+        "visible": false
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1812,
+        "llava_p_yes": 0.404,
+        "llava_margin": -0.391,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1775,
+        "llava_p_yes": 0.225,
+        "llava_margin": -1.234,
+        "visible": false
+      },
+      {
+        "concept": "a tarmac",
+        "clip_score": 0.1846,
+        "llava_p_yes": 0.314,
+        "llava_margin": -0.781,
+        "visible": false
+      },
+      {
+        "concept": "a tail",
+        "clip_score": 0.163,
+        "llava_p_yes": 0.242,
+        "llava_margin": -1.141,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "stealth_bomber_s_000936.png",
+    "true_class": "airplane",
+    "predicted": "airplane",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1795,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.2142,
+        "llava_p_yes": 0.593,
+        "llava_margin": 0.375,
+        "visible": true
+      },
+      {
+        "concept": "a tail",
+        "clip_score": 0.175,
+        "llava_p_yes": 0.615,
+        "llava_margin": 0.469,
+        "visible": true
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.177,
+        "llava_p_yes": 0.114,
+        "llava_margin": -2.047,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1734,
+        "llava_p_yes": 0.453,
+        "llava_margin": -0.188,
+        "visible": false
+      },
+      {
+        "concept": "an engine",
+        "clip_score": 0.158,
+        "llava_p_yes": 0.539,
+        "llava_margin": 0.156,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "convertible_s_002813.png",
+    "true_class": "automobile",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1898,
+    "top5": [
+      {
+        "concept": "a trailer",
+        "clip_score": 0.199,
+        "llava_p_yes": 0.135,
+        "llava_margin": -1.859,
+        "visible": false
+      },
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.2016,
+        "llava_p_yes": 0.477,
+        "llava_margin": -0.094,
+        "visible": false
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1934,
+        "llava_p_yes": 0.798,
+        "llava_margin": 1.375,
+        "visible": true
+      },
+      {
+        "concept": "a cab",
+        "clip_score": 0.1817,
+        "llava_p_yes": 0.411,
+        "llava_margin": -0.359,
+        "visible": false
+      },
+      {
+        "concept": "cargo",
+        "clip_score": 0.1734,
+        "llava_p_yes": 0.239,
+        "llava_margin": -1.156,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "shooting_brake_s_000973.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1772,
+    "top5": [
+      {
+        "concept": "a body or chassis",
+        "clip_score": 0.2048,
+        "llava_p_yes": 0.833,
+        "llava_margin": 1.609,
+        "visible": true
+      },
+      {
+        "concept": "a steering wheel",
+        "clip_score": 0.1643,
+        "llava_p_yes": 0.207,
+        "llava_margin": -1.344,
+        "visible": false
+      },
+      {
+        "concept": "a steering mechanism",
+        "clip_score": 0.1826,
+        "llava_p_yes": 0.349,
+        "llava_margin": -0.625,
+        "visible": false
+      },
+      {
+        "concept": "wheels",
+        "clip_score": 0.1704,
+        "llava_p_yes": 0.914,
+        "llava_margin": 2.359,
+        "visible": true
+      },
+      {
+        "concept": "gasoline",
+        "clip_score": 0.1637,
+        "llava_p_yes": 0.06,
+        "llava_margin": -2.75,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "shooting_brake_s_000046.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1719,
+    "top5": [
+      {
+        "concept": "a body or chassis",
+        "clip_score": 0.1854,
+        "llava_p_yes": 0.923,
+        "llava_margin": 2.484,
+        "visible": true
+      },
+      {
+        "concept": "a steering wheel",
+        "clip_score": 0.1604,
+        "llava_p_yes": 0.056,
+        "llava_margin": -2.828,
+        "visible": false
+      },
+      {
+        "concept": "a steering mechanism",
+        "clip_score": 0.1788,
+        "llava_p_yes": 0.18,
+        "llava_margin": -1.516,
+        "visible": false
+      },
+      {
+        "concept": "transportation",
+        "clip_score": 0.1719,
+        "llava_p_yes": 0.865,
+        "llava_margin": 1.859,
+        "visible": true
+      },
+      {
+        "concept": "wheels",
+        "clip_score": 0.163,
+        "llava_p_yes": 0.743,
+        "llava_margin": 1.062,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "convertible_s_002804.png",
+    "true_class": "automobile",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1819,
+    "top5": [
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1981,
+        "llava_p_yes": 0.558,
+        "llava_margin": 0.234,
+        "visible": true
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1809,
+        "llava_p_yes": 0.52,
+        "llava_margin": 0.078,
+        "visible": true
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.1734,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      },
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.1805,
+        "llava_p_yes": 0.025,
+        "llava_margin": -3.656,
+        "visible": false
+      },
+      {
+        "concept": "large wheels",
+        "clip_score": 0.1766,
+        "llava_p_yes": 0.788,
+        "llava_margin": 1.312,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "estate_car_s_001219.png",
+    "true_class": "automobile",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1733,
+    "top5": [
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.189,
+        "llava_p_yes": 0.817,
+        "llava_margin": 1.5,
+        "visible": true
+      },
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.1801,
+        "llava_p_yes": 0.051,
+        "llava_margin": -2.922,
+        "visible": false
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.1683,
+        "llava_p_yes": 0.869,
+        "llava_margin": 1.891,
+        "visible": true
+      },
+      {
+        "concept": "cargo",
+        "clip_score": 0.1679,
+        "llava_p_yes": 0.068,
+        "llava_margin": -2.625,
+        "visible": false
+      },
+      {
+        "concept": "large wheels",
+        "clip_score": 0.1611,
+        "llava_p_yes": 0.837,
+        "llava_margin": 1.641,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "wagon_s_001295.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1733,
+    "top5": [
+      {
+        "concept": "a body or chassis",
+        "clip_score": 0.1869,
+        "llava_p_yes": 0.911,
+        "llava_margin": 2.328,
+        "visible": true
+      },
+      {
+        "concept": "a steering wheel",
+        "clip_score": 0.1654,
+        "llava_p_yes": 0.212,
+        "llava_margin": -1.312,
+        "visible": false
+      },
+      {
+        "concept": "wheels",
+        "clip_score": 0.1712,
+        "llava_p_yes": 0.961,
+        "llava_margin": 3.219,
+        "visible": true
+      },
+      {
+        "concept": "transportation",
+        "clip_score": 0.1705,
+        "llava_p_yes": 0.896,
+        "llava_margin": 2.156,
+        "visible": true
+      },
+      {
+        "concept": "seats",
+        "clip_score": 0.1726,
+        "llava_p_yes": 0.131,
+        "llava_margin": -1.891,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "police_cruiser_s_001199.png",
+    "true_class": "automobile",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1817,
+    "top5": [
+      {
+        "concept": "a cab",
+        "clip_score": 0.1876,
+        "llava_p_yes": 0.5,
+        "llava_margin": 0.0,
+        "visible": false
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1849,
+        "llava_p_yes": 0.772,
+        "llava_margin": 1.219,
+        "visible": true
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1813,
+        "llava_p_yes": 0.442,
+        "llava_margin": -0.234,
+        "visible": false
+      },
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.1799,
+        "llava_p_yes": 0.088,
+        "llava_margin": -2.344,
+        "visible": false
+      },
+      {
+        "concept": "large wheels",
+        "clip_score": 0.1749,
+        "llava_p_yes": 0.453,
+        "llava_margin": -0.188,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "compact_car_s_001339.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1826,
+    "top5": [
+      {
+        "concept": "a body or chassis",
+        "clip_score": 0.2141,
+        "llava_p_yes": 0.922,
+        "llava_margin": 2.469,
+        "visible": true
+      },
+      {
+        "concept": "a steering wheel",
+        "clip_score": 0.1645,
+        "llava_p_yes": 0.19,
+        "llava_margin": -1.453,
+        "visible": false
+      },
+      {
+        "concept": "seats",
+        "clip_score": 0.1826,
+        "llava_p_yes": 0.126,
+        "llava_margin": -1.938,
+        "visible": false
+      },
+      {
+        "concept": "transportation",
+        "clip_score": 0.1767,
+        "llava_p_yes": 0.877,
+        "llava_margin": 1.969,
+        "visible": true
+      },
+      {
+        "concept": "wheels",
+        "clip_score": 0.1751,
+        "llava_p_yes": 0.948,
+        "llava_margin": 2.906,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "taxi_s_000338.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1846,
+    "top5": [
+      {
+        "concept": "a steering wheel",
+        "clip_score": 0.1859,
+        "llava_p_yes": 0.426,
+        "llava_margin": -0.297,
+        "visible": false
+      },
+      {
+        "concept": "transportation",
+        "clip_score": 0.1927,
+        "llava_p_yes": 0.877,
+        "llava_margin": 1.969,
+        "visible": true
+      },
+      {
+        "concept": "a body or chassis",
+        "clip_score": 0.1892,
+        "llava_p_yes": 0.863,
+        "llava_margin": 1.844,
+        "visible": true
+      },
+      {
+        "concept": "wheels",
+        "clip_score": 0.1792,
+        "llava_p_yes": 0.972,
+        "llava_margin": 3.531,
+        "visible": true
+      },
+      {
+        "concept": "a steering mechanism",
+        "clip_score": 0.1758,
+        "llava_p_yes": 0.496,
+        "llava_margin": -0.016,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "station_wagon_s_001959.png",
+    "true_class": "automobile",
+    "predicted": "automobile",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1669,
+    "top5": [
+      {
+        "concept": "a body or chassis",
+        "clip_score": 0.1826,
+        "llava_p_yes": 0.932,
+        "llava_margin": 2.609,
+        "visible": true
+      },
+      {
+        "concept": "a steering wheel",
+        "clip_score": 0.1556,
+        "llava_p_yes": 0.703,
+        "llava_margin": 0.859,
+        "visible": true
+      },
+      {
+        "concept": "wheels",
+        "clip_score": 0.1647,
+        "llava_p_yes": 0.973,
+        "llava_margin": 3.562,
+        "visible": true
+      },
+      {
+        "concept": "seats",
+        "clip_score": 0.1672,
+        "llava_p_yes": 0.377,
+        "llava_margin": -0.5,
+        "visible": false
+      },
+      {
+        "concept": "a steering mechanism",
+        "clip_score": 0.1646,
+        "llava_p_yes": 0.74,
+        "llava_margin": 1.047,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "wagtail_s_000135.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1889,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.202,
+        "llava_p_yes": 0.752,
+        "llava_margin": 1.109,
+        "visible": true
+      },
+      {
+        "concept": "vertebrate",
+        "clip_score": 0.2009,
+        "llava_p_yes": 0.769,
+        "llava_margin": 1.203,
+        "visible": true
+      },
+      {
+        "concept": "eggs",
+        "clip_score": 0.1915,
+        "llava_p_yes": 0.01,
+        "llava_margin": -4.578,
+        "visible": false
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1849,
+        "llava_p_yes": 0.023,
+        "llava_margin": -3.734,
+        "visible": false
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.1651,
+        "llava_p_yes": 0.935,
+        "llava_margin": 2.656,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "bird_s_000246.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1767,
+    "top5": [
+      {
+        "concept": "feathers",
+        "clip_score": 0.1851,
+        "llava_p_yes": 0.842,
+        "llava_margin": 1.672,
+        "visible": true
+      },
+      {
+        "concept": "beak",
+        "clip_score": 0.1821,
+        "llava_p_yes": 0.644,
+        "llava_margin": 0.594,
+        "visible": true
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1787,
+        "llava_p_yes": 0.041,
+        "llava_margin": -3.156,
+        "visible": false
+      },
+      {
+        "concept": "a cage",
+        "clip_score": 0.1689,
+        "llava_p_yes": 0.006,
+        "llava_margin": -5.172,
+        "visible": false
+      },
+      {
+        "concept": "eggs",
+        "clip_score": 0.1686,
+        "llava_p_yes": 0.031,
+        "llava_margin": -3.453,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "alauda_arvensis_s_000559.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1782,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.1958,
+        "llava_p_yes": 0.926,
+        "llava_margin": 2.531,
+        "visible": true
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1775,
+        "llava_p_yes": 0.026,
+        "llava_margin": -3.625,
+        "visible": false
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.1702,
+        "llava_p_yes": 0.848,
+        "llava_margin": 1.719,
+        "visible": true
+      },
+      {
+        "concept": "vertebrate",
+        "clip_score": 0.1756,
+        "llava_p_yes": 0.911,
+        "llava_margin": 2.328,
+        "visible": true
+      },
+      {
+        "concept": "eggs",
+        "clip_score": 0.1719,
+        "llava_p_yes": 0.007,
+        "llava_margin": -5.016,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "sparrow_s_001053.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1745,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.2044,
+        "llava_p_yes": 0.906,
+        "llava_margin": 2.266,
+        "visible": true
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1771,
+        "llava_p_yes": 0.065,
+        "llava_margin": -2.672,
+        "visible": false
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.1686,
+        "llava_p_yes": 0.91,
+        "llava_margin": 2.312,
+        "visible": true
+      },
+      {
+        "concept": "vertebrate",
+        "clip_score": 0.1653,
+        "llava_p_yes": 0.873,
+        "llava_margin": 1.922,
+        "visible": true
+      },
+      {
+        "concept": "a cage",
+        "clip_score": 0.1572,
+        "llava_p_yes": 0.002,
+        "llava_margin": -6.078,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bird_s_001575.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1913,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.2208,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.1926,
+        "llava_p_yes": 0.385,
+        "llava_margin": -0.469,
+        "visible": false
+      },
+      {
+        "concept": "eggs",
+        "clip_score": 0.1811,
+        "llava_p_yes": 0.013,
+        "llava_margin": -4.312,
+        "visible": false
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1809,
+        "llava_p_yes": 0.105,
+        "llava_margin": -2.141,
+        "visible": false
+      },
+      {
+        "concept": "vertebrate",
+        "clip_score": 0.1813,
+        "llava_p_yes": 0.833,
+        "llava_margin": 1.609,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "cassowary_s_000612.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1755,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.1951,
+        "llava_p_yes": 0.648,
+        "llava_margin": 0.609,
+        "visible": true
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.1774,
+        "llava_p_yes": 0.129,
+        "llava_margin": -1.906,
+        "visible": false
+      },
+      {
+        "concept": "eggs",
+        "clip_score": 0.1715,
+        "llava_p_yes": 0.006,
+        "llava_margin": -5.141,
+        "visible": false
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1713,
+        "llava_p_yes": 0.234,
+        "llava_margin": -1.188,
+        "visible": false
+      },
+      {
+        "concept": "vertebrate",
+        "clip_score": 0.1624,
+        "llava_p_yes": 0.411,
+        "llava_margin": -0.359,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "honey_eater_s_001543.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1715,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.1983,
+        "llava_p_yes": 0.582,
+        "llava_margin": 0.328,
+        "visible": true
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.1727,
+        "llava_p_yes": 0.937,
+        "llava_margin": 2.703,
+        "visible": true
+      },
+      {
+        "concept": "eggs",
+        "clip_score": 0.1645,
+        "llava_p_yes": 0.008,
+        "llava_margin": -4.797,
+        "visible": false
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1644,
+        "llava_p_yes": 0.039,
+        "llava_margin": -3.203,
+        "visible": false
+      },
+      {
+        "concept": "a cage",
+        "clip_score": 0.1577,
+        "llava_p_yes": 0.012,
+        "llava_margin": -4.438,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "flightless_bird_s_000482.png",
+    "true_class": "bird",
+    "predicted": "deer",
+    "correct": false,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1825,
+    "top5": [
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.1881,
+        "llava_p_yes": 0.9,
+        "llava_margin": 2.203,
+        "visible": true
+      },
+      {
+        "concept": "four legs",
+        "clip_score": 0.1897,
+        "llava_p_yes": 0.6,
+        "llava_margin": 0.406,
+        "visible": true
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.1808,
+        "llava_p_yes": 0.18,
+        "llava_margin": -1.516,
+        "visible": false
+      },
+      {
+        "concept": "a slender body",
+        "clip_score": 0.1763,
+        "llava_p_yes": 0.641,
+        "llava_margin": 0.578,
+        "visible": true
+      },
+      {
+        "concept": "grass",
+        "clip_score": 0.1776,
+        "llava_p_yes": 0.57,
+        "llava_margin": 0.281,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "passerine_s_000434.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1723,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.189,
+        "llava_p_yes": 0.555,
+        "llava_margin": 0.219,
+        "visible": true
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.177,
+        "llava_p_yes": 0.831,
+        "llava_margin": 1.594,
+        "visible": true
+      },
+      {
+        "concept": "vertebrate",
+        "clip_score": 0.1681,
+        "llava_p_yes": 0.734,
+        "llava_margin": 1.016,
+        "visible": true
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1653,
+        "llava_p_yes": 0.021,
+        "llava_margin": -3.828,
+        "visible": false
+      },
+      {
+        "concept": "a cage",
+        "clip_score": 0.1622,
+        "llava_p_yes": 0.019,
+        "llava_margin": -3.922,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "dunnock_s_001089.png",
+    "true_class": "bird",
+    "predicted": "bird",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1869,
+    "top5": [
+      {
+        "concept": "beak",
+        "clip_score": 0.2106,
+        "llava_p_yes": 0.867,
+        "llava_margin": 1.875,
+        "visible": true
+      },
+      {
+        "concept": "vertebrate",
+        "clip_score": 0.1914,
+        "llava_p_yes": 0.676,
+        "llava_margin": 0.734,
+        "visible": true
+      },
+      {
+        "concept": "a nest",
+        "clip_score": 0.1875,
+        "llava_p_yes": 0.068,
+        "llava_margin": -2.625,
+        "visible": false
+      },
+      {
+        "concept": "feathers",
+        "clip_score": 0.1717,
+        "llava_p_yes": 0.798,
+        "llava_margin": 1.375,
+        "visible": true
+      },
+      {
+        "concept": "eggs",
+        "clip_score": 0.1731,
+        "llava_p_yes": 0.014,
+        "llava_margin": -4.281,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "domestic_cat_s_002053.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1809,
+    "top5": [
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1884,
+        "llava_p_yes": 0.465,
+        "llava_margin": -0.141,
+        "visible": false
+      },
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1773,
+        "llava_p_yes": 0.017,
+        "llava_margin": -4.047,
+        "visible": false
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1752,
+        "llava_p_yes": 0.916,
+        "llava_margin": 2.391,
+        "visible": true
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1844,
+        "llava_p_yes": 0.021,
+        "llava_margin": -3.828,
+        "visible": false
+      },
+      {
+        "concept": "pointy ears",
+        "clip_score": 0.179,
+        "llava_p_yes": 0.863,
+        "llava_margin": 1.844,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "felis_catus_s_000636.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.175,
+    "top5": [
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1825,
+        "llava_p_yes": 0.009,
+        "llava_margin": -4.672,
+        "visible": false
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1841,
+        "llava_p_yes": 0.008,
+        "llava_margin": -4.875,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1668,
+        "llava_p_yes": 0.686,
+        "llava_margin": 0.781,
+        "visible": true
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.163,
+        "llava_p_yes": 0.881,
+        "llava_margin": 2.0,
+        "visible": true
+      },
+      {
+        "concept": "food bowl",
+        "clip_score": 0.1786,
+        "llava_p_yes": 0.004,
+        "llava_margin": -5.469,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tabby_s_000578.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1813,
+    "top5": [
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1782,
+        "llava_p_yes": 0.007,
+        "llava_margin": -4.953,
+        "visible": false
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1774,
+        "llava_p_yes": 0.116,
+        "llava_margin": -2.031,
+        "visible": false
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1873,
+        "llava_p_yes": 0.027,
+        "llava_margin": -3.578,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1794,
+        "llava_p_yes": 0.803,
+        "llava_margin": 1.406,
+        "visible": true
+      },
+      {
+        "concept": "food bowl",
+        "clip_score": 0.1839,
+        "llava_p_yes": 0.012,
+        "llava_margin": -4.391,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "mouser_s_001191.png",
+    "true_class": "cat",
+    "predicted": "truck",
+    "correct": false,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1905,
+    "top5": [
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.2016,
+        "llava_p_yes": 0.215,
+        "llava_margin": -1.297,
+        "visible": false
+      },
+      {
+        "concept": "a cab",
+        "clip_score": 0.1866,
+        "llava_p_yes": 0.285,
+        "llava_margin": -0.922,
+        "visible": false
+      },
+      {
+        "concept": "a trailer",
+        "clip_score": 0.1915,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1907,
+        "llava_p_yes": 0.278,
+        "llava_margin": -0.953,
+        "visible": false
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1822,
+        "llava_p_yes": 0.212,
+        "llava_margin": -1.312,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "house_cat_s_000212.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1862,
+    "top5": [
+      {
+        "concept": "mammal",
+        "clip_score": 0.1996,
+        "llava_p_yes": 0.953,
+        "llava_margin": 3.0,
+        "visible": true
+      },
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1883,
+        "llava_p_yes": 0.006,
+        "llava_margin": -5.109,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1807,
+        "llava_p_yes": 0.615,
+        "llava_margin": 0.469,
+        "visible": true
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1831,
+        "llava_p_yes": 0.002,
+        "llava_margin": -6.328,
+        "visible": false
+      },
+      {
+        "concept": "pointy ears",
+        "clip_score": 0.1795,
+        "llava_p_yes": 0.803,
+        "llava_margin": 1.406,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "cat_s_000908.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1919,
+    "top5": [
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1959,
+        "llava_p_yes": 0.574,
+        "llava_margin": 0.297,
+        "visible": true
+      },
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1832,
+        "llava_p_yes": 0.053,
+        "llava_margin": -2.891,
+        "visible": false
+      },
+      {
+        "concept": "food bowl",
+        "clip_score": 0.2068,
+        "llava_p_yes": 0.094,
+        "llava_margin": -2.266,
+        "visible": false
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1853,
+        "llava_p_yes": 0.848,
+        "llava_margin": 1.719,
+        "visible": true
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1884,
+        "llava_p_yes": 0.124,
+        "llava_margin": -1.953,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tabby_cat_s_002684.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1706,
+    "top5": [
+      {
+        "concept": "scratching post",
+        "clip_score": 0.175,
+        "llava_p_yes": 0.03,
+        "llava_margin": -3.469,
+        "visible": false
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1763,
+        "llava_p_yes": 0.06,
+        "llava_margin": -2.75,
+        "visible": false
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1635,
+        "llava_p_yes": 0.871,
+        "llava_margin": 1.906,
+        "visible": true
+      },
+      {
+        "concept": "food bowl",
+        "clip_score": 0.1793,
+        "llava_p_yes": 0.019,
+        "llava_margin": -3.953,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1592,
+        "llava_p_yes": 0.352,
+        "llava_margin": -0.609,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tabby_cat_s_001878.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1789,
+    "top5": [
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1833,
+        "llava_p_yes": 0.028,
+        "llava_margin": -3.547,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1845,
+        "llava_p_yes": 0.734,
+        "llava_margin": 1.016,
+        "visible": true
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1755,
+        "llava_p_yes": 0.91,
+        "llava_margin": 2.312,
+        "visible": true
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1765,
+        "llava_p_yes": 0.003,
+        "llava_margin": -5.891,
+        "visible": false
+      },
+      {
+        "concept": "pointy ears",
+        "clip_score": 0.1747,
+        "llava_p_yes": 0.921,
+        "llava_margin": 2.453,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "true_cat_s_001572.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1712,
+    "top5": [
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1861,
+        "llava_p_yes": 0.028,
+        "llava_margin": -3.547,
+        "visible": false
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1796,
+        "llava_p_yes": 0.338,
+        "llava_margin": -0.672,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1606,
+        "llava_p_yes": 0.176,
+        "llava_margin": -1.547,
+        "visible": false
+      },
+      {
+        "concept": "food bowl",
+        "clip_score": 0.171,
+        "llava_p_yes": 0.018,
+        "llava_margin": -4.016,
+        "visible": false
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.159,
+        "llava_p_yes": 0.111,
+        "llava_margin": -2.078,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tabby_s_001407.png",
+    "true_class": "cat",
+    "predicted": "cat",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1844,
+    "top5": [
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1899,
+        "llava_p_yes": 0.015,
+        "llava_margin": -4.219,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.195,
+        "llava_p_yes": 0.48,
+        "llava_margin": -0.078,
+        "visible": false
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1729,
+        "llava_p_yes": 0.895,
+        "llava_margin": 2.141,
+        "visible": true
+      },
+      {
+        "concept": "a litter box",
+        "clip_score": 0.1827,
+        "llava_p_yes": 0.018,
+        "llava_margin": -4.016,
+        "visible": false
+      },
+      {
+        "concept": "pointy ears",
+        "clip_score": 0.1816,
+        "llava_p_yes": 0.886,
+        "llava_margin": 2.047,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "dama_dama_s_000246.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.193,
+    "top5": [
+      {
+        "concept": "antlers",
+        "clip_score": 0.2026,
+        "llava_p_yes": 0.954,
+        "llava_margin": 3.031,
+        "visible": true
+      },
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.2,
+        "llava_p_yes": 0.52,
+        "llava_margin": 0.078,
+        "visible": true
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.1935,
+        "llava_p_yes": 0.281,
+        "llava_margin": -0.938,
+        "visible": false
+      },
+      {
+        "concept": "grass",
+        "clip_score": 0.1845,
+        "llava_p_yes": 0.993,
+        "llava_margin": 4.969,
+        "visible": true
+      },
+      {
+        "concept": "a meadow",
+        "clip_score": 0.1844,
+        "llava_p_yes": 0.967,
+        "llava_margin": 3.391,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "mule_deer_s_000656.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1937,
+    "top5": [
+      {
+        "concept": "antlers",
+        "clip_score": 0.2066,
+        "llava_p_yes": 0.314,
+        "llava_margin": -0.781,
+        "visible": false
+      },
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.211,
+        "llava_p_yes": 0.245,
+        "llava_margin": -1.125,
+        "visible": false
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.1962,
+        "llava_p_yes": 0.334,
+        "llava_margin": -0.688,
+        "visible": false
+      },
+      {
+        "concept": "four legs",
+        "clip_score": 0.1795,
+        "llava_p_yes": 0.874,
+        "llava_margin": 1.938,
+        "visible": true
+      },
+      {
+        "concept": "a forest",
+        "clip_score": 0.175,
+        "llava_p_yes": 0.08,
+        "llava_margin": -2.438,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fallow_deer_s_001221.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1788,
+    "top5": [
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.1972,
+        "llava_p_yes": 0.89,
+        "llava_margin": 2.094,
+        "visible": true
+      },
+      {
+        "concept": "antlers",
+        "clip_score": 0.1874,
+        "llava_p_yes": 0.985,
+        "llava_margin": 4.188,
+        "visible": true
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.181,
+        "llava_p_yes": 0.396,
+        "llava_margin": -0.422,
+        "visible": false
+      },
+      {
+        "concept": "four legs",
+        "clip_score": 0.1686,
+        "llava_p_yes": 0.915,
+        "llava_margin": 2.375,
+        "visible": true
+      },
+      {
+        "concept": "grass",
+        "clip_score": 0.1599,
+        "llava_p_yes": 0.248,
+        "llava_margin": -1.109,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "capreolus_capreolus_s_000570.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1913,
+    "top5": [
+      {
+        "concept": "antlers",
+        "clip_score": 0.2065,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      },
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.2008,
+        "llava_p_yes": 0.86,
+        "llava_margin": 1.812,
+        "visible": true
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.1917,
+        "llava_p_yes": 0.202,
+        "llava_margin": -1.375,
+        "visible": false
+      },
+      {
+        "concept": "a forest",
+        "clip_score": 0.181,
+        "llava_p_yes": 0.919,
+        "llava_margin": 2.438,
+        "visible": true
+      },
+      {
+        "concept": "a meadow",
+        "clip_score": 0.1764,
+        "llava_p_yes": 0.311,
+        "llava_margin": -0.797,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fallow_deer_s_000085.png",
+    "true_class": "deer",
+    "predicted": "horse",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1891,
+    "top5": [
+      {
+        "concept": "fences",
+        "clip_score": 0.2002,
+        "llava_p_yes": 0.078,
+        "llava_margin": -2.469,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.198,
+        "llava_p_yes": 0.817,
+        "llava_margin": 1.5,
+        "visible": true
+      },
+      {
+        "concept": "a bridle",
+        "clip_score": 0.1901,
+        "llava_p_yes": 0.035,
+        "llava_margin": -3.312,
+        "visible": false
+      },
+      {
+        "concept": "a barn",
+        "clip_score": 0.1749,
+        "llava_p_yes": 0.171,
+        "llava_margin": -1.578,
+        "visible": false
+      },
+      {
+        "concept": "a large, four-legged mammal",
+        "clip_score": 0.1825,
+        "llava_p_yes": 0.446,
+        "llava_margin": -0.219,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "odocoileus_hemionus_s_000310.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1849,
+    "top5": [
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.1967,
+        "llava_p_yes": 0.956,
+        "llava_margin": 3.078,
+        "visible": true
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.1915,
+        "llava_p_yes": 0.662,
+        "llava_margin": 0.672,
+        "visible": true
+      },
+      {
+        "concept": "a slender body",
+        "clip_score": 0.187,
+        "llava_p_yes": 0.887,
+        "llava_margin": 2.062,
+        "visible": true
+      },
+      {
+        "concept": "four legs",
+        "clip_score": 0.1829,
+        "llava_p_yes": 0.963,
+        "llava_margin": 3.266,
+        "visible": true
+      },
+      {
+        "concept": "antlers",
+        "clip_score": 0.1664,
+        "llava_p_yes": 0.089,
+        "llava_margin": -2.328,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "odocoileus_hemionus_s_000105.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2017,
+    "top5": [
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.2319,
+        "llava_p_yes": 0.991,
+        "llava_margin": 4.703,
+        "visible": true
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.2068,
+        "llava_p_yes": 0.349,
+        "llava_margin": -0.625,
+        "visible": false
+      },
+      {
+        "concept": "antlers",
+        "clip_score": 0.1944,
+        "llava_p_yes": 0.301,
+        "llava_margin": -0.844,
+        "visible": false
+      },
+      {
+        "concept": "four legs",
+        "clip_score": 0.1936,
+        "llava_p_yes": 0.977,
+        "llava_margin": 3.734,
+        "visible": true
+      },
+      {
+        "concept": "a slender body",
+        "clip_score": 0.1818,
+        "llava_p_yes": 0.886,
+        "llava_margin": 2.047,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "roe_deer_s_000630.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1926,
+    "top5": [
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.2102,
+        "llava_p_yes": 0.644,
+        "llava_margin": 0.594,
+        "visible": true
+      },
+      {
+        "concept": "antlers",
+        "clip_score": 0.1868,
+        "llava_p_yes": 0.434,
+        "llava_margin": -0.266,
+        "visible": false
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.1956,
+        "llava_p_yes": 0.119,
+        "llava_margin": -2.0,
+        "visible": false
+      },
+      {
+        "concept": "four legs",
+        "clip_score": 0.1898,
+        "llava_p_yes": 0.469,
+        "llava_margin": -0.125,
+        "visible": false
+      },
+      {
+        "concept": "a forest",
+        "clip_score": 0.1805,
+        "llava_p_yes": 0.248,
+        "llava_margin": -1.109,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "woodland_caribou_s_000021.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2022,
+    "top5": [
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.2299,
+        "llava_p_yes": 0.986,
+        "llava_margin": 4.297,
+        "visible": true
+      },
+      {
+        "concept": "antlers",
+        "clip_score": 0.2042,
+        "llava_p_yes": 0.142,
+        "llava_margin": -1.797,
+        "visible": false
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.2065,
+        "llava_p_yes": 0.411,
+        "llava_margin": -0.359,
+        "visible": false
+      },
+      {
+        "concept": "four legs",
+        "clip_score": 0.1873,
+        "llava_p_yes": 0.942,
+        "llava_margin": 2.797,
+        "visible": true
+      },
+      {
+        "concept": "a herd",
+        "clip_score": 0.1832,
+        "llava_p_yes": 0.009,
+        "llava_margin": -4.75,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "elk_s_001174.png",
+    "true_class": "deer",
+    "predicted": "deer",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2125,
+    "top5": [
+      {
+        "concept": "antlers",
+        "clip_score": 0.2318,
+        "llava_p_yes": 0.954,
+        "llava_margin": 3.031,
+        "visible": true
+      },
+      {
+        "concept": "brown or reddish-brown fur",
+        "clip_score": 0.238,
+        "llava_p_yes": 0.257,
+        "llava_margin": -1.062,
+        "visible": false
+      },
+      {
+        "concept": "hooves",
+        "clip_score": 0.2036,
+        "llava_p_yes": 0.062,
+        "llava_margin": -2.719,
+        "visible": false
+      },
+      {
+        "concept": "grass",
+        "clip_score": 0.1981,
+        "llava_p_yes": 0.947,
+        "llava_margin": 2.891,
+        "visible": true
+      },
+      {
+        "concept": "a meadow",
+        "clip_score": 0.191,
+        "llava_p_yes": 0.82,
+        "llava_margin": 1.516,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "pekingese_s_002175.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1717,
+    "top5": [
+      {
+        "concept": "barking",
+        "clip_score": 0.1924,
+        "llava_p_yes": 0.074,
+        "llava_margin": -2.531,
+        "visible": false
+      },
+      {
+        "concept": "a snout",
+        "clip_score": 0.181,
+        "llava_p_yes": 0.938,
+        "llava_margin": 2.719,
+        "visible": true
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.1583,
+        "llava_p_yes": 0.938,
+        "llava_margin": 2.719,
+        "visible": true
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1558,
+        "llava_p_yes": 0.008,
+        "llava_margin": -4.828,
+        "visible": false
+      },
+      {
+        "concept": "a toy",
+        "clip_score": 0.1711,
+        "llava_p_yes": 0.034,
+        "llava_margin": -3.344,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "maltese_s_000242.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1966,
+    "top5": [
+      {
+        "concept": "a snout",
+        "clip_score": 0.2177,
+        "llava_p_yes": 0.9,
+        "llava_margin": 2.203,
+        "visible": true
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1849,
+        "llava_p_yes": 0.005,
+        "llava_margin": -5.281,
+        "visible": false
+      },
+      {
+        "concept": "barking",
+        "clip_score": 0.2038,
+        "llava_p_yes": 0.017,
+        "llava_margin": -4.062,
+        "visible": false
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.1799,
+        "llava_p_yes": 0.539,
+        "llava_margin": 0.156,
+        "visible": true
+      },
+      {
+        "concept": "a toy",
+        "clip_score": 0.1968,
+        "llava_p_yes": 0.028,
+        "llava_margin": -3.562,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "chihuahua_s_002224.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.178,
+    "top5": [
+      {
+        "concept": "a snout",
+        "clip_score": 0.1921,
+        "llava_p_yes": 0.953,
+        "llava_margin": 3.016,
+        "visible": true
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.168,
+        "llava_p_yes": 0.712,
+        "llava_margin": 0.906,
+        "visible": true
+      },
+      {
+        "concept": "barking",
+        "clip_score": 0.1889,
+        "llava_p_yes": 0.053,
+        "llava_margin": -2.875,
+        "visible": false
+      },
+      {
+        "concept": "a toy",
+        "clip_score": 0.1814,
+        "llava_p_yes": 0.047,
+        "llava_margin": -3.0,
+        "visible": false
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1596,
+        "llava_p_yes": 0.01,
+        "llava_margin": -4.578,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_002217.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1757,
+    "top5": [
+      {
+        "concept": "barking",
+        "clip_score": 0.1973,
+        "llava_p_yes": 0.068,
+        "llava_margin": -2.625,
+        "visible": false
+      },
+      {
+        "concept": "a snout",
+        "clip_score": 0.1925,
+        "llava_p_yes": 0.874,
+        "llava_margin": 1.938,
+        "visible": true
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.1674,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "a toy",
+        "clip_score": 0.1708,
+        "llava_p_yes": 0.038,
+        "llava_margin": -3.219,
+        "visible": false
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1506,
+        "llava_p_yes": 0.007,
+        "llava_margin": -4.922,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_001216.png",
+    "true_class": "dog",
+    "predicted": "cat",
+    "correct": false,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1732,
+    "top5": [
+      {
+        "concept": "mammal",
+        "clip_score": 0.169,
+        "llava_p_yes": 0.903,
+        "llava_margin": 2.234,
+        "visible": true
+      },
+      {
+        "concept": "paws",
+        "clip_score": 0.1835,
+        "llava_p_yes": 0.935,
+        "llava_margin": 2.656,
+        "visible": true
+      },
+      {
+        "concept": "food bowl",
+        "clip_score": 0.1806,
+        "llava_p_yes": 0.014,
+        "llava_margin": -4.25,
+        "visible": false
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1609,
+        "llava_p_yes": 0.813,
+        "llava_margin": 1.469,
+        "visible": true
+      },
+      {
+        "concept": "toys",
+        "clip_score": 0.172,
+        "llava_p_yes": 0.019,
+        "llava_margin": -3.969,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "pekingese_s_000608.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1972,
+    "top5": [
+      {
+        "concept": "a snout",
+        "clip_score": 0.2218,
+        "llava_p_yes": 0.4,
+        "llava_margin": -0.406,
+        "visible": false
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1814,
+        "llava_p_yes": 0.074,
+        "llava_margin": -2.531,
+        "visible": false
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.1817,
+        "llava_p_yes": 0.137,
+        "llava_margin": -1.844,
+        "visible": false
+      },
+      {
+        "concept": "barking",
+        "clip_score": 0.2035,
+        "llava_p_yes": 0.045,
+        "llava_margin": -3.062,
+        "visible": false
+      },
+      {
+        "concept": "a toy",
+        "clip_score": 0.1977,
+        "llava_p_yes": 0.098,
+        "llava_margin": -2.219,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_000536.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1599,
+    "top5": [
+      {
+        "concept": "a toy",
+        "clip_score": 0.1721,
+        "llava_p_yes": 0.6,
+        "llava_margin": 0.406,
+        "visible": true
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1498,
+        "llava_p_yes": 0.038,
+        "llava_margin": -3.234,
+        "visible": false
+      },
+      {
+        "concept": "a snout",
+        "clip_score": 0.1658,
+        "llava_p_yes": 0.578,
+        "llava_margin": 0.312,
+        "visible": true
+      },
+      {
+        "concept": "barking",
+        "clip_score": 0.1653,
+        "llava_p_yes": 0.04,
+        "llava_margin": -3.172,
+        "visible": false
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.1463,
+        "llava_p_yes": 0.438,
+        "llava_margin": -0.25,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "pekingese_s_001625.png",
+    "true_class": "dog",
+    "predicted": "cat",
+    "correct": false,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1657,
+    "top5": [
+      {
+        "concept": "paws",
+        "clip_score": 0.1931,
+        "llava_p_yes": 0.968,
+        "llava_margin": 3.406,
+        "visible": true
+      },
+      {
+        "concept": "mammal",
+        "clip_score": 0.1586,
+        "llava_p_yes": 0.96,
+        "llava_margin": 3.188,
+        "visible": true
+      },
+      {
+        "concept": "whiskers",
+        "clip_score": 0.1589,
+        "llava_p_yes": 0.752,
+        "llava_margin": 1.109,
+        "visible": true
+      },
+      {
+        "concept": "food bowl",
+        "clip_score": 0.1709,
+        "llava_p_yes": 0.321,
+        "llava_margin": -0.75,
+        "visible": false
+      },
+      {
+        "concept": "scratching post",
+        "clip_score": 0.1468,
+        "llava_p_yes": 0.041,
+        "llava_margin": -3.156,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "puppy_s_002159.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1808,
+    "top5": [
+      {
+        "concept": "barking",
+        "clip_score": 0.2018,
+        "llava_p_yes": 0.077,
+        "llava_margin": -2.484,
+        "visible": false
+      },
+      {
+        "concept": "a snout",
+        "clip_score": 0.194,
+        "llava_p_yes": 0.887,
+        "llava_margin": 2.062,
+        "visible": true
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.1718,
+        "llava_p_yes": 0.803,
+        "llava_margin": 1.406,
+        "visible": true
+      },
+      {
+        "concept": "a toy",
+        "clip_score": 0.1855,
+        "llava_p_yes": 0.048,
+        "llava_margin": -2.984,
+        "visible": false
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1509,
+        "llava_p_yes": 0.026,
+        "llava_margin": -3.641,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "maltese_s_001218.png",
+    "true_class": "dog",
+    "predicted": "dog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1752,
+    "top5": [
+      {
+        "concept": "a snout",
+        "clip_score": 0.205,
+        "llava_p_yes": 0.879,
+        "llava_margin": 1.984,
+        "visible": true
+      },
+      {
+        "concept": "barking",
+        "clip_score": 0.2001,
+        "llava_p_yes": 0.026,
+        "llava_margin": -3.609,
+        "visible": false
+      },
+      {
+        "concept": "wet nose",
+        "clip_score": 0.1593,
+        "llava_p_yes": 0.551,
+        "llava_margin": 0.203,
+        "visible": true
+      },
+      {
+        "concept": "a toy",
+        "clip_score": 0.1652,
+        "llava_p_yes": 0.254,
+        "llava_margin": -1.078,
+        "visible": false
+      },
+      {
+        "concept": "a bowl",
+        "clip_score": 0.1467,
+        "llava_p_yes": 0.025,
+        "llava_margin": -3.656,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "leopard_frog_s_000062.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2024,
+    "top5": [
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.234,
+        "llava_p_yes": 0.091,
+        "llava_margin": -2.297,
+        "visible": false
+      },
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2205,
+        "llava_p_yes": 0.827,
+        "llava_margin": 1.562,
+        "visible": true
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.1918,
+        "llava_p_yes": 0.582,
+        "llava_margin": 0.328,
+        "visible": true
+      },
+      {
+        "concept": "bulging eyes",
+        "clip_score": 0.1855,
+        "llava_p_yes": 0.551,
+        "llava_margin": 0.203,
+        "visible": true
+      },
+      {
+        "concept": "a pond",
+        "clip_score": 0.1804,
+        "llava_p_yes": 0.085,
+        "llava_margin": -2.375,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bufo_debilis_s_000169.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1948,
+    "top5": [
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2139,
+        "llava_p_yes": 0.046,
+        "llava_margin": -3.031,
+        "visible": false
+      },
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2085,
+        "llava_p_yes": 0.207,
+        "llava_margin": -1.344,
+        "visible": false
+      },
+      {
+        "concept": "long, powerful hind legs",
+        "clip_score": 0.1873,
+        "llava_p_yes": 0.43,
+        "llava_margin": -0.281,
+        "visible": false
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.1806,
+        "llava_p_yes": 0.072,
+        "llava_margin": -2.562,
+        "visible": false
+      },
+      {
+        "concept": "bulging eyes",
+        "clip_score": 0.1835,
+        "llava_p_yes": 0.48,
+        "llava_margin": -0.078,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "leopard_frog_s_001062.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2044,
+    "top5": [
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2194,
+        "llava_p_yes": 0.162,
+        "llava_margin": -1.641,
+        "visible": false
+      },
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2134,
+        "llava_p_yes": 0.036,
+        "llava_margin": -3.281,
+        "visible": false
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.2029,
+        "llava_p_yes": 0.331,
+        "llava_margin": -0.703,
+        "visible": false
+      },
+      {
+        "concept": "long, powerful hind legs",
+        "clip_score": 0.1978,
+        "llava_p_yes": 0.22,
+        "llava_margin": -1.266,
+        "visible": false
+      },
+      {
+        "concept": "reeds",
+        "clip_score": 0.1885,
+        "llava_p_yes": 0.651,
+        "llava_margin": 0.625,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "bufo_debilis_s_000183.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2055,
+    "top5": [
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2417,
+        "llava_p_yes": 0.059,
+        "llava_margin": -2.766,
+        "visible": false
+      },
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2228,
+        "llava_p_yes": 0.696,
+        "llava_margin": 0.828,
+        "visible": true
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.1935,
+        "llava_p_yes": 0.827,
+        "llava_margin": 1.562,
+        "visible": true
+      },
+      {
+        "concept": "bulging eyes",
+        "clip_score": 0.1875,
+        "llava_p_yes": 0.272,
+        "llava_margin": -0.984,
+        "visible": false
+      },
+      {
+        "concept": "webbed feet",
+        "clip_score": 0.1819,
+        "llava_p_yes": 0.655,
+        "llava_margin": 0.641,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "texas_toad_s_000054.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1872,
+    "top5": [
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2085,
+        "llava_p_yes": 0.706,
+        "llava_margin": 0.875,
+        "visible": true
+      },
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.195,
+        "llava_p_yes": 0.043,
+        "llava_margin": -3.094,
+        "visible": false
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.181,
+        "llava_p_yes": 0.156,
+        "llava_margin": -1.688,
+        "visible": false
+      },
+      {
+        "concept": "webbed feet",
+        "clip_score": 0.1785,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "smooth, moist skin",
+        "clip_score": 0.1728,
+        "llava_p_yes": 0.633,
+        "llava_margin": 0.547,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "grass_frog_s_001056.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.2008,
+    "top5": [
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2354,
+        "llava_p_yes": 0.099,
+        "llava_margin": -2.203,
+        "visible": false
+      },
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2235,
+        "llava_p_yes": 0.846,
+        "llava_margin": 1.703,
+        "visible": true
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.1946,
+        "llava_p_yes": 0.477,
+        "llava_margin": -0.094,
+        "visible": false
+      },
+      {
+        "concept": "reeds",
+        "clip_score": 0.172,
+        "llava_p_yes": 0.047,
+        "llava_margin": -3.016,
+        "visible": false
+      },
+      {
+        "concept": "bulging eyes",
+        "clip_score": 0.1788,
+        "llava_p_yes": 0.648,
+        "llava_margin": 0.609,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "bullfrog_s_001506.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2014,
+    "top5": [
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2351,
+        "llava_p_yes": 0.288,
+        "llava_margin": -0.906,
+        "visible": false
+      },
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2199,
+        "llava_p_yes": 0.942,
+        "llava_margin": 2.781,
+        "visible": true
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.1869,
+        "llava_p_yes": 0.102,
+        "llava_margin": -2.172,
+        "visible": false
+      },
+      {
+        "concept": "reeds",
+        "clip_score": 0.1798,
+        "llava_p_yes": 0.578,
+        "llava_margin": 0.312,
+        "visible": true
+      },
+      {
+        "concept": "webbed feet",
+        "clip_score": 0.1856,
+        "llava_p_yes": 0.523,
+        "llava_margin": 0.094,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "leopard_frog_s_000184.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.217,
+    "top5": [
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2345,
+        "llava_p_yes": 0.047,
+        "llava_margin": -3.0,
+        "visible": false
+      },
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2256,
+        "llava_p_yes": 0.63,
+        "llava_margin": 0.531,
+        "visible": true
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.2078,
+        "llava_p_yes": 0.543,
+        "llava_margin": 0.172,
+        "visible": true
+      },
+      {
+        "concept": "long, powerful hind legs",
+        "clip_score": 0.2095,
+        "llava_p_yes": 0.709,
+        "llava_margin": 0.891,
+        "visible": true
+      },
+      {
+        "concept": "webbed feet",
+        "clip_score": 0.2076,
+        "llava_p_yes": 0.9,
+        "llava_margin": 2.203,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "bullfrog_s_000861.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1914,
+    "top5": [
+      {
+        "concept": "amphibian",
+        "clip_score": 0.2149,
+        "llava_p_yes": 0.829,
+        "llava_margin": 1.578,
+        "visible": true
+      },
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2136,
+        "llava_p_yes": 0.156,
+        "llava_margin": -1.688,
+        "visible": false
+      },
+      {
+        "concept": "bulging eyes",
+        "clip_score": 0.1827,
+        "llava_p_yes": 0.829,
+        "llava_margin": 1.578,
+        "visible": true
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.1773,
+        "llava_p_yes": 0.248,
+        "llava_margin": -1.109,
+        "visible": false
+      },
+      {
+        "concept": "reeds",
+        "clip_score": 0.1685,
+        "llava_p_yes": 0.321,
+        "llava_margin": -0.75,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bufo_s_000682.png",
+    "true_class": "frog",
+    "predicted": "frog",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1941,
+    "top5": [
+      {
+        "concept": "a croaking sound",
+        "clip_score": 0.2187,
+        "llava_p_yes": 0.007,
+        "llava_margin": -4.891,
+        "visible": false
+      },
+      {
+        "concept": "webbed feet",
+        "clip_score": 0.1978,
+        "llava_p_yes": 0.389,
+        "llava_margin": -0.453,
+        "visible": false
+      },
+      {
+        "concept": "mud",
+        "clip_score": 0.1862,
+        "llava_p_yes": 0.228,
+        "llava_margin": -1.219,
+        "visible": false
+      },
+      {
+        "concept": "amphibian",
+        "clip_score": 0.1869,
+        "llava_p_yes": 0.061,
+        "llava_margin": -2.734,
+        "visible": false
+      },
+      {
+        "concept": "smooth, moist skin",
+        "clip_score": 0.181,
+        "llava_p_yes": 0.228,
+        "llava_margin": -1.219,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "lippizaner_s_000537.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1844,
+    "top5": [
+      {
+        "concept": "a bridle",
+        "clip_score": 0.2133,
+        "llava_p_yes": 0.266,
+        "llava_margin": -1.016,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.1898,
+        "llava_p_yes": 0.118,
+        "llava_margin": -2.016,
+        "visible": false
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.1889,
+        "llava_p_yes": 0.138,
+        "llava_margin": -1.828,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.1713,
+        "llava_p_yes": 0.079,
+        "llava_margin": -2.453,
+        "visible": false
+      },
+      {
+        "concept": "fences",
+        "clip_score": 0.1585,
+        "llava_p_yes": 0.034,
+        "llava_margin": -3.359,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "arabian_s_001104.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2085,
+    "top5": [
+      {
+        "concept": "a bridle",
+        "clip_score": 0.2217,
+        "llava_p_yes": 0.033,
+        "llava_margin": -3.375,
+        "visible": false
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.2099,
+        "llava_p_yes": 0.03,
+        "llava_margin": -3.469,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.2023,
+        "llava_p_yes": 0.062,
+        "llava_margin": -2.719,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.2039,
+        "llava_p_yes": 0.215,
+        "llava_margin": -1.297,
+        "visible": false
+      },
+      {
+        "concept": "a large, four-legged mammal",
+        "clip_score": 0.2045,
+        "llava_p_yes": 0.985,
+        "llava_margin": 4.219,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "walking_horse_s_000504.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2013,
+    "top5": [
+      {
+        "concept": "hay",
+        "clip_score": 0.207,
+        "llava_p_yes": 0.039,
+        "llava_margin": -3.203,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.2039,
+        "llava_p_yes": 0.954,
+        "llava_margin": 3.031,
+        "visible": true
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.2004,
+        "llava_p_yes": 0.041,
+        "llava_margin": -3.141,
+        "visible": false
+      },
+      {
+        "concept": "a bridle",
+        "clip_score": 0.2011,
+        "llava_p_yes": 0.028,
+        "llava_margin": -3.531,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.1941,
+        "llava_p_yes": 0.223,
+        "llava_margin": -1.25,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "broodmare_s_000706.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1823,
+    "top5": [
+      {
+        "concept": "a large, four-legged mammal",
+        "clip_score": 0.1894,
+        "llava_p_yes": 0.986,
+        "llava_margin": 4.281,
+        "visible": true
+      },
+      {
+        "concept": "a bridle",
+        "clip_score": 0.1881,
+        "llava_p_yes": 0.043,
+        "llava_margin": -3.094,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.1858,
+        "llava_p_yes": 0.04,
+        "llava_margin": -3.172,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.1772,
+        "llava_p_yes": 0.95,
+        "llava_margin": 2.953,
+        "visible": true
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.1713,
+        "llava_p_yes": 0.048,
+        "llava_margin": -2.984,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "arabian_s_001508.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2071,
+    "top5": [
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.2167,
+        "llava_p_yes": 0.012,
+        "llava_margin": -4.406,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.2064,
+        "llava_p_yes": 0.027,
+        "llava_margin": -3.578,
+        "visible": false
+      },
+      {
+        "concept": "a bridle",
+        "clip_score": 0.2122,
+        "llava_p_yes": 0.074,
+        "llava_margin": -2.531,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.2026,
+        "llava_p_yes": 0.072,
+        "llava_margin": -2.562,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.1975,
+        "llava_p_yes": 0.952,
+        "llava_margin": 2.984,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "dawn_horse_s_001938.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.2057,
+    "top5": [
+      {
+        "concept": "a bridle",
+        "clip_score": 0.2192,
+        "llava_p_yes": 0.52,
+        "llava_margin": 0.078,
+        "visible": true
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.2157,
+        "llava_p_yes": 0.107,
+        "llava_margin": -2.125,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.1999,
+        "llava_p_yes": 0.089,
+        "llava_margin": -2.328,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.2003,
+        "llava_p_yes": 0.173,
+        "llava_margin": -1.562,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.1935,
+        "llava_p_yes": 0.48,
+        "llava_margin": -0.078,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "quarter_horse_s_000670.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.0,
+    "avg_clip_topk": 0.1795,
+    "top5": [
+      {
+        "concept": "a bridle",
+        "clip_score": 0.2003,
+        "llava_p_yes": 0.469,
+        "llava_margin": -0.125,
+        "visible": false
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.1841,
+        "llava_p_yes": 0.182,
+        "llava_margin": -1.5,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.1768,
+        "llava_p_yes": 0.278,
+        "llava_margin": -0.953,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.1699,
+        "llava_p_yes": 0.263,
+        "llava_margin": -1.031,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.1662,
+        "llava_p_yes": 0.084,
+        "llava_margin": -2.391,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "quarter_horse_s_001429.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1695,
+    "top5": [
+      {
+        "concept": "a bridle",
+        "clip_score": 0.1817,
+        "llava_p_yes": 0.06,
+        "llava_margin": -2.75,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.1678,
+        "llava_p_yes": 0.073,
+        "llava_margin": -2.547,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.1679,
+        "llava_p_yes": 0.038,
+        "llava_margin": -3.234,
+        "visible": false
+      },
+      {
+        "concept": "a large, four-legged mammal",
+        "clip_score": 0.1674,
+        "llava_p_yes": 0.976,
+        "llava_margin": 3.688,
+        "visible": true
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.163,
+        "llava_p_yes": 0.039,
+        "llava_margin": -3.203,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "gelding_s_002024.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1966,
+    "top5": [
+      {
+        "concept": "a bridle",
+        "clip_score": 0.2131,
+        "llava_p_yes": 0.023,
+        "llava_margin": -3.734,
+        "visible": false
+      },
+      {
+        "concept": "a stable",
+        "clip_score": 0.1982,
+        "llava_p_yes": 0.01,
+        "llava_margin": -4.609,
+        "visible": false
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.1926,
+        "llava_p_yes": 0.009,
+        "llava_margin": -4.672,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.1905,
+        "llava_p_yes": 0.028,
+        "llava_margin": -3.547,
+        "visible": false
+      },
+      {
+        "concept": "a large, four-legged mammal",
+        "clip_score": 0.1888,
+        "llava_p_yes": 0.957,
+        "llava_margin": 3.094,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "broodmare_s_001093.png",
+    "true_class": "horse",
+    "predicted": "horse",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1928,
+    "top5": [
+      {
+        "concept": "a stable",
+        "clip_score": 0.1933,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      },
+      {
+        "concept": "a bridle",
+        "clip_score": 0.1967,
+        "llava_p_yes": 0.104,
+        "llava_margin": -2.156,
+        "visible": false
+      },
+      {
+        "concept": "hay",
+        "clip_score": 0.1945,
+        "llava_p_yes": 0.288,
+        "llava_margin": -0.906,
+        "visible": false
+      },
+      {
+        "concept": "a horse blanket",
+        "clip_score": 0.1929,
+        "llava_p_yes": 0.038,
+        "llava_margin": -3.234,
+        "visible": false
+      },
+      {
+        "concept": "a pasture",
+        "clip_score": 0.1865,
+        "llava_p_yes": 0.889,
+        "llava_margin": 2.078,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "pontoon_s_000416.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2079,
+    "top5": [
+      {
+        "concept": "a dock",
+        "clip_score": 0.2336,
+        "llava_p_yes": 0.709,
+        "llava_margin": 0.891,
+        "visible": true
+      },
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.2141,
+        "llava_p_yes": 0.407,
+        "llava_margin": -0.375,
+        "visible": false
+      },
+      {
+        "concept": "watercraft",
+        "clip_score": 0.2051,
+        "llava_p_yes": 0.746,
+        "llava_margin": 1.078,
+        "visible": true
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.2004,
+        "llava_p_yes": 0.709,
+        "llava_margin": 0.891,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.1862,
+        "llava_p_yes": 0.477,
+        "llava_margin": -0.094,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "oil_tanker_s_001014.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1975,
+    "top5": [
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.197,
+        "llava_p_yes": 0.248,
+        "llava_margin": -1.109,
+        "visible": false
+      },
+      {
+        "concept": "watercraft",
+        "clip_score": 0.2042,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.2016,
+        "llava_p_yes": 0.434,
+        "llava_margin": -0.266,
+        "visible": false
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.1995,
+        "llava_p_yes": 0.696,
+        "llava_margin": 0.828,
+        "visible": true
+      },
+      {
+        "concept": "a port",
+        "clip_score": 0.185,
+        "llava_p_yes": 0.167,
+        "llava_margin": -1.609,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tank_ship_s_000002.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1787,
+    "top5": [
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.2,
+        "llava_p_yes": 0.294,
+        "llava_margin": -0.875,
+        "visible": false
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.181,
+        "llava_p_yes": 0.4,
+        "llava_margin": -0.406,
+        "visible": false
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.1797,
+        "llava_p_yes": 0.574,
+        "llava_margin": 0.297,
+        "visible": true
+      },
+      {
+        "concept": "watercraft",
+        "clip_score": 0.1701,
+        "llava_p_yes": 0.558,
+        "llava_margin": 0.234,
+        "visible": true
+      },
+      {
+        "concept": "one or more masts",
+        "clip_score": 0.1625,
+        "llava_p_yes": 0.144,
+        "llava_margin": -1.781,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "cabin_cruiser_s_000398.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.2005,
+    "top5": [
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.2101,
+        "llava_p_yes": 0.758,
+        "llava_margin": 1.141,
+        "visible": true
+      },
+      {
+        "concept": "watercraft",
+        "clip_score": 0.2113,
+        "llava_p_yes": 0.977,
+        "llava_margin": 3.734,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.1959,
+        "llava_p_yes": 0.712,
+        "llava_margin": 0.906,
+        "visible": true
+      },
+      {
+        "concept": "one or more masts",
+        "clip_score": 0.193,
+        "llava_p_yes": 0.728,
+        "llava_margin": 0.984,
+        "visible": true
+      },
+      {
+        "concept": "a dock",
+        "clip_score": 0.1919,
+        "llava_p_yes": 0.699,
+        "llava_margin": 0.844,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "canal_boat_s_000047.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1815,
+    "top5": [
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.1884,
+        "llava_p_yes": 0.324,
+        "llava_margin": -0.734,
+        "visible": false
+      },
+      {
+        "concept": "watercraft",
+        "clip_score": 0.1841,
+        "llava_p_yes": 0.543,
+        "llava_margin": 0.172,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.1839,
+        "llava_p_yes": 0.633,
+        "llava_margin": 0.547,
+        "visible": true
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.1783,
+        "llava_p_yes": 0.648,
+        "llava_margin": 0.609,
+        "visible": true
+      },
+      {
+        "concept": "one or more masts",
+        "clip_score": 0.1728,
+        "llava_p_yes": 0.148,
+        "llava_margin": -1.75,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "sea_boat_s_000704.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 1.0,
+    "avg_clip_topk": 0.1857,
+    "top5": [
+      {
+        "concept": "watercraft",
+        "clip_score": 0.2238,
+        "llava_p_yes": 0.941,
+        "llava_margin": 2.766,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.1841,
+        "llava_p_yes": 0.793,
+        "llava_margin": 1.344,
+        "visible": true
+      },
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.1715,
+        "llava_p_yes": 0.758,
+        "llava_margin": 1.141,
+        "visible": true
+      },
+      {
+        "concept": "one or more masts",
+        "clip_score": 0.1774,
+        "llava_p_yes": 0.641,
+        "llava_margin": 0.578,
+        "visible": true
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.1715,
+        "llava_p_yes": 0.863,
+        "llava_margin": 1.844,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "guard_boat_s_000452.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1932,
+    "top5": [
+      {
+        "concept": "watercraft",
+        "clip_score": 0.2194,
+        "llava_p_yes": 0.977,
+        "llava_margin": 3.75,
+        "visible": true
+      },
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.1873,
+        "llava_p_yes": 0.783,
+        "llava_margin": 1.281,
+        "visible": true
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.1876,
+        "llava_p_yes": 0.801,
+        "llava_margin": 1.391,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.1861,
+        "llava_p_yes": 0.761,
+        "llava_margin": 1.156,
+        "visible": true
+      },
+      {
+        "concept": "one or more masts",
+        "clip_score": 0.1859,
+        "llava_p_yes": 0.126,
+        "llava_margin": -1.938,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "bumboat_s_000169.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1999,
+    "top5": [
+      {
+        "concept": "watercraft",
+        "clip_score": 0.2191,
+        "llava_p_yes": 0.941,
+        "llava_margin": 2.766,
+        "visible": true
+      },
+      {
+        "concept": "a dock",
+        "clip_score": 0.2048,
+        "llava_p_yes": 0.307,
+        "llava_margin": -0.812,
+        "visible": false
+      },
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.1867,
+        "llava_p_yes": 0.512,
+        "llava_margin": 0.047,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.1969,
+        "llava_p_yes": 0.57,
+        "llava_margin": 0.281,
+        "visible": true
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.1922,
+        "llava_p_yes": 0.719,
+        "llava_margin": 0.938,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "pontoon_s_001425.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1997,
+    "top5": [
+      {
+        "concept": "watercraft",
+        "clip_score": 0.2202,
+        "llava_p_yes": 0.641,
+        "llava_margin": 0.578,
+        "visible": true
+      },
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.1905,
+        "llava_p_yes": 0.215,
+        "llava_margin": -1.297,
+        "visible": false
+      },
+      {
+        "concept": "a dock",
+        "clip_score": 0.1999,
+        "llava_p_yes": 0.57,
+        "llava_margin": 0.281,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.1968,
+        "llava_p_yes": 0.655,
+        "llava_margin": 0.641,
+        "visible": true
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.1911,
+        "llava_p_yes": 0.535,
+        "llava_margin": 0.141,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "merchant_ship_s_000915.png",
+    "true_class": "ship",
+    "predicted": "ship",
+    "correct": true,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1948,
+    "top5": [
+      {
+        "concept": "a bow and a stern",
+        "clip_score": 0.2176,
+        "llava_p_yes": 0.285,
+        "llava_margin": -0.922,
+        "visible": false
+      },
+      {
+        "concept": "a large hull",
+        "clip_score": 0.2168,
+        "llava_p_yes": 0.676,
+        "llava_margin": 0.734,
+        "visible": true
+      },
+      {
+        "concept": "a superstructure",
+        "clip_score": 0.195,
+        "llava_p_yes": 0.457,
+        "llava_margin": -0.172,
+        "visible": false
+      },
+      {
+        "concept": "an anchor",
+        "clip_score": 0.1704,
+        "llava_p_yes": 0.234,
+        "llava_margin": -1.188,
+        "visible": false
+      },
+      {
+        "concept": "the sea",
+        "clip_score": 0.1744,
+        "llava_p_yes": 0.169,
+        "llava_margin": -1.594,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fire_engine_s_001143.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.175,
+    "top5": [
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1855,
+        "llava_p_yes": 0.764,
+        "llava_margin": 1.172,
+        "visible": true
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.1748,
+        "llava_p_yes": 0.504,
+        "llava_margin": 0.016,
+        "visible": true
+      },
+      {
+        "concept": "a trailer",
+        "clip_score": 0.1793,
+        "llava_p_yes": 0.307,
+        "llava_margin": -0.812,
+        "visible": false
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1702,
+        "llava_p_yes": 0.589,
+        "llava_margin": 0.359,
+        "visible": true
+      },
+      {
+        "concept": "a cab",
+        "clip_score": 0.1651,
+        "llava_p_yes": 0.291,
+        "llava_margin": -0.891,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "tractor_trailer_s_000708.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.1881,
+    "top5": [
+      {
+        "concept": "a trailer",
+        "clip_score": 0.2003,
+        "llava_p_yes": 0.304,
+        "llava_margin": -0.828,
+        "visible": false
+      },
+      {
+        "concept": "cargo",
+        "clip_score": 0.1901,
+        "llava_p_yes": 0.492,
+        "llava_margin": -0.031,
+        "visible": false
+      },
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.1934,
+        "llava_p_yes": 0.63,
+        "llava_margin": 0.531,
+        "visible": true
+      },
+      {
+        "concept": "large wheels",
+        "clip_score": 0.1822,
+        "llava_p_yes": 0.899,
+        "llava_margin": 2.188,
+        "visible": true
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.1746,
+        "llava_p_yes": 0.774,
+        "llava_margin": 1.234,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "trailer_truck_s_000821.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.193,
+    "top5": [
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.2016,
+        "llava_p_yes": 0.669,
+        "llava_margin": 0.703,
+        "visible": true
+      },
+      {
+        "concept": "drivers",
+        "clip_score": 0.1946,
+        "llava_p_yes": 0.173,
+        "llava_margin": -1.562,
+        "visible": false
+      },
+      {
+        "concept": "a trailer",
+        "clip_score": 0.1927,
+        "llava_p_yes": 0.19,
+        "llava_margin": -1.453,
+        "visible": false
+      },
+      {
+        "concept": "cargo",
+        "clip_score": 0.1907,
+        "llava_p_yes": 0.658,
+        "llava_margin": 0.656,
+        "visible": true
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1856,
+        "llava_p_yes": 0.746,
+        "llava_margin": 1.078,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "tandem_trailer_s_000312.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1914,
+    "top5": [
+      {
+        "concept": "a trailer",
+        "clip_score": 0.2061,
+        "llava_p_yes": 0.555,
+        "llava_margin": 0.219,
+        "visible": true
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1913,
+        "llava_p_yes": 0.777,
+        "llava_margin": 1.25,
+        "visible": true
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.1857,
+        "llava_p_yes": 0.254,
+        "llava_margin": -1.078,
+        "visible": false
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1856,
+        "llava_p_yes": 0.689,
+        "llava_margin": 0.797,
+        "visible": true
+      },
+      {
+        "concept": "large wheels",
+        "clip_score": 0.1885,
+        "llava_p_yes": 0.734,
+        "llava_margin": 1.016,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "trucking_rig_s_001656.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.6,
+    "avg_clip_topk": 0.2011,
+    "top5": [
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.2153,
+        "llava_p_yes": 0.585,
+        "llava_margin": 0.344,
+        "visible": true
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.206,
+        "llava_p_yes": 0.407,
+        "llava_margin": -0.375,
+        "visible": false
+      },
+      {
+        "concept": "a trailer",
+        "clip_score": 0.2028,
+        "llava_p_yes": 0.212,
+        "llava_margin": -1.312,
+        "visible": false
+      },
+      {
+        "concept": "large wheels",
+        "clip_score": 0.1965,
+        "llava_p_yes": 0.933,
+        "llava_margin": 2.625,
+        "visible": true
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1848,
+        "llava_p_yes": 0.788,
+        "llava_margin": 1.312,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "moving_van_s_000139.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1855,
+    "top5": [
+      {
+        "concept": "a trailer",
+        "clip_score": 0.2154,
+        "llava_p_yes": 0.593,
+        "llava_margin": 0.375,
+        "visible": true
+      },
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.1957,
+        "llava_p_yes": 0.582,
+        "llava_margin": 0.328,
+        "visible": true
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.1708,
+        "llava_p_yes": 0.342,
+        "llava_margin": -0.656,
+        "visible": false
+      },
+      {
+        "concept": "cargo",
+        "clip_score": 0.173,
+        "llava_p_yes": 0.666,
+        "llava_margin": 0.688,
+        "visible": true
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1726,
+        "llava_p_yes": 0.737,
+        "llava_margin": 1.031,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "dump_truck_s_001963.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.2002,
+    "top5": [
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.2098,
+        "llava_p_yes": 0.761,
+        "llava_margin": 1.156,
+        "visible": true
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.204,
+        "llava_p_yes": 0.918,
+        "llava_margin": 2.422,
+        "visible": true
+      },
+      {
+        "concept": "a trailer",
+        "clip_score": 0.2042,
+        "llava_p_yes": 0.604,
+        "llava_margin": 0.422,
+        "visible": true
+      },
+      {
+        "concept": "a cab",
+        "clip_score": 0.1928,
+        "llava_p_yes": 0.469,
+        "llava_margin": -0.125,
+        "visible": false
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.19,
+        "llava_p_yes": 0.766,
+        "llava_margin": 1.188,
+        "visible": true
+      }
+    ]
+  },
+  {
+    "img": "aerial_ladder_truck_s_000569.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.4,
+    "avg_clip_topk": 0.1897,
+    "top5": [
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1946,
+        "llava_p_yes": 0.844,
+        "llava_margin": 1.688,
+        "visible": true
+      },
+      {
+        "concept": "a large grille",
+        "clip_score": 0.189,
+        "llava_p_yes": 0.419,
+        "llava_margin": -0.328,
+        "visible": false
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1894,
+        "llava_p_yes": 0.641,
+        "llava_margin": 0.578,
+        "visible": true
+      },
+      {
+        "concept": "a trailer",
+        "clip_score": 0.1931,
+        "llava_p_yes": 0.129,
+        "llava_margin": -1.906,
+        "visible": false
+      },
+      {
+        "concept": "a cab",
+        "clip_score": 0.1825,
+        "llava_p_yes": 0.374,
+        "llava_margin": -0.516,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "fire_truck_s_000898.png",
+    "true_class": "truck",
+    "predicted": "airplane",
+    "correct": false,
+    "faithfulness": 0.2,
+    "avg_clip_topk": 0.1802,
+    "top5": [
+      {
+        "concept": "a fuselage",
+        "clip_score": 0.1865,
+        "llava_p_yes": 0.003,
+        "llava_margin": -5.891,
+        "visible": false
+      },
+      {
+        "concept": "a tarmac",
+        "clip_score": 0.1941,
+        "llava_p_yes": 0.943,
+        "llava_margin": 2.812,
+        "visible": true
+      },
+      {
+        "concept": "a pilot",
+        "clip_score": 0.1762,
+        "llava_p_yes": 0.045,
+        "llava_margin": -3.047,
+        "visible": false
+      },
+      {
+        "concept": "engines",
+        "clip_score": 0.1771,
+        "llava_p_yes": 0.349,
+        "llava_margin": -0.625,
+        "visible": false
+      },
+      {
+        "concept": "an engine",
+        "clip_score": 0.1672,
+        "llava_p_yes": 0.374,
+        "llava_margin": -0.516,
+        "visible": false
+      }
+    ]
+  },
+  {
+    "img": "delivery_truck_s_001470.png",
+    "true_class": "truck",
+    "predicted": "truck",
+    "correct": true,
+    "faithfulness": 0.8,
+    "avg_clip_topk": 0.1906,
+    "top5": [
+      {
+        "concept": "a trailer",
+        "clip_score": 0.2163,
+        "llava_p_yes": 0.488,
+        "llava_margin": -0.047,
+        "visible": false
+      },
+      {
+        "concept": "a large cargo bed",
+        "clip_score": 0.1904,
+        "llava_p_yes": 0.655,
+        "llava_margin": 0.641,
+        "visible": true
+      },
+      {
+        "concept": "high ground clearance",
+        "clip_score": 0.1865,
+        "llava_p_yes": 0.844,
+        "llava_margin": 1.688,
+        "visible": true
+      },
+      {
+        "concept": "a robust chassis",
+        "clip_score": 0.1788,
+        "llava_p_yes": 0.578,
+        "llava_margin": 0.312,
+        "visible": true
+      },
+      {
+        "concept": "cargo",
+        "clip_score": 0.1812,
+        "llava_p_yes": 0.676,
+        "llava_margin": 0.734,
+        "visible": true
+      }
+    ]
+  }
+]

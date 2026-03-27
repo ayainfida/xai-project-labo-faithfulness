@@ -1,0 +1,24 @@
+CUB 1shot ViT-L/14, best C = 0.007635060803383346, seed = 1
+Val Accuracy: 48.350, Val std: 0.000
+Test Accuracy = 47.877
+
+CUB 2shot ViT-L/14, best C = 9.646616199111993, seed = 1
+Val Accuracy: 60.250, Val std: 0.000
+Test Accuracy = 60.960
+
+CUB 4shot ViT-L/14, best C = 0.06493816315762113, seed = 1
+Val Accuracy: 72.750, Val std: 0.000
+Test Accuracy = 72.782
+
+CUB 8shot ViT-L/14, best C = 0.010181517217181819, seed = 1
+Val Accuracy: 78.350, Val std: 0.000
+Test Accuracy = 79.720
+
+CUB 16shot ViT-L/14, best C = 0.10181517217181818, seed = 1
+Val Accuracy: 83.500, Val std: 0.000
+Test Accuracy = 84.087
+
+CUB allshot ViT-L/14, best C = 0.01, seed = 1
+Val Accuracy: 83.900, Val std: 0.000
+Test Accuracy = 84.518
+
