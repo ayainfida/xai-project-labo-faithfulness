@@ -32,4 +32,4 @@ lr = 1e-05
 max_epochs = 10000
 n_shots = 16
 data_root = 'exp/asso_opt/flower/flower_16shot_fac'
-concept_json = 'class2concepts_gemini_new.json'
+concept_json = 'class2concepts_gemini.json'

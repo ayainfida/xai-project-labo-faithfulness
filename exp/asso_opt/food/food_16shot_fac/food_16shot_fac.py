@@ -33,4 +33,4 @@ max_epochs = 5000
 force_compute = False
 n_shots = 16
 data_root = 'exp/asso_opt/food/food_16shot_fac'
-concept_json = 'class2concepts_gemini_new.json'
+concept_json = 'class2concepts_gemini.json'

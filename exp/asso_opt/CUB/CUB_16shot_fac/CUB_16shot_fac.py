@@ -32,4 +32,4 @@ lr = 5e-05
 max_epochs = 5000
 n_shots = 16
 data_root = 'exp/asso_opt/CUB/CUB_16shot_fac'
-concept_json = 'class2concepts_gemini.json'
+concept_json = 'class2concepts_gemini_new.json'

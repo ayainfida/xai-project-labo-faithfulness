@@ -1,12 +1,13 @@
-# LaBo
-Code for the CVPR 2023 paper ["Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification"](https://arxiv.org/abs/2211.11158)
+# Evaluating Visual Faithfulness in LLM-Based Concept Bottleneck Models
 
-## Set up environments
-We run our experiments using Python 3.9.13. You can install the required packages using:
+This project is based on the LaBo codebase from the CVPR 2023 paper ["Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification"](https://arxiv.org/abs/2211.11158).
 
-```
-conda create --name labo python=3.9.13
-conda activate labo
+## Set up environment
+We recommend Python 3.9.x and a virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 You need to modify the source code of Apricot to run the submodular optimization. See details [here](https://github.com/YueYANG1996/LaBo/issues/1).
@@ -22,11 +23,12 @@ You need to modify the source code of Apricot to run the submodular optimization
 	* Linear Probe: `models/linear_prob/linear_prob.py`
 	* LaBo: `models/asso_opt/asso_opt.py`
 	* concept selection functions: `models/select_concept/select_algo.py`
-* `output/`: the performance will be saved into `.txt` files stored in `output/`.
+* `output/`: text performance logs (e.g., accuracies) saved as `.txt` files.
+* `results/`: JSON faithfulness evaluation files (per-image and `_summary.json`) produced by `llava_score.py` and related analysis scripts.
 * Other files: 
 	* `data.py` and `data_lp.py` are the dataloaders for LaBo and Linear Probe, respectively.
 	* `main.py` is the interface to run all experiments, and `utils.py` contains the preprocess and feature extraction functions.
-	* `linear probe.sh` is the bash file to run the linear probe. `labo_train.sh` and a`labo_test.sh` are the bash file to train and test LaBo.
+	* `linear_probe.sh` is the bash script to run the linear probe. `labo_train.sh` and `labo_test.sh` are the bash scripts to train and test LaBo.
 
 ## Linear Probe
 To get the linear probe performance, just run:
@@ -53,18 +55,32 @@ The training logs will be uploaded to the `wandb`. You may need to set up your `
 ## LaBo Testing
 To get the test performance, use the model checkpoint and corresponding configs saved in `exp/asso_opt/{DATASET}/{DATASET}_{SHOT}shot_fac/` and run:
 
-```
+```bash
 sh labo_test.sh {CONFIG_PATH} {CHECKPOINT_PATH}
 ```
 The test accuracy will be printed to `output/asso_opt/{DATASET}.txt`.
 
-Please cite our paper if you find it useful!
+## LLaVA-based faithfulness scoring
+After training LaBo, you can run the LLaVA-based faithfulness audit with:
+
+```bash
+python llava_score.py \
+  --ckpt path/to/checkpoint.ckpt \
+  --split_file path/to/split.pkl \
+  --image_dir datasets/{DATASET}/images \
+  --save_path results/{DATASET}_faith.json \
+  --n_per_class 2 \
+  --top_k 5 \
+  --seed 42
 ```
-@inproceedings{yang2023language,
-  title={Language in a bottle: Language model guided concept bottlenecks for interpretable image classification},
-  author={Yang, Yue and Panagopoulou, Artemis and Zhou, Shenghao and Jin, Daniel and Callison-Burch, Chris and Yatskar, Mark},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={19187--19197},
-  year={2023}
-}
+
+This will create a JSON file with per-image faithfulness scores and a corresponding `{DATASET}_faith_summary.json` file with aggregate statistics in `results/`.
+
+## Computing FAITH@k
+Given the JSON produced by `llava_score.py`, you can compute **FAITH@k** statistics with:
+
+```bash
+python faith.py --input_json results/{DATASET}_faith.json
 ```
+
+This prints **FAITH@k** scores for k = 1, 2, 3, 4, 5.
